@@ -1,231 +1,247 @@
 {
-  "run_at": "2026-04-20T22:52:03.035877+00:00",
-  "new_count": 16,
+  "run_at": "2026-04-20T23:00:45.456092+00:00",
+  "new_count": 20,
   "errors": {},
   "jobs": [
     {
-      "source": "reliefweb",
-      "title": "COL_RFQ_BOG1_Servicio de Catering_20260420.",
-      "url": "https://reliefweb.int/job/4208417/colrfqbog1servicio-de-catering20260420",
-      "location": null,
-      "posted_at": "Mon, 20 Apr 2026 17:46:56 +0000",
+      "source": "idealist",
+      "title": "Marketing and Data Design Temporary Contract Worker",
+      "url": "https://www.idealist.org/en/nonprofit-job/3f3822c16b7840edacce40d33811fe84-marketing-and-data-design-temporary-contract-worker-american-sexual-health-association-asha-durham",
+      "location": "Remote",
+      "posted_at": null,
       "description": null,
-      "organization": "Danish Refugee Council",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "8e029342cbecd4870079641debce3c2a53f29625073ae93a080a7cb89956c660",
-      "seen_at": "2026-04-20T22:52:03.035942+00:00"
+      "organization": "American Sexual Health Association (ASHA)",
+      "raw": {},
+      "fingerprint": "08756e144ffe27dfbbbc72a853084b25cdcf0d8c135d268b85595e8f10c3387a",
+      "seen_at": "2026-04-20T23:00:45.456140+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Spanish-speaking Fuel Management Roster",
-      "url": "https://reliefweb.int/job/4208383/spanish-speaking-fuel-management-roster",
-      "location": null,
-      "posted_at": "Mon, 20 Apr 2026 13:50:59 +0000",
+      "source": "idealist",
+      "title": "Digital Engagement (STI Education) Temporary Contract Worker",
+      "url": "https://www.idealist.org/en/nonprofit-job/07c236ca454544c4968391b74a2dafbe-digital-engagement-sti-education-temporary-contract-worker-american-sexual-health-association-asha-durham",
+      "location": "Remote",
+      "posted_at": null,
       "description": null,
-      "organization": "CANADEM",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "60a6a30f32a4e17ac82e381c9186d434f2fa84f31173c31b94154db50f787d8e",
-      "seen_at": "2026-04-20T22:52:03.035968+00:00"
+      "organization": "American Sexual Health Association (ASHA)",
+      "raw": {},
+      "fingerprint": "388a9287f8866ab7b0a93d8331842ac036d2ed32b0d4d02ac42f73d776445c7e",
+      "seen_at": "2026-04-20T23:00:45.456156+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "External Consultant – Programme Quality Improvement Master Plan (PQI-MP)",
-      "url": "https://reliefweb.int/job/4208294/external-consultant-programme-quality-improvement-master-plan-pqi-mp",
-      "location": null,
-      "posted_at": "Mon, 20 Apr 2026 11:33:30 +0000",
+      "source": "idealist",
+      "title": "Special Project Attorney – Medicaid Access Strategy Hub",
+      "url": "https://www.idealist.org/en/nonprofit-job/e32a63efe0f3489289a0ea36c932ec9a-special-project-attorney-medicaid-access-strategy-hub-national-health-law-program-chapel-hill",
+      "location": "Remote",
+      "posted_at": null,
       "description": null,
-      "organization": "Christian Blind Mission",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "b458e521d33cead00ed61ecefd20f83cba924f2f58d226cce4c07491c45e675e",
-      "seen_at": "2026-04-20T22:52:03.035997+00:00"
+      "organization": "National Health Law Program",
+      "raw": {},
+      "fingerprint": "12e1a24b86e1cb8982a82898fdd3bab975770d60803365382f4cb05d6ae83bb8",
+      "seen_at": "2026-04-20T23:00:45.456173+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Land Release Technical Field Manager - Middle East",
-      "url": "https://reliefweb.int/job/4208146/land-release-technical-field-manager-middle-east",
-      "location": null,
-      "posted_at": "Mon, 20 Apr 2026 11:27:40 +0000",
+      "source": "unicef",
+      "title": "CON 18-2026 - Consultoria desarrollador de sistemas (Marketing Database Developer) - Acuerdo a Largo plazo (Buenos Aires) (24 meses)",
+      "url": "https://jobs.unicef.org/en-us/job/592510/con-182026-consultoria-desarrollador-de-sistemas-marketing-database-developer-acuerdo-a-largo-plazo-buenos-aires-24-meses",
+      "location": "con 182026 consultoria desarrollador de sistemas marketing database developer acuerdo a largo plazo buenos aires 24 meses",
+      "posted_at": null,
       "description": null,
-      "organization": "Handicap International - Humanity & Inclusion",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "ddc93cfe4d92076addc25098582337a853e3d616606cc2b3e673ade98f0406bb",
-      "seen_at": "2026-04-20T22:52:03.036014+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "85bfb374d9beca59312254f036ab7599b626f9b2ba24f9981148c3688ef679fa",
+      "seen_at": "2026-04-20T23:00:45.456183+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Final Evaluation of the UNESCO project \"Developing In-House Consulting Capacities in Austria, Belgium, the Czech Republic, France, Greece and Latvia.\"",
-      "url": "https://reliefweb.int/job/4207894/final-evaluation-unesco-project-developing-house-consulting-capacities-austria-belgium-czech-republic-france-greece-and-latvia",
-      "location": null,
-      "posted_at": "Fri, 17 Apr 2026 09:55:32 +0000",
+      "source": "unicef",
+      "title": "CON 13-2026 - Consultoría para seguimiento de Planes de Acción Municipales de Primera Infancia e implementación y monitoreo de proyecto de Salud Mental Adolescente (Buenos Aires) (7 meses)",
+      "url": "https://jobs.unicef.org/en-us/job/592460/con-132026-consultoría-para-seguimiento-de-planes-de-acción-municipales-de-primera-infancia-e-implementación-y-monitoreo-de-proyecto-de-salud-mental-adolescente-buenos-aires-7-meses",
+      "location": "con 132026 consultoría para seguimiento de planes de acción municipales de primera infancia e implementación y monitoreo de proyecto de salud mental adolescente buenos aires 7 meses",
+      "posted_at": null,
       "description": null,
-      "organization": "UN Educational, Scientific and Cultural Organization",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "5ca71202997fc1ed92ceb8fcd48903494707c679c8040899eac10551e6092932",
-      "seen_at": "2026-04-20T22:52:03.036032+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "5a5811cde47465d796551550a4f049cd420946ebbac0d7684115571dd9b6c53c",
+      "seen_at": "2026-04-20T23:00:45.456196+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Appel à consultance – Production de contenus médias storytelling (photo & vidéo)",
-      "url": "https://reliefweb.int/job/4208004/appel-consultance-production-de-contenus-medias-storytelling-photo-video",
-      "location": null,
-      "posted_at": "Fri, 17 Apr 2026 08:20:35 +0000",
+      "source": "unicef",
+      "title": "CON 16-2026 - Consultoría de asistencia técnica para la implementación de proyectos en el marco de la transformación digital educativa (Buenos Aires) (20 meses)",
+      "url": "https://jobs.unicef.org/en-us/job/592461/con-162026-consultoría-de-asistencia-técnica-para-la-implementación-de-proyectos-en-el-marco-de-la-transformación-digital-educativa-buenos-aires-20-meses",
+      "location": "con 162026 consultoría de asistencia técnica para la implementación de proyectos en el marco de la transformación digital educativa buenos aires 20 meses",
+      "posted_at": null,
       "description": null,
-      "organization": "Croix-Rouge luxembourgeoise",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "1793ebb29bc6b3f7028069937b3ba845a711d3a8a7932ab5e7d3e1a516230244",
-      "seen_at": "2026-04-20T22:52:03.036052+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "31a99cd39a1739e2d468ae7334749306fc5ca5a1abeb762042ab136b2a4fa05b",
+      "seen_at": "2026-04-20T23:00:45.456208+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Partnerships Consultant",
-      "url": "https://reliefweb.int/job/4207846/partnerships-consultant",
-      "location": null,
-      "posted_at": "Thu, 16 Apr 2026 14:03:09 +0000",
+      "source": "unicef",
+      "title": "CON 17-2026 - Consultoría en Desarrollo de Habilidades y Participación Adolescente (Buenos Aires) (20 meses)",
+      "url": "https://jobs.unicef.org/en-us/job/592462/con-172026-consultoría-en-desarrollo-de-habilidades-y-participación-adolescente-buenos-aires-20-meses",
+      "location": "con 172026 consultoría en desarrollo de habilidades y participación adolescente buenos aires 20 meses",
+      "posted_at": null,
       "description": null,
-      "organization": "Medair",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "63dc0c84a315cc41def717239ded20735e7d21c1e3682be755ec07604a508a12",
-      "seen_at": "2026-04-20T22:52:03.036096+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "2001832250814eb9378607f07f2375d97c1c625462552d3888b39f2e8d032026",
+      "seen_at": "2026-04-20T23:00:45.456219+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "UK-Med Register - Medical Doctor – Emergency Medicine",
-      "url": "https://reliefweb.int/job/4207782/uk-med-register-medical-doctor-emergency-medicine",
-      "location": null,
-      "posted_at": "Thu, 16 Apr 2026 11:27:57 +0000",
+      "source": "unicef",
+      "title": "CON 19-2026 - Consultoría para la brindar asistencia técnica a proyectos de alfabetización y gestión del conocimiento del área de Educación (Buenos Aires) (20 meses)",
+      "url": "https://jobs.unicef.org/en-us/job/592465/con-192026-consultoría-para-la-brindar-asistencia-técnica-a-proyectos-de-alfabetización-y-gestión-del-conocimiento-del-área-de-educación-buenos-aires-20-meses",
+      "location": "con 192026 consultoría para la brindar asistencia técnica a proyectos de alfabetización y gestión del conocimiento del área de educación buenos aires 20 meses",
+      "posted_at": null,
       "description": null,
-      "organization": "UK-Med",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "0f783ea63ee0929af28b869ded2a6258a3d121abddd62c4e6f532e36f6d74534",
-      "seen_at": "2026-04-20T22:52:03.036118+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "b12ecf051eb63ff8b28e472534e4c1428d87623be65efa9692ce6d45cb9970c0",
+      "seen_at": "2026-04-20T23:00:45.456230+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Interim Deputy Regional Director for Programs - MENAE",
-      "url": "https://reliefweb.int/job/4207783/interim-deputy-regional-director-programs-menae",
-      "location": null,
-      "posted_at": "Thu, 16 Apr 2026 09:41:01 +0000",
+      "source": "unicef",
+      "title": "Consultant(e) (national(e) ou international(e) en appui au renforcement des mécanismes d’éducation alternative pour insertion et la réinsertion des filles et des garçons dans un parcours éducatif, WCAR Bénin, 60 jours ouvrables",
+      "url": "https://jobs.unicef.org/en-us/job/592557/consultante-nationale-ou-internationale-en-appui-au-renforcement-des-mécanismes-déducation-alternative-pour-insertion-et-la-réinsertion-des-filles-et-des-garçons-dans-un-parcours-éducatif-wcar-bénin-60-jours-ouvrables",
+      "location": "consultante nationale ou internationale en appui au renforcement des mécanismes déducation alternative pour insertion et la réinsertion des filles et des garçons dans un parcours éducatif wcar bénin 60 jours ouvrables",
+      "posted_at": null,
       "description": null,
-      "organization": "Mercy Corps",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "6a851fa5c1ec292f59f27c58c59c957d4fad11c8a9d429e9c0f5e6dd85b927f6",
-      "seen_at": "2026-04-20T22:52:03.036134+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "b4d1678f66708e1571b53a8fc3d5b597359af1a370c0793b57b88661f87ba0f5",
+      "seen_at": "2026-04-20T23:00:45.456244+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Programmes Administrative Support Intern",
-      "url": "https://reliefweb.int/job/4207764/programmes-administrative-support-intern",
-      "location": null,
-      "posted_at": "Thu, 16 Apr 2026 08:56:19 +0000",
+      "source": "unicef",
+      "title": "Consultant(e) national(e) ou international(e) pour la définition et la formulation du paquet holistiques et multisectorielles pour une scolarité complète et de qualité des filles jusqu’à la fin du 1er cycle du secondaire général, WCAR Bénin, 45 jours",
+      "url": "https://jobs.unicef.org/en-us/job/592560/consultante-nationale-ou-internationale-pour-la-définition-et-la-formulation-du-paquet-holistiques-et-multisectorielles-pour-une-scolarité-complète-et-de-qualité-des-filles-jusquà-la-fin-du-1er-cycle-du-secondaire-général-wcar-bénin-45-jours",
+      "location": "consultante nationale ou internationale pour la définition et la formulation du paquet holistiques et multisectorielles pour une scolarité complète et de qualité des filles jusquà la fin du 1er cycle du secondaire général wcar bénin 45 jours",
+      "posted_at": null,
       "description": null,
-      "organization": "Urgent Action Fund-Africa",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "aa9c83f3c4e02b90b7ff241b969b284abafec34173c73fcd95ecd0feb1d064b8",
-      "seen_at": "2026-04-20T22:52:03.036149+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "996d8125fd9b80b85c7b21766d4f37911b4cc2c29c7775be7fa99416500cd7a8",
+      "seen_at": "2026-04-20T23:00:45.456258+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Equal Rights Coalition Secretariat lead",
-      "url": "https://reliefweb.int/job/4207755/equal-rights-coalition-secretariat-lead",
-      "location": null,
-      "posted_at": "Thu, 16 Apr 2026 08:54:59 +0000",
+      "source": "unicef",
+      "title": "Communication Officer, (NO-2) WCARO Dakar, Senegal #022151",
+      "url": "https://jobs.unicef.org/en-us/job/592567/communication-officer-no2-wcaro-dakar-senegal-022151",
+      "location": "communication officer no2 wcaro dakar senegal 022151",
+      "posted_at": null,
       "description": null,
-      "organization": "ILGA World",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "7d6b35964b3a333b92ada21a94f4d623fa0ac99ad1083f79a8fa2f5ad6f55520",
-      "seen_at": "2026-04-20T22:52:03.036165+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "0cd7b6090c1f7fee0077e986fa45130896f1c5ea801a5b2fa93b817d992ded1f",
+      "seen_at": "2026-04-20T23:00:45.456265+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Director of Operations",
-      "url": "https://reliefweb.int/job/4206211/director-operations",
-      "location": null,
-      "posted_at": "Thu, 16 Apr 2026 07:19:22 +0000",
+      "source": "unicef",
+      "title": "Child Protection Officer (Child Protection in Emergencies), NO-2, Fixed Term, post #00118706, Juba, South Sudan, ESAR",
+      "url": "https://jobs.unicef.org/en-us/job/592564/child-protection-officer-child-protection-in-emergencies-no2-fixed-term-post-00118706-juba-south-sudan-esar",
+      "location": "child protection officer child protection in emergencies no2 fixed term post 00118706 juba south sudan esar",
+      "posted_at": null,
       "description": null,
-      "organization": "Tearfund",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "71e05d03b54b29f3d2d0e6c6549534fa0be3fce36bbce6459a9ce8580b8072c4",
-      "seen_at": "2026-04-20T22:52:03.036180+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "e06176f1569b9b33c4891dcbedb5474c890ef484b2a9f99c5a09d0ff4d67a5da",
+      "seen_at": "2026-04-20T23:00:45.456274+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Proposal Writers Network (PWN)",
-      "url": "https://reliefweb.int/job/4207479/proposal-writers-network-pwn",
+      "source": "unicef",
+      "title": "Child Protection System Strengthening in Humanitarian Action Consultancy,GPD-Child Protection, CoE, Nairobi, (Remote) #592526",
+      "url": "https://jobs.unicef.org/en-us/job/592526/child-protection-system-strengthening-in-humanitarian-action-consultancygpdchild-protection-coe-nairobi-remote-592526",
       "location": null,
-      "posted_at": "Wed, 15 Apr 2026 08:05:01 +0000",
+      "posted_at": null,
       "description": null,
-      "organization": "Altamont Group",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "6e52c41697faa5143f17ae31155b9d00dcac1b281fe4a50bc980cf3e14d767d3",
-      "seen_at": "2026-04-20T22:52:03.036194+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "e4babbc3aa4e5853faad0fbc4b4a03990926fb97d4846aebac6ef79581377181",
+      "seen_at": "2026-04-20T23:00:45.456282+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Business Development Manager",
-      "url": "https://reliefweb.int/job/4207432/business-development-manager",
+      "source": "unicef",
+      "title": "Development of child-centered municipal contingency plans Consultant, Boa Vista (remote), Roraima, Brazil, [6 months]",
+      "url": "https://jobs.unicef.org/en-us/job/592575/development-of-childcentered-municipal-contingency-plans-consultant-boa-vista-remote-roraima-brazil-6-months",
       "location": null,
-      "posted_at": "Wed, 15 Apr 2026 07:58:12 +0000",
+      "posted_at": null,
       "description": null,
-      "organization": "Jouri Research & Consultancy",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "3655f5d4c0ba6f88e4a9afbff4c41996245e9410bf300e35d470f87ccbdbd9ec",
-      "seen_at": "2026-04-20T22:52:03.036209+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "896d097061bbccc225d87cbd355b4c76e72e839ba7bc98987616a4d39198974a",
+      "seen_at": "2026-04-20T23:00:45.456290+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Project Manager",
-      "url": "https://reliefweb.int/job/4207431/project-manager",
+      "source": "unicef",
+      "title": "West and Central Africa (WCAR) Multisectoral Mental Health and Psychosocial Support (MHPSS) consultant, CoE, Nairobi,Remote, # 592532",
+      "url": "https://jobs.unicef.org/en-us/job/592532/west-and-central-africa-wcar-multisectoral-mental-health-and-psychosocial-support-mhpss-consultant-coe-nairobiremote-592532",
       "location": null,
-      "posted_at": "Wed, 15 Apr 2026 07:55:34 +0000",
+      "posted_at": null,
       "description": null,
-      "organization": "Jouri Research & Consultancy",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "94fe5e7c43cb5a5a9cecf2658582c4500cc850a7cbe330f93654572b4ba1bdf9",
-      "seen_at": "2026-04-20T22:52:03.036224+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "0e8f9527f6e316103bae396aa85cba17a281ed51377c013572143ccccf7c9559",
+      "seen_at": "2026-04-20T23:00:45.456297+00:00"
     },
     {
-      "source": "reliefweb",
-      "title": "Terms of Reference: EU SEE Mid Term Evaluation",
-      "url": "https://reliefweb.int/job/4207343/terms-reference-eu-see-mid-term-evaluation",
-      "location": null,
-      "posted_at": "Tue, 14 Apr 2026 13:13:43 +0000",
+      "source": "unicef",
+      "title": "Immunization Officer, NO-2, Fixed Term Position, Antananarivo, Madagascar, #00100585",
+      "url": "https://jobs.unicef.org/en-us/job/592555/immunization-officer-no2-fixed-term-position-antananarivo-madagascar-00100585",
+      "location": "immunization officer no2 fixed term position antananarivo madagascar 00100585",
+      "posted_at": null,
       "description": null,
-      "organization": "Hivos",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "26ad43799f2c3b31083e503557f13624db36220d0d7be96b4948508af37be4a6",
-      "seen_at": "2026-04-20T22:52:03.036238+00:00"
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "591529247834779c43f30016ee57dadc1170ffba175600e4134eaa5caaeddfb9",
+      "seen_at": "2026-04-20T23:00:45.456305+00:00"
+    },
+    {
+      "source": "idb",
+      "title": "IDB Invest - Development Impact Director - Real Sector Operations",
+      "url": "https://jobs.iadb.org/job/IDB-Invest-Development-Impact-Director-Real-Sector-Operations/2757-en_US",
+      "location": "Paraguay Asuncion , Belize Belize City , Colombia Bogotá , Argentina Buenos Aires , Barbados Christ Church , Guyana Georgetown , Guatemala Guatemala City , Jamaica Kingston , Bolivia (Plurinational State of) La Paz , Peru Lima , Mexico Mexico City , Uruguay Montevideo , Bahamas Nassau , Panama Panamá , Sur",
+      "posted_at": null,
+      "description": null,
+      "organization": "Inter-American Development Bank",
+      "raw": {},
+      "fingerprint": "0e7d32410fd6b987f4b9ec1d31f34d15e312f64fc81b0a76cd65660934b36519",
+      "seen_at": "2026-04-20T23:00:45.456313+00:00"
+    },
+    {
+      "source": "idb",
+      "title": "IT Risk Senior Associate",
+      "url": "https://jobs.iadb.org/job/IT-Risk-Senior-Associate/2863-en_US",
+      "location": "Paraguay Asuncion , Belize Belize City , Colombia Bogotá , Brazil Brasilia , Argentina Buenos Aires , Haiti , Barbados Christ Church , Guyana Georgetown , Guatemala Guatemala City , Jamaica Kingston , Bolivia (Plurinational State of) La Paz , Peru Lima , Nicaragua Managua , Mexico Mexico City , Uruguay Montevideo , Panama Panamá , Trinidad and Tob",
+      "posted_at": null,
+      "description": null,
+      "organization": "Inter-American Development Bank",
+      "raw": {},
+      "fingerprint": "8b625a51c53fc0216e78699f08c6345be8281059162185ec39dec3db33291fea",
+      "seen_at": "2026-04-20T23:00:45.456321+00:00"
+    },
+    {
+      "source": "idb",
+      "title": "PEC Consultant - Technical Tourism, Portfolio Management Support",
+      "url": "https://jobs.iadb.org/job/PEC-Consultant-Technical-Tourism%2C-Portfolio-Management-Support/2855-en_US",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "Inter-American Development Bank",
+      "raw": {},
+      "fingerprint": "a6a2c4eb22f496c7c2460fbd8892855888e88a76039acd05e09b8cc8ca4650de",
+      "seen_at": "2026-04-20T23:00:45.456328+00:00"
+    },
+    {
+      "source": "idb",
+      "title": "PEC Consultant - Inclusive Growth Index Framework",
+      "url": "https://jobs.iadb.org/job/PEC-Consultant-Inclusive-Growth-Index-Framework/2871-en_US",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "Inter-American Development Bank",
+      "raw": {},
+      "fingerprint": "2aded3f47ed86350109fae7b099680f104e9add94ee0031916d41fadfa0ec632",
+      "seen_at": "2026-04-20T23:00:45.456335+00:00"
     }
   ]
 }
