@@ -74,7 +74,9 @@ def run(only: list[str] | None = None) -> int:
 
     print(f"\n=== DONE: {len(all_new)} new jobs, {len(errors)} adapter errors ===")
     print(f"wrote {json_path.name} and {md_path.name}")
-    return 0 if not errors else 1
+    # Individual adapter errors are recorded in the output JSON and logs;
+    # they should not prevent the DB + snapshot from being committed.
+    return 0
 
 
 def main():
