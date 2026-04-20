@@ -1,103 +1,127 @@
 {
-  "run_at": "2026-04-20T23:35:23.037503+00:00",
-  "new_count": 8,
+  "run_at": "2026-04-20T23:45:24.613405+00:00",
+  "new_count": 10,
   "errors": {},
   "jobs": [
     {
+      "source": "idealist",
+      "title": "Account Manager, Signature Events",
+      "url": "https://www.idealist.org/en/nonprofit-job/60ed07c8c665435c90361dd463190c74-account-manager-signature-events-muscular-dystrophy-association-chicago",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "Muscular Dystrophy Association",
+      "raw": {},
+      "fingerprint": "20abaf2e67ffacf737a4c61a42f668b0d78b09abe9261693b6efb976b6d75078",
+      "seen_at": "2026-04-20T23:45:24.613463+00:00"
+    },
+    {
+      "source": "idealist",
+      "title": "Managing Director - Chicago",
+      "url": "https://www.idealist.org/en/nonprofit-job/bd969ab8fcaa40149076ebc9243e2ef9-managing-director-chicago-compass-pro-bono-chicago",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "Compass Pro Bono",
+      "raw": {},
+      "fingerprint": "3fda6102729cf0a4e213649f9d64c8404cafe6ed47ccb30ef9c95e5ea323c5a6",
+      "seen_at": "2026-04-20T23:45:24.613481+00:00"
+    },
+    {
       "source": "emb-usa",
       "title": "CDC Technical Advisor (All Interested Applicants - All Sources)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=muflnthrpt0&returnToSearch=true&jnum=73094&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=rnv4swhrpt0&returnToSearch=true&jnum=73094&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "90a32a5bad6a5289a461c025d3875c4c578d9d5b96de28dae46e9b6baf98d0a4",
-      "seen_at": "2026-04-20T23:35:23.037559+00:00"
+      "fingerprint": "caddac7c1f9f32a6c5b1ad2bef3013fd4876184d55d0ffb1665b38c5cefc9296",
+      "seen_at": "2026-04-20T23:45:24.613493+00:00"
     },
     {
       "source": "emb-usa",
       "title": "HVAC Maintenance Worker - Open to All Interested Candidates (Técnico en Refrigeración/Calefacción)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=muflnthrpt0&returnToSearch=true&jnum=73054&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=rnv4swhrpt0&returnToSearch=true&jnum=73054&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "a4b32192aa8c1a511c7cf58359354a8e6f75a6024a692e0d7d7678ba2f26c0b6",
-      "seen_at": "2026-04-20T23:35:23.037595+00:00"
+      "fingerprint": "49e4a9fc30fe9f45ab0b75837b2b445687b1486ce82ed1a9f520a42da064b7dd",
+      "seen_at": "2026-04-20T23:45:24.613507+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=muflnthrpt0&returnToSearch=true&jnum=73541&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=rnv4swhrpt0&returnToSearch=true&jnum=73541&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "4eb17c4d4c4eff7834b73c545920290f3d6bdc8af4c1a6b66e4c82a899dbc632",
-      "seen_at": "2026-04-20T23:35:23.037616+00:00"
+      "fingerprint": "07377fe75b2b86274976fcb9c8cb0ecee5c58b0b1ecea24736354fa4bfe7fa32",
+      "seen_at": "2026-04-20T23:45:24.613516+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=muflnthrpt0&returnToSearch=true&jnum=73817&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=rnv4swhrpt0&returnToSearch=true&jnum=73817&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "81b7a12eeae29315141d7ad46b571718cdae328a59d6ad68164b3737618aec02",
-      "seen_at": "2026-04-20T23:35:23.037634+00:00"
+      "fingerprint": "a50e8d6cc474017001c92147ed86692421ff4e224cd2b812bd5d66ce669fcb29",
+      "seen_at": "2026-04-20T23:45:24.613524+00:00"
     },
     {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev d9f93ed613e0",
+      "title": "[check page] Embassy of Sweden Argentina — rev c7d2bd3cfb02",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "4181d0a3c37fd68aef73ba03cc1aaa8d7f6dc04556ea5c3d7071a979fab6b63f",
-      "seen_at": "2026-04-20T23:35:23.037654+00:00"
+      "fingerprint": "2e92c8dd611755de8d92b26bd12d9d579b4918cc20dfb371873ce209c5e469f2",
+      "seen_at": "2026-04-20T23:45:24.613535+00:00"
+    },
+    {
+      "source": "watch-emb-turkey",
+      "title": "[check page] Embassy of Türkiye Argentina — rev 6fe970f6d356",
+      "url": "https://buenosaires-emb.mfa.gov.tr/Mission/Announcements",
+      "location": "Argentina",
+      "posted_at": null,
+      "description": "REPÚBLICA DE TÜRKİYE EMBAJADA DE LA REPÚBLICA DE TÜRKİYE EN BUENOS AIRES Anasayfa Embajada Embajada Anuncios Discursos Embajadores anteriores Notas informativas Trámites consulares Contacto Español Türkçe Español Randevu Al Türk Vatandaşları İçin Konsolosluk İşlemleri Yabancılar İçin Vize Ön Başvuru Randevu Sorgula Randevu İptal/Sorgula Türk Vatandaşları için Randevu Sorgulama Yabancılar için Vize",
+      "organization": "Embassy of Türkiye Argentina",
+      "raw": {},
+      "fingerprint": "b3d345bec426e53a002965613c5b56db106c991127c37f7611315a91c11184b0",
+      "seen_at": "2026-04-20T23:45:24.613545+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev 025901b85266",
+      "title": "[check page] Embassy of Japan Argentina — rev 5c35b827b97b",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.a5f4d517.1776728093.3abc4fca https://errors.edgesuite.net/18.a5f4d517.1776728093.3abc4fca",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.2d51db17.1776728714.7466074b https://errors.edgesuite.net/18.2d51db17.1776728714.7466074b",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "6d1ad19103078e24c85d37f0426acc0ee6f7d05fdeae4f247c330b9498c92bed",
-      "seen_at": "2026-04-20T23:35:23.037674+00:00"
-    },
-    {
-      "source": "watch-emb-korea",
-      "title": "[check page] Embassy of Korea Argentina — rev 8e731ef5e446",
-      "url": "https://www.mofa.go.kr/ar-es/brd/m_6289/list.do",
-      "location": "Argentina",
-      "posted_at": null,
-      "description": "바로가기 메뉴 본문 바로가기 주메뉴 바로가기 MOFA Presidential Office SNS Embajada facebook instagram youtube X Español Español coreano Embajada de la República de Corea en Argentina POPUP 0 Español coreano Presentación Actividades del Embajador Avisos Ubicación y Contacto Saludos del Embajador Asuntos Consulares/Visado Solicitud de Visado Asuntos Consulares Relaciones Bilaterales Relaciones Bilaterales Sobre Corea ",
-      "organization": "Embassy of Korea Argentina",
-      "raw": {},
-      "fingerprint": "2245a584cee8f6b55c54dc39280da72bdac00f99782794cbf1805644f0c6ef97",
-      "seen_at": "2026-04-20T23:35:23.037699+00:00"
+      "fingerprint": "0cf315d9822e5f2b9de0106a7a8e5266c7edd0626f1b2c21a46bfb67c164aff7",
+      "seen_at": "2026-04-20T23:45:24.613555+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev ba31856f92a2",
+      "title": "[check page] Embassy of Greece Argentina — rev e267cfefe717",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.c45ed617.1776728122.6813a061 https://errors.edgesuite.net/18.c45ed617.1776728122.6813a061",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.4c083217.1776728723.ae31c11 https://errors.edgesuite.net/18.4c083217.1776728723.ae31c11",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "81ce11362ef93f2d87d7a3e7facebd99b3418b0ba526a546caaf60f1af4d8c0a",
-      "seen_at": "2026-04-20T23:35:23.037721+00:00"
+      "fingerprint": "d3ff7f8658281ab6278876f326e4136fe7e55b9475b6fe758b259a1f10d71a78",
+      "seen_at": "2026-04-20T23:45:24.613565+00:00"
     }
   ]
 }
