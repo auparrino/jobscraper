@@ -10,9 +10,11 @@ from ..models import JobPosting
 # Solution: use Playwright to request the feed — real browser fingerprint
 # passes through.
 FEEDS = [
+    # Argentina country filter (advanced-search code C22 = Argentina).
     ("argentina", "https://reliefweb.int/jobs/rss.xml?advanced-search=%28C22%29"),
-    ("home-based", "https://reliefweb.int/jobs/rss.xml?search=home-based"),
-    ("remote",     "https://reliefweb.int/jobs/rss.xml?search=remote"),
+    # ReliefWeb's dedicated "Remote / Roster / Roving" curated list — real
+    # remote roles, not text-search hits.
+    ("remote",    "https://reliefweb.int/jobs/rss.xml?list=Remote%20%2F%20Roster%20%2F%20Roving&view=unspecified-location"),
 ]
 
 
