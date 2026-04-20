@@ -17,7 +17,11 @@ FEEDS = [
 ]
 
 HEADERS = {
-    "User-Agent": "jobscraper-ar/1.0 (+https://github.com/auparrino/jobscraper)",
+    # Generic UA: ReliefWeb returns HTTP 202 with empty body to non-browser UAs.
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+    "Accept-Language": "en;q=0.9,es;q=0.8",
 }
 
 
@@ -68,8 +72,11 @@ class ReliefWebAdapter(Adapter):
                 except httpx.HTTPError as e:
                     print(f"[reliefweb] error fetching {tag} ({url}): {e}")
                     continue
+                if r.status_code == 202 or not r.text.strip():
+                    print(f"[reliefweb] {tag}: empty/queued response (status {r.status_code}) — skipping")
+                    continue
                 parsed = self._parse(r.text, tag)
-                print(f"[reliefweb] {tag}: status={r.status_code} len={len(r.text)} items={len(parsed)}")
+                print(f"[reliefweb] {tag}: status={r.status_code} items={len(parsed)}")
                 for p in parsed:
                     results.setdefault(p.fingerprint, p)
         return list(results.values())
