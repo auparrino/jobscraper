@@ -1,29 +1,19 @@
-import time
-import httpx
 from bs4 import BeautifulSoup
 
 from .base import Adapter
 from ..models import JobPosting
 
 
-# ReliefWeb API v1 was decommissioned; v2 requires an approved appname (manual
-# registration). RSS feeds are public and stable. We use two feeds:
-#   - Argentina country feed (advanced-search C22 = Argentina)
-#   - a text-search feed for home-based / remote roles
-# Feed URL pattern: https://reliefweb.int/jobs/rss.xml?<filters>
+# ReliefWeb API v1 was decommissioned; v2 requires a registered appname.
+# RSS feeds are public and stable when hit from a browser, but their edge
+# returns HTTP 202 with empty body to datacenter IPs (GH Actions, etc.).
+# Solution: use Playwright to request the feed — real browser fingerprint
+# passes through.
 FEEDS = [
     ("argentina", "https://reliefweb.int/jobs/rss.xml?advanced-search=%28C22%29"),
     ("home-based", "https://reliefweb.int/jobs/rss.xml?search=home-based"),
     ("remote",     "https://reliefweb.int/jobs/rss.xml?search=remote"),
 ]
-
-HEADERS = {
-    # Generic UA: ReliefWeb returns HTTP 202 with empty body to non-browser UAs.
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
-    "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
-    "Accept-Language": "en;q=0.9,es;q=0.8",
-}
 
 
 class ReliefWebAdapter(Adapter):
@@ -37,7 +27,6 @@ class ReliefWebAdapter(Adapter):
             url = (item.link.text if item.link else "").strip()
             pub = (item.pubDate.text if item.pubDate else None)
             desc_html = (item.description.text if item.description else "")
-            # Description HTML contains the org + country + city in <p>Country: ...</p>
             meta_soup = BeautifulSoup(desc_html, "lxml")
             text = meta_soup.get_text("\n", strip=True)
             location = None
@@ -64,29 +53,37 @@ class ReliefWebAdapter(Adapter):
         return out
 
     def fetch(self) -> list[JobPosting]:
+        from playwright.sync_api import sync_playwright
+
         results: dict[str, JobPosting] = {}
-        with httpx.Client(timeout=30, headers=HEADERS, follow_redirects=True) as client:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            ctx = browser.new_context(
+                user_agent=(
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+                ),
+                locale="en-US",
+            )
+            # Playwright's APIRequestContext uses the browser stack (TLS, HTTP/2,
+            # ALPN), which is enough to bypass the 202 edge protection.
+            req = ctx.request
             for tag, url in FEEDS:
-                # ReliefWeb occasionally responds 202 with empty body when their
-                # edge is warming the feed — retry a few times with backoff.
-                r = None
-                for attempt in range(4):
-                    try:
-                        r = client.get(url)
-                    except httpx.HTTPError as e:
-                        print(f"[reliefweb] {tag}: network error attempt {attempt+1}: {e}")
-                        r = None
-                        time.sleep(2 ** attempt)
-                        continue
-                    if r.status_code == 200 and r.text.strip():
-                        break
-                    print(f"[reliefweb] {tag}: status={r.status_code} len={len(r.text)} — retry {attempt+1}/4")
-                    time.sleep(2 ** attempt)
-                if not r or r.status_code != 200 or not r.text.strip():
-                    print(f"[reliefweb] {tag}: gave up after retries")
+                try:
+                    resp = req.get(url, timeout=30_000)
+                except Exception as e:
+                    print(f"[reliefweb] {tag}: request error: {e}")
                     continue
-                parsed = self._parse(r.text, tag)
-                print(f"[reliefweb] {tag}: status={r.status_code} items={len(parsed)}")
-                for p in parsed:
-                    results.setdefault(p.fingerprint, p)
+                if resp.status != 200:
+                    print(f"[reliefweb] {tag}: status={resp.status} — skipping")
+                    continue
+                body = resp.text()
+                if not body.strip():
+                    print(f"[reliefweb] {tag}: empty body — skipping")
+                    continue
+                parsed = self._parse(body, tag)
+                print(f"[reliefweb] {tag}: status=200 items={len(parsed)}")
+                for p_ in parsed:
+                    results.setdefault(p_.fingerprint, p_)
+            browser.close()
         return list(results.values())
