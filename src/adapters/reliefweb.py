@@ -68,6 +68,8 @@ class ReliefWebAdapter(Adapter):
                 except httpx.HTTPError as e:
                     print(f"[reliefweb] error fetching {tag} ({url}): {e}")
                     continue
-                for p in self._parse(r.text, tag):
+                parsed = self._parse(r.text, tag)
+                print(f"[reliefweb] {tag}: status={r.status_code} len={len(r.text)} items={len(parsed)}")
+                for p in parsed:
                     results.setdefault(p.fingerprint, p)
         return list(results.values())
