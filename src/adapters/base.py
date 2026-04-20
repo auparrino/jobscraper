@@ -8,8 +8,12 @@ REMOTE_KEYWORDS = (
 )
 
 AR_KEYWORDS = (
-    "argentina", "buenos aires", "baires", "ar ", " ar,", "ar)",
-    "cordoba", "rosario", "mendoza",
+    # Unambiguous substrings only. "ar " / "ar," / "ar)" were removed because
+    # they match "madagascar", "qatar", etc. Cordoba/Rosario/Mendoza are also
+    # too ambiguous (other countries have same-named cities).
+    "argentina",
+    "buenos aires",
+    "baires",
 )
 
 
