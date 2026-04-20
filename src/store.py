@@ -61,5 +61,25 @@ class Store:
         self.conn.commit()
         return new_jobs
 
+    def active_jobs(self, max_days_stale: int = 14) -> list[dict]:
+        """Return all jobs last seen within max_days_stale days.
+
+        Older rows stay in the DB for dedup across time but are treated as
+        closed postings for UI purposes.
+        """
+        from datetime import timedelta
+        cutoff = (datetime.now(timezone.utc) - timedelta(days=max_days_stale)).isoformat()
+        cur = self.conn.cursor()
+        cur.execute(
+            """SELECT fingerprint, source, title, url, location, posted_at,
+                      organization, description, first_seen_at, last_seen_at
+               FROM jobs
+               WHERE last_seen_at >= ?
+               ORDER BY first_seen_at DESC""",
+            (cutoff,),
+        )
+        cols = [c[0] for c in cur.description]
+        return [dict(zip(cols, row)) for row in cur.fetchall()]
+
     def close(self):
         self.conn.close()

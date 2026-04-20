@@ -56,7 +56,7 @@ jobs:
         run: |
           git config user.name "jobscraper-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add -f data/jobs.db data/new_jobs_latest.json data/new_jobs_latest.md || true
+          git add -f data/jobs.db data/new_jobs_latest.json data/new_jobs_latest.md docs/data.json || true
           if ! git diff --cached --quiet; then
             git commit -m "scrape: $(date -u +%Y-%m-%dT%H:%MZ)"
             git push

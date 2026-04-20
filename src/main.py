@@ -12,6 +12,7 @@ from .models import JobPosting
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
+DOCS = ROOT / "docs"
 
 
 def render_markdown(new_jobs: list[JobPosting]) -> str:
@@ -52,7 +53,22 @@ def run(only: list[str] | None = None) -> int:
             traceback.print_exc()
             errors[adapter.name] = str(e)
 
+    active = store.active_jobs(max_days_stale=14)
     store.close()
+
+    DOCS.mkdir(exist_ok=True)
+    portal_payload = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "new_count": len(all_new),
+        "active_count": len(active),
+        "errors": errors,
+        "new_fingerprints": [j.fingerprint for j in all_new],
+        "jobs": active,
+    }
+    (DOCS / "data.json").write_text(
+        json.dumps(portal_payload, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
 
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     json_path = DATA / f"new_jobs_{stamp}.json"
