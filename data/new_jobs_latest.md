@@ -1,26 +1,25 @@
-# 9 ofertas nuevas
+# 8 ofertas nuevas
 
 
-## idealist (5)
+## emb-usa (4)
 
-- [Head of Community](https://www.idealist.org/en/nonprofit-job/b23ec9f4637a4b43b5145ed1b80dca80-head-of-community-technovation-menlo-park) — Technovation · Remote
-- [Fundraising Partnerships Manager](https://www.idealist.org/en/nonprofit-job/6b0173ce43f44d94ad80b912563b67c4-fundraising-partnerships-manager-technovation-menlo-park) — Technovation · Remote
-- [Manager, Institutional Giving](https://www.idealist.org/en/nonprofit-job/4004c029e8f0486f8ed26b370a9019c7-manager-institutional-giving-promise-venture-studio-palo-alto) — Promise Venture Studio · Remote
-- [Digital Marketing Manager](https://www.idealist.org/en/nonprofit-job/4a1c3387081a4b83af68eb5dc3e4b155-digital-marketing-manager-technovation-menlo-park) — Technovation · Remote
-- [Manager, Partner Relations](https://www.idealist.org/en/nonprofit-job/814157f2f57d4337b4bab0dd43d837ca-manager-partner-relations-benetech-palo-alto) — Benetech · Remote
+- [CDC Technical Advisor (All Interested Applicants - All Sources)](https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=muflnthrpt0&returnToSearch=true&jnum=73094&orgId=64) — U.S. Embassy Buenos Aires · Buenos Aires, Argentina
+- [HVAC Maintenance Worker - Open to All Interested Candidates (Técnico en Refrigeración/Calefacción)](https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=muflnthrpt0&returnToSearch=true&jnum=73054&orgId=64) — U.S. Embassy Buenos Aires · Buenos Aires, Argentina
+- [Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)](https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=muflnthrpt0&returnToSearch=true&jnum=73541&orgId=64) — U.S. Embassy Buenos Aires · Buenos Aires, Argentina
+- [Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)](https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=muflnthrpt0&returnToSearch=true&jnum=73817&orgId=64) — U.S. Embassy Buenos Aires · Buenos Aires, Argentina
 
-## watch-emb-australia (1)
+## watch-emb-greece (1)
 
-- [[check page] Australian Embassy Argentina — rev df082bf1e07d](https://argentina.embassy.gov.au/baircastellano/jobopportunities.html) — Australian Embassy Argentina · Argentina
+- [[check page] Embassy of Greece Argentina — rev ba31856f92a2](https://www.mfa.gr/missionsabroad/es/argentina.html) — Embassy of Greece Argentina · Argentina
 
-## watch-emb-ireland (1)
+## watch-emb-japan (1)
 
-- [[check page] Embassy of Ireland Argentina — rev 4c1873c20073](https://www.ireland.ie/en/argentina/buenosaires/about/job-opportunities/) — Embassy of Ireland Argentina · Argentina
+- [[check page] Embassy of Japan Argentina — rev 025901b85266](https://www.ar.emb-japan.go.jp/itprtop_es/index.html) — Embassy of Japan Argentina · Argentina
 
-## watch-emb-norway (1)
+## watch-emb-korea (1)
 
-- [[check page] Embassy of Norway Argentina — rev def07414ef7b](https://www.norway.no/es/argentina/) — Embassy of Norway Argentina · Argentina
+- [[check page] Embassy of Korea Argentina — rev 8e731ef5e446](https://www.mofa.go.kr/ar-es/brd/m_6289/list.do) — Embassy of Korea Argentina · Argentina
 
 ## watch-emb-sweden (1)
 
-- [[check page] Embassy of Sweden Argentina — rev ab14980157bb](https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/) — Embassy of Sweden Argentina · Argentina
+- [[check page] Embassy of Sweden Argentina — rev d9f93ed613e0](https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/) — Embassy of Sweden Argentina · Argentina
