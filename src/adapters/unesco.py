@@ -33,7 +33,20 @@ class UNESCOAdapter(Adapter):
             for url in SEARCH_URLS:
                 try:
                     page.goto(url, wait_until="networkidle", timeout=60000)
-                    page.wait_for_selector('a[href*="/job/"]', timeout=20000)
+                    # UNESCO's Taleo build hides the list until cookies are
+                    # accepted. Try a few common accept buttons.
+                    for sel in (
+                        'button:has-text("Accept")',
+                        'button:has-text("Accept all")',
+                        'button:has-text("Aceptar")',
+                    ):
+                        try:
+                            page.locator(sel).first.click(timeout=1500)
+                            page.wait_for_load_state("networkidle", timeout=8000)
+                            break
+                        except Exception:
+                            pass
+                    page.wait_for_selector('a[href*="/job/"]', timeout=25000)
                 except Exception as e:
                     print(f"[unesco] nav error {url}: {e}")
                     continue

@@ -40,7 +40,7 @@ WATCH_PAGES: list[tuple[str, str, str, str | None]] = [
     ("emb-japan", "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
      "Embassy of Japan Argentina", None),
     ("emb-turkey", "https://buenosaires-emb.mfa.gov.tr/Mission/Announcements",
-     "Embassy of Türkiye Argentina", "main, .content, article"),
+     "Embassy of Türkiye Argentina", None),
     ("emb-korea", "https://www.mofa.go.kr/ar-es/brd/m_6289/list.do",
      "Embassy of Korea Argentina", "main, .board, .content"),
     ("emb-greece", "https://www.mfa.gr/missionsabroad/es/argentina.html",

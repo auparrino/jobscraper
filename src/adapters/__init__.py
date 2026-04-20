@@ -32,8 +32,11 @@ ALL_ADAPTERS = [
     ILOAdapter(),
     UNESCOAdapter(),
     FAOAdapter(),
-    IOMAdapter(),
-    CAFAdapter(),
+    # IOMAdapter — disabled: all known recruit.iom.int / iom.int endpoints
+    # return 403 (Akamai block) or "wrong url". Re-enable once a working
+    # public endpoint is found.
+    # CAFAdapter — disabled: caf.com returns a 103-byte Cloudflare challenge
+    # from both httpx and Playwright. Needs a proxy or different endpoint.
     # Tier 3 — embassies (structured job boards)
     EmbassyUKAdapter(),
     EmbassyCanadaAdapter(),
