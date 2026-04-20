@@ -1,497 +1,231 @@
 {
-  "run_at": "2026-04-20T22:49:04.053611+00:00",
-  "new_count": 35,
+  "run_at": "2026-04-20T22:52:03.035877+00:00",
+  "new_count": 16,
   "errors": {},
   "jobs": [
     {
       "source": "reliefweb",
-      "title": "Consultant for Developing an Awareness-Raising Toolkit on LMMA Climate Adaptation Benefits for Community Members – DIANA Seascape / Madagascar",
-      "url": "https://reliefweb.int/job/4208078/consultant-developing-awareness-raising-toolkit-lmma-climate-adaptation-benefits-community-members-diana-seascape-madagascar",
-      "location": "Madagascar",
-      "posted_at": "Mon, 20 Apr 2026 14:10:13 +0000",
-      "description": null,
-      "organization": "International Union for Conservation of Nature",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "8af6e44e1ed8659e02bd5ec529e0040c561e36050d0db69e58d0a76431368d79",
-      "seen_at": "2026-04-20T22:49:04.053683+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Web Developer",
-      "url": "https://reliefweb.int/job/4208155/web-developer",
+      "title": "COL_RFQ_BOG1_Servicio de Catering_20260420.",
+      "url": "https://reliefweb.int/job/4208417/colrfqbog1servicio-de-catering20260420",
       "location": null,
-      "posted_at": "Mon, 20 Apr 2026 14:07:18 +0000",
-      "description": null,
-      "organization": "Platform for Peace and Humanity",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "2cb31deb0ced2cf27400ea410aa74ed78847954856531cc006ccaf19d0a9fd1e",
-      "seen_at": "2026-04-20T22:49:04.053715+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Non-Technical Survey / Explosive Ordnance Risk Education Manager",
-      "url": "https://reliefweb.int/job/4208341/non-technical-survey-explosive-ordnance-risk-education-manager",
-      "location": "Syrian Arab Republic",
-      "posted_at": "Mon, 20 Apr 2026 11:45:42 +0000",
-      "description": null,
-      "organization": "Danish Refugee Council",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "3084a03cc0a35adf0d67885a5c7f16f218e240bdc6cec57372f136e62d92028d",
-      "seen_at": "2026-04-20T22:49:04.053737+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Sewing Atelier Supervisor",
-      "url": "https://reliefweb.int/job/4208107/sewing-atelier-supervisor",
-      "location": "Greece",
-      "posted_at": "Mon, 20 Apr 2026 11:27:05 +0000",
-      "description": null,
-      "organization": "Soup & Socks e.V.",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "2c211e5c12a4190529b65c38eb2ab929bf8145b9750a24090f715848e8aa918b",
-      "seen_at": "2026-04-20T22:49:04.053756+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "IP Senior Administrative and Financial Associate",
-      "url": "https://reliefweb.int/job/4208349/ip-senior-administrative-and-financial-associate",
-      "location": "Pakistan",
-      "posted_at": "Mon, 20 Apr 2026 11:05:05 +0000",
-      "description": null,
-      "organization": "International Organization for Migration",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "f9be616e76dc0f67f00d9d04b757d5701f986d2f74f48f3c8e5edaa42f7dbd51",
-      "seen_at": "2026-04-20T22:49:04.053776+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "FEWS NET Country Technical Sr. Specialist-Conflict - Honduras",
-      "url": "https://reliefweb.int/job/4208181/fews-net-country-technical-sr-specialist-conflict-honduras",
-      "location": "Honduras",
-      "posted_at": "Mon, 20 Apr 2026 10:32:08 +0000",
-      "description": null,
-      "organization": null,
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "cc25b350e2a4ed7cab6f0e2bc81c80c8aa595b0ed2a1d920fe4bc1bcf697ca35",
-      "seen_at": "2026-04-20T22:49:04.053795+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "FEWS NET Country Technical Manager - Syria",
-      "url": "https://reliefweb.int/job/4208170/fews-net-country-technical-manager-syria",
-      "location": "Syrian Arab Republic",
-      "posted_at": "Mon, 20 Apr 2026 10:30:49 +0000",
-      "description": null,
-      "organization": null,
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "86ffa0ca48b5526a1c56d758a1d2b84cc71134b18ee3437254b5dd1b1e739a26",
-      "seen_at": "2026-04-20T22:49:04.053812+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Wood Workshop Supervisor",
-      "url": "https://reliefweb.int/job/4208104/wood-workshop-supervisor",
-      "location": "Greece",
-      "posted_at": "Mon, 20 Apr 2026 09:04:50 +0000",
-      "description": null,
-      "organization": "Soup & Socks e.V.",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "db8eccca1708c2b930d7b96335411b1e46d5de40a4a097b42e93d2e7784cc83d",
-      "seen_at": "2026-04-20T22:49:04.053829+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Senior Programme Manager",
-      "url": "https://reliefweb.int/job/4208178/senior-programme-manager",
-      "location": "United States of America",
-      "posted_at": "Fri, 17 Apr 2026 20:45:05 +0000",
-      "description": null,
-      "organization": "UNOPS",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "d3ac4700b40b4c4713145d6063ea1c83e74e8beb8c5e855ed63624d0a1f430d5",
-      "seen_at": "2026-04-20T22:49:04.053845+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Refugee School Impact Specialist",
-      "url": "https://reliefweb.int/job/4208106/refugee-school-impact-specialist",
-      "location": "United States of America",
-      "posted_at": "Fri, 17 Apr 2026 14:38:26 +0000",
-      "description": null,
-      "organization": "International Rescue Committee",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "49d6e4855729af59ad5de1477e97320dcff8780d709fb7b1b8867e3bd842b6da",
-      "seen_at": "2026-04-20T22:49:04.053863+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Human resources coordinator (F/M) - Yemen",
-      "url": "https://reliefweb.int/job/4208047/human-resources-coordinator-fm-yemen",
-      "location": "Yemen",
-      "posted_at": "Fri, 17 Apr 2026 12:05:45 +0000",
-      "description": null,
-      "organization": "Médecins du Monde",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "69b14cad5beaff0dad5dbf20522eceaa80a12852efb1c2371485bdd910514b9b",
-      "seen_at": "2026-04-20T22:49:04.053880+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Consultant for Documentary",
-      "url": "https://reliefweb.int/job/4208016/consultant-documentary",
-      "location": "Nigeria",
-      "posted_at": "Fri, 17 Apr 2026 08:59:33 +0000",
-      "description": null,
-      "organization": "CBM Global Disability Inclusion",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "8118b5d4aab7bfcdd5868e97f93857de099ff92821b4e3c882b8a35f7d1c2400",
-      "seen_at": "2026-04-20T22:49:04.053897+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Zambia Logistics Specialist (Renewable)",
-      "url": "https://reliefweb.int/job/4208006/zambia-logistics-specialist-renewable",
-      "location": null,
-      "posted_at": "Fri, 17 Apr 2026 08:23:25 +0000",
-      "description": null,
-      "organization": "One Acre Fund",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "55ea8079d5a93afdda60297223c2c745b851d45a9bdb38825351b20b0e18216b",
-      "seen_at": "2026-04-20T22:49:04.053914+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Finance Trainee",
-      "url": "https://reliefweb.int/job/4208002/finance-trainee",
-      "location": "Rwanda",
-      "posted_at": "Fri, 17 Apr 2026 08:09:32 +0000",
-      "description": null,
-      "organization": "One Acre Fund",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "244c85dbeb2a3c64d2f51691e0ad67d27ade421534b09c971a25719b66d34cfe",
-      "seen_at": "2026-04-20T22:49:04.053931+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Investigator (Abuse of Persons) Roster/Pool",
-      "url": "https://reliefweb.int/job/4207988/investigator-abuse-persons-rosterpool",
-      "location": null,
-      "posted_at": "Fri, 17 Apr 2026 07:40:09 +0000",
-      "description": null,
-      "organization": "Médecins Sans Frontières",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "39f5f14fc35e95937f79b22854ee328844cd6f8c6e456942bcbeaa91d0452ff2",
-      "seen_at": "2026-04-20T22:49:04.053947+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "20198 Consultant - Protection from Sexual Exploitation, Abuse and Harassment (PSEAH) Case Management (P-UG)",
-      "url": "https://reliefweb.int/job/4207977/20198-consultant-protection-sexual-exploitation-abuse-and-harassment-pseah-case-management-p-ug",
-      "location": "Switzerland",
-      "posted_at": "Fri, 17 Apr 2026 06:11:03 +0000",
-      "description": null,
-      "organization": "International Organization for Migration",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "0dd8aecb32ac65785c475ed8ecb7f7449e0174a014d20b9873e5cf487e9e50e5",
-      "seen_at": "2026-04-20T22:49:04.053966+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Partnerships and Localization Coordinator",
-      "url": "https://reliefweb.int/job/4207951/partnerships-and-localization-coordinator",
-      "location": "Colombia",
-      "posted_at": "Fri, 17 Apr 2026 02:14:30 +0000",
-      "description": null,
-      "organization": "Danish Refugee Council",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "ed69560c1e23684c16dde0d60c36b7a6c24cad7ab48b5e83ef7d918ccef2e799",
-      "seen_at": "2026-04-20T22:49:04.053987+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Administrative coordinator (F/M) - Lebanon",
-      "url": "https://reliefweb.int/job/4207849/administrative-coordinator-fm-lebanon",
-      "location": "Lebanon",
-      "posted_at": "Thu, 16 Apr 2026 13:00:50 +0000",
-      "description": null,
-      "organization": "Médecins du Monde",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "9ce86353ae0b147f5595c74c0741273d6f154d9f2f6cbb1f4a87a8cbd12bdeef",
-      "seen_at": "2026-04-20T22:49:04.054006+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Project Associate (HLP), Ruyigi",
-      "url": "https://reliefweb.int/job/4207797/project-associate-hlp-ruyigi",
-      "location": "Burundi",
-      "posted_at": "Thu, 16 Apr 2026 10:08:46 +0000",
-      "description": null,
-      "organization": "International Organization for Migration",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "e5d1b961a377c2138e90aa801d04cedb4745ef4a68b4321116019c658b74aa08",
-      "seen_at": "2026-04-20T22:49:04.054026+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Project Associate (HLP), Makamba",
-      "url": "https://reliefweb.int/job/4207796/project-associate-hlp-makamba",
-      "location": "Burundi",
-      "posted_at": "Thu, 16 Apr 2026 10:06:35 +0000",
-      "description": null,
-      "organization": "International Organization for Migration",
-      "raw": {
-        "feed": "home-based"
-      },
-      "fingerprint": "57478f6051abbb0f2ea1c6c0f2d5510f8ecda4bdd83d14029f4b50b31680b171",
-      "seen_at": "2026-04-20T22:49:04.054043+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Regional Policy and Advocacy Lead, East Africa",
-      "url": "https://reliefweb.int/job/4208416/regional-policy-and-advocacy-lead-east-africa",
-      "location": "Kenya",
-      "posted_at": "Mon, 20 Apr 2026 17:43:01 +0000",
-      "description": null,
-      "organization": "International Rescue Committee",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "ccef8c3dff0bfa3e1af54bbedc2f0d5eb6a799de59d2841cb28b15a030151e9b",
-      "seen_at": "2026-04-20T22:49:04.054061+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Monitoring, Evaluation, Accountability and Learning Manager for South Sudan, based in Juba",
-      "url": "https://reliefweb.int/job/4208370/monitoring-evaluation-accountability-and-learning-manager-south-sudan-based-juba",
-      "location": "South Sudan",
-      "posted_at": "Mon, 20 Apr 2026 12:44:25 +0000",
-      "description": null,
-      "organization": "IMPACT Initiatives",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "d899b8853ffc7a78c4ea993680e35f1c5b1b4dcaa927e7ec6c49590e616d69f0",
-      "seen_at": "2026-04-20T22:49:04.054081+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Field M&E and Research Manager – Gaza",
-      "url": "https://reliefweb.int/job/4208231/field-me-and-research-manager-gaza",
-      "location": "occupied Palestinian territory",
-      "posted_at": "Mon, 20 Apr 2026 11:39:35 +0000",
-      "description": null,
-      "organization": "STOOS CONSULTING",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "09fe44240a6e2f2839001b3b3f758f943a225678f005b6949aa44afda634eed9",
-      "seen_at": "2026-04-20T22:49:04.054103+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Program Officer, Instructional Design",
-      "url": "https://reliefweb.int/job/4208351/program-officer-instructional-design",
-      "location": "United States of America",
-      "posted_at": "Mon, 20 Apr 2026 11:24:36 +0000",
-      "description": null,
-      "organization": "International Rescue Committee",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "65efeeb8ba3a4f3ed222c8cea9df5a16f99610a25a676d791a040aebd466a427",
-      "seen_at": "2026-04-20T22:49:04.054159+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Expression of Interest: Mandera Region partnerships in Economic recovery, WASH, Protection and HDP",
-      "url": "https://reliefweb.int/job/4208228/expression-interest-mandera-region-partnerships-economic-recovery-wash-protection-and-hdp",
-      "location": "Kenya",
-      "posted_at": "Mon, 20 Apr 2026 10:52:22 +0000",
+      "posted_at": "Mon, 20 Apr 2026 17:46:56 +0000",
       "description": null,
       "organization": "Danish Refugee Council",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "7e1880aa3e0778b605fd3c030c163f8a17572f2acaf7385233f6e1767ef5047c",
-      "seen_at": "2026-04-20T22:49:04.054181+00:00"
+      "fingerprint": "8e029342cbecd4870079641debce3c2a53f29625073ae93a080a7cb89956c660",
+      "seen_at": "2026-04-20T22:52:03.035942+00:00"
     },
     {
       "source": "reliefweb",
-      "title": "Programme Manager - South Iraq",
-      "url": "https://reliefweb.int/job/4208226/programme-manager-south-iraq",
-      "location": "Iraq",
-      "posted_at": "Mon, 20 Apr 2026 10:51:44 +0000",
+      "title": "Spanish-speaking Fuel Management Roster",
+      "url": "https://reliefweb.int/job/4208383/spanish-speaking-fuel-management-roster",
+      "location": null,
+      "posted_at": "Mon, 20 Apr 2026 13:50:59 +0000",
+      "description": null,
+      "organization": "CANADEM",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "60a6a30f32a4e17ac82e381c9186d434f2fa84f31173c31b94154db50f787d8e",
+      "seen_at": "2026-04-20T22:52:03.035968+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "External Consultant – Programme Quality Improvement Master Plan (PQI-MP)",
+      "url": "https://reliefweb.int/job/4208294/external-consultant-programme-quality-improvement-master-plan-pqi-mp",
+      "location": null,
+      "posted_at": "Mon, 20 Apr 2026 11:33:30 +0000",
+      "description": null,
+      "organization": "Christian Blind Mission",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "b458e521d33cead00ed61ecefd20f83cba924f2f58d226cce4c07491c45e675e",
+      "seen_at": "2026-04-20T22:52:03.035997+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Land Release Technical Field Manager - Middle East",
+      "url": "https://reliefweb.int/job/4208146/land-release-technical-field-manager-middle-east",
+      "location": null,
+      "posted_at": "Mon, 20 Apr 2026 11:27:40 +0000",
+      "description": null,
+      "organization": "Handicap International - Humanity & Inclusion",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "ddc93cfe4d92076addc25098582337a853e3d616606cc2b3e673ade98f0406bb",
+      "seen_at": "2026-04-20T22:52:03.036014+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Final Evaluation of the UNESCO project \"Developing In-House Consulting Capacities in Austria, Belgium, the Czech Republic, France, Greece and Latvia.\"",
+      "url": "https://reliefweb.int/job/4207894/final-evaluation-unesco-project-developing-house-consulting-capacities-austria-belgium-czech-republic-france-greece-and-latvia",
+      "location": null,
+      "posted_at": "Fri, 17 Apr 2026 09:55:32 +0000",
+      "description": null,
+      "organization": "UN Educational, Scientific and Cultural Organization",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "5ca71202997fc1ed92ceb8fcd48903494707c679c8040899eac10551e6092932",
+      "seen_at": "2026-04-20T22:52:03.036032+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Appel à consultance – Production de contenus médias storytelling (photo & vidéo)",
+      "url": "https://reliefweb.int/job/4208004/appel-consultance-production-de-contenus-medias-storytelling-photo-video",
+      "location": null,
+      "posted_at": "Fri, 17 Apr 2026 08:20:35 +0000",
+      "description": null,
+      "organization": "Croix-Rouge luxembourgeoise",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "1793ebb29bc6b3f7028069937b3ba845a711d3a8a7932ab5e7d3e1a516230244",
+      "seen_at": "2026-04-20T22:52:03.036052+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Partnerships Consultant",
+      "url": "https://reliefweb.int/job/4207846/partnerships-consultant",
+      "location": null,
+      "posted_at": "Thu, 16 Apr 2026 14:03:09 +0000",
+      "description": null,
+      "organization": "Medair",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "63dc0c84a315cc41def717239ded20735e7d21c1e3682be755ec07604a508a12",
+      "seen_at": "2026-04-20T22:52:03.036096+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "UK-Med Register - Medical Doctor – Emergency Medicine",
+      "url": "https://reliefweb.int/job/4207782/uk-med-register-medical-doctor-emergency-medicine",
+      "location": null,
+      "posted_at": "Thu, 16 Apr 2026 11:27:57 +0000",
+      "description": null,
+      "organization": "UK-Med",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "0f783ea63ee0929af28b869ded2a6258a3d121abddd62c4e6f532e36f6d74534",
+      "seen_at": "2026-04-20T22:52:03.036118+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Interim Deputy Regional Director for Programs - MENAE",
+      "url": "https://reliefweb.int/job/4207783/interim-deputy-regional-director-programs-menae",
+      "location": null,
+      "posted_at": "Thu, 16 Apr 2026 09:41:01 +0000",
+      "description": null,
+      "organization": "Mercy Corps",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "6a851fa5c1ec292f59f27c58c59c957d4fad11c8a9d429e9c0f5e6dd85b927f6",
+      "seen_at": "2026-04-20T22:52:03.036134+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Programmes Administrative Support Intern",
+      "url": "https://reliefweb.int/job/4207764/programmes-administrative-support-intern",
+      "location": null,
+      "posted_at": "Thu, 16 Apr 2026 08:56:19 +0000",
+      "description": null,
+      "organization": "Urgent Action Fund-Africa",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "aa9c83f3c4e02b90b7ff241b969b284abafec34173c73fcd95ecd0feb1d064b8",
+      "seen_at": "2026-04-20T22:52:03.036149+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Equal Rights Coalition Secretariat lead",
+      "url": "https://reliefweb.int/job/4207755/equal-rights-coalition-secretariat-lead",
+      "location": null,
+      "posted_at": "Thu, 16 Apr 2026 08:54:59 +0000",
+      "description": null,
+      "organization": "ILGA World",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "7d6b35964b3a333b92ada21a94f4d623fa0ac99ad1083f79a8fa2f5ad6f55520",
+      "seen_at": "2026-04-20T22:52:03.036165+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Director of Operations",
+      "url": "https://reliefweb.int/job/4206211/director-operations",
+      "location": null,
+      "posted_at": "Thu, 16 Apr 2026 07:19:22 +0000",
       "description": null,
       "organization": "Tearfund",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "6a786014a0bdee16b3cf8679c751d2044e1ff7277d51916f15585085ac924779",
-      "seen_at": "2026-04-20T22:49:04.054204+00:00"
+      "fingerprint": "71e05d03b54b29f3d2d0e6c6549534fa0be3fce36bbce6459a9ce8580b8072c4",
+      "seen_at": "2026-04-20T22:52:03.036180+00:00"
     },
     {
       "source": "reliefweb",
-      "title": "MEAL Manager",
-      "url": "https://reliefweb.int/job/4208218/meal-manager",
-      "location": "Iraq",
-      "posted_at": "Mon, 20 Apr 2026 10:35:46 +0000",
-      "description": null,
-      "organization": "SEED",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "651063e59835e7f26d3a4a3e9959bd465517e2bf1ef929acc94ab7675cf9cd89",
-      "seen_at": "2026-04-20T22:49:04.054221+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "West Africa Researcher - REMOTE",
-      "url": "https://reliefweb.int/job/4208324/west-africa-researcher-remote",
+      "title": "Proposal Writers Network (PWN)",
+      "url": "https://reliefweb.int/job/4207479/proposal-writers-network-pwn",
       "location": null,
-      "posted_at": "Mon, 20 Apr 2026 09:48:25 +0000",
+      "posted_at": "Wed, 15 Apr 2026 08:05:01 +0000",
       "description": null,
-      "organization": "Armed Conflict Location & Event Data",
+      "organization": "Altamont Group",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "f0e370ae3d3d43481bc5ef78802ff091ca2c1a93268ab058f4454740296d1547",
-      "seen_at": "2026-04-20T22:49:04.054242+00:00"
+      "fingerprint": "6e52c41697faa5143f17ae31155b9d00dcac1b281fe4a50bc980cf3e14d767d3",
+      "seen_at": "2026-04-20T22:52:03.036194+00:00"
     },
     {
       "source": "reliefweb",
-      "title": "Evaluation Consultant",
-      "url": "https://reliefweb.int/job/4208149/evaluation-consultant",
+      "title": "Business Development Manager",
+      "url": "https://reliefweb.int/job/4207432/business-development-manager",
       "location": null,
-      "posted_at": "Sat, 18 Apr 2026 08:02:37 +0000",
+      "posted_at": "Wed, 15 Apr 2026 07:58:12 +0000",
       "description": null,
-      "organization": "Global Path Research and Analytics",
+      "organization": "Jouri Research & Consultancy",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "d83c6d373fc5e9c0834e004c3e1b85a86456a8530ea6d6e400b47c232dae02c5",
-      "seen_at": "2026-04-20T22:49:04.054261+00:00"
+      "fingerprint": "3655f5d4c0ba6f88e4a9afbff4c41996245e9410bf300e35d470f87ccbdbd9ec",
+      "seen_at": "2026-04-20T22:52:03.036209+00:00"
     },
     {
       "source": "reliefweb",
-      "title": "Program Supervisor, Matching Grant",
-      "url": "https://reliefweb.int/job/4208176/program-supervisor-matching-grant",
-      "location": "United States of America",
-      "posted_at": "Fri, 17 Apr 2026 20:41:23 +0000",
-      "description": null,
-      "organization": "International Rescue Committee",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "526c6c23854d12be60983ba453c7c9b4ce7a81a12a6986c68904339f100ef933",
-      "seen_at": "2026-04-20T22:49:04.054281+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Financial Education Specialist",
-      "url": "https://reliefweb.int/job/4208175/financial-education-specialist",
+      "title": "Project Manager",
+      "url": "https://reliefweb.int/job/4207431/project-manager",
       "location": null,
-      "posted_at": "Fri, 17 Apr 2026 20:30:45 +0000",
+      "posted_at": "Wed, 15 Apr 2026 07:55:34 +0000",
       "description": null,
-      "organization": "International Rescue Committee",
+      "organization": "Jouri Research & Consultancy",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "96df785cd19fa9d4dffc0d711cdfdc65ca3cc9f0803c21992fcb528f55b5bf6c",
-      "seen_at": "2026-04-20T22:49:04.054298+00:00"
+      "fingerprint": "94fe5e7c43cb5a5a9cecf2658582c4500cc850a7cbe330f93654572b4ba1bdf9",
+      "seen_at": "2026-04-20T22:52:03.036224+00:00"
     },
     {
       "source": "reliefweb",
-      "title": "Country Director Afghanistan - based in Kabul",
-      "url": "https://reliefweb.int/job/4208053/country-director-afghanistan-based-kabul",
-      "location": "Afghanistan",
-      "posted_at": "Fri, 17 Apr 2026 13:58:25 +0000",
+      "title": "Terms of Reference: EU SEE Mid Term Evaluation",
+      "url": "https://reliefweb.int/job/4207343/terms-reference-eu-see-mid-term-evaluation",
+      "location": null,
+      "posted_at": "Tue, 14 Apr 2026 13:13:43 +0000",
       "description": null,
-      "organization": "Première Urgence Internationale",
+      "organization": "Hivos",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "9aadece7e87306f25a8d81430e000d4e5920ed78795394717f9eb844bf003fa6",
-      "seen_at": "2026-04-20T22:49:04.054313+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "National Response Systems Effectiveness (NRSE) Manager",
-      "url": "https://reliefweb.int/job/4207907/national-response-systems-effectiveness-nrse-manager",
-      "location": "United States of America",
-      "posted_at": "Fri, 17 Apr 2026 09:56:15 +0000",
-      "description": null,
-      "organization": "Global Support and Development",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "97b62c1cd37b0d02e0e83253aa58615533a8054d20a30ca6d86cf1346f82ea71",
-      "seen_at": "2026-04-20T22:49:04.054334+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "TPM Analyst (Part-Time)",
-      "url": "https://reliefweb.int/job/4208010/tpm-analyst-part-time",
-      "location": "Thailand",
-      "posted_at": "Fri, 17 Apr 2026 09:49:46 +0000",
-      "description": null,
-      "organization": "Center for Operational Analysis and Research",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "9f345581d3bf6b08b566fecbd9baa0be5f0e458e73afd14d78a11663e7bb6b47",
-      "seen_at": "2026-04-20T22:49:04.054353+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "SUDAN - Grants and Partnership Coordinator (M/F) - N'DJAMENA",
-      "url": "https://reliefweb.int/job/4208005/sudan-grants-and-partnership-coordinator-mf-ndjamena",
-      "location": "Sudan",
-      "posted_at": "Fri, 17 Apr 2026 08:22:09 +0000",
-      "description": null,
-      "organization": "Solidarités International",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "1687a26f5c42e4322753caa6973a68f875f6f90f3d8a43433d76e39494c19aaa",
-      "seen_at": "2026-04-20T22:49:04.054363+00:00"
+      "fingerprint": "26ad43799f2c3b31083e503557f13624db36220d0d7be96b4948508af37be4a6",
+      "seen_at": "2026-04-20T22:52:03.036238+00:00"
     }
   ]
 }

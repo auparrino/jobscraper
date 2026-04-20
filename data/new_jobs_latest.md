@@ -1,40 +1,21 @@
-# 35 ofertas nuevas
+# 16 ofertas nuevas
 
 
-## reliefweb (35)
+## reliefweb (16)
 
-- [Consultant for Developing an Awareness-Raising Toolkit on LMMA Climate Adaptation Benefits for Community Members – DIANA Seascape / Madagascar](https://reliefweb.int/job/4208078/consultant-developing-awareness-raising-toolkit-lmma-climate-adaptation-benefits-community-members-diana-seascape-madagascar) — International Union for Conservation of Nature · Madagascar · Mon, 20 Apr 2026 14:10:13 +0000
-- [Web Developer](https://reliefweb.int/job/4208155/web-developer) — Platform for Peace and Humanity · Mon, 20 Apr 2026 14:07:18 +0000
-- [Non-Technical Survey / Explosive Ordnance Risk Education Manager](https://reliefweb.int/job/4208341/non-technical-survey-explosive-ordnance-risk-education-manager) — Danish Refugee Council · Syrian Arab Republic · Mon, 20 Apr 2026 11:45:42 +0000
-- [Sewing Atelier Supervisor](https://reliefweb.int/job/4208107/sewing-atelier-supervisor) — Soup & Socks e.V. · Greece · Mon, 20 Apr 2026 11:27:05 +0000
-- [IP Senior Administrative and Financial Associate](https://reliefweb.int/job/4208349/ip-senior-administrative-and-financial-associate) — International Organization for Migration · Pakistan · Mon, 20 Apr 2026 11:05:05 +0000
-- [FEWS NET Country Technical Sr. Specialist-Conflict - Honduras](https://reliefweb.int/job/4208181/fews-net-country-technical-sr-specialist-conflict-honduras) — Honduras · Mon, 20 Apr 2026 10:32:08 +0000
-- [FEWS NET Country Technical Manager - Syria](https://reliefweb.int/job/4208170/fews-net-country-technical-manager-syria) — Syrian Arab Republic · Mon, 20 Apr 2026 10:30:49 +0000
-- [Wood Workshop Supervisor](https://reliefweb.int/job/4208104/wood-workshop-supervisor) — Soup & Socks e.V. · Greece · Mon, 20 Apr 2026 09:04:50 +0000
-- [Senior Programme Manager](https://reliefweb.int/job/4208178/senior-programme-manager) — UNOPS · United States of America · Fri, 17 Apr 2026 20:45:05 +0000
-- [Refugee School Impact Specialist](https://reliefweb.int/job/4208106/refugee-school-impact-specialist) — International Rescue Committee · United States of America · Fri, 17 Apr 2026 14:38:26 +0000
-- [Human resources coordinator (F/M) - Yemen](https://reliefweb.int/job/4208047/human-resources-coordinator-fm-yemen) — Médecins du Monde · Yemen · Fri, 17 Apr 2026 12:05:45 +0000
-- [Consultant for Documentary](https://reliefweb.int/job/4208016/consultant-documentary) — CBM Global Disability Inclusion · Nigeria · Fri, 17 Apr 2026 08:59:33 +0000
-- [Zambia Logistics Specialist (Renewable)](https://reliefweb.int/job/4208006/zambia-logistics-specialist-renewable) — One Acre Fund · Fri, 17 Apr 2026 08:23:25 +0000
-- [Finance Trainee](https://reliefweb.int/job/4208002/finance-trainee) — One Acre Fund · Rwanda · Fri, 17 Apr 2026 08:09:32 +0000
-- [Investigator (Abuse of Persons) Roster/Pool](https://reliefweb.int/job/4207988/investigator-abuse-persons-rosterpool) — Médecins Sans Frontières · Fri, 17 Apr 2026 07:40:09 +0000
-- [20198 Consultant - Protection from Sexual Exploitation, Abuse and Harassment (PSEAH) Case Management (P-UG)](https://reliefweb.int/job/4207977/20198-consultant-protection-sexual-exploitation-abuse-and-harassment-pseah-case-management-p-ug) — International Organization for Migration · Switzerland · Fri, 17 Apr 2026 06:11:03 +0000
-- [Partnerships and Localization Coordinator](https://reliefweb.int/job/4207951/partnerships-and-localization-coordinator) — Danish Refugee Council · Colombia · Fri, 17 Apr 2026 02:14:30 +0000
-- [Administrative coordinator (F/M) - Lebanon](https://reliefweb.int/job/4207849/administrative-coordinator-fm-lebanon) — Médecins du Monde · Lebanon · Thu, 16 Apr 2026 13:00:50 +0000
-- [Project Associate (HLP), Ruyigi](https://reliefweb.int/job/4207797/project-associate-hlp-ruyigi) — International Organization for Migration · Burundi · Thu, 16 Apr 2026 10:08:46 +0000
-- [Project Associate (HLP), Makamba](https://reliefweb.int/job/4207796/project-associate-hlp-makamba) — International Organization for Migration · Burundi · Thu, 16 Apr 2026 10:06:35 +0000
-- [Regional Policy and Advocacy Lead, East Africa](https://reliefweb.int/job/4208416/regional-policy-and-advocacy-lead-east-africa) — International Rescue Committee · Kenya · Mon, 20 Apr 2026 17:43:01 +0000
-- [Monitoring, Evaluation, Accountability and Learning Manager for South Sudan, based in Juba](https://reliefweb.int/job/4208370/monitoring-evaluation-accountability-and-learning-manager-south-sudan-based-juba) — IMPACT Initiatives · South Sudan · Mon, 20 Apr 2026 12:44:25 +0000
-- [Field M&E and Research Manager – Gaza](https://reliefweb.int/job/4208231/field-me-and-research-manager-gaza) — STOOS CONSULTING · occupied Palestinian territory · Mon, 20 Apr 2026 11:39:35 +0000
-- [Program Officer, Instructional Design](https://reliefweb.int/job/4208351/program-officer-instructional-design) — International Rescue Committee · United States of America · Mon, 20 Apr 2026 11:24:36 +0000
-- [Expression of Interest: Mandera Region partnerships in Economic recovery, WASH, Protection and HDP](https://reliefweb.int/job/4208228/expression-interest-mandera-region-partnerships-economic-recovery-wash-protection-and-hdp) — Danish Refugee Council · Kenya · Mon, 20 Apr 2026 10:52:22 +0000
-- [Programme Manager - South Iraq](https://reliefweb.int/job/4208226/programme-manager-south-iraq) — Tearfund · Iraq · Mon, 20 Apr 2026 10:51:44 +0000
-- [MEAL Manager](https://reliefweb.int/job/4208218/meal-manager) — SEED · Iraq · Mon, 20 Apr 2026 10:35:46 +0000
-- [West Africa Researcher - REMOTE](https://reliefweb.int/job/4208324/west-africa-researcher-remote) — Armed Conflict Location & Event Data · Mon, 20 Apr 2026 09:48:25 +0000
-- [Evaluation Consultant](https://reliefweb.int/job/4208149/evaluation-consultant) — Global Path Research and Analytics · Sat, 18 Apr 2026 08:02:37 +0000
-- [Program Supervisor, Matching Grant](https://reliefweb.int/job/4208176/program-supervisor-matching-grant) — International Rescue Committee · United States of America · Fri, 17 Apr 2026 20:41:23 +0000
-- [Financial Education Specialist](https://reliefweb.int/job/4208175/financial-education-specialist) — International Rescue Committee · Fri, 17 Apr 2026 20:30:45 +0000
-- [Country Director Afghanistan - based in Kabul](https://reliefweb.int/job/4208053/country-director-afghanistan-based-kabul) — Première Urgence Internationale · Afghanistan · Fri, 17 Apr 2026 13:58:25 +0000
-- [National Response Systems Effectiveness (NRSE) Manager](https://reliefweb.int/job/4207907/national-response-systems-effectiveness-nrse-manager) — Global Support and Development · United States of America · Fri, 17 Apr 2026 09:56:15 +0000
-- [TPM Analyst (Part-Time)](https://reliefweb.int/job/4208010/tpm-analyst-part-time) — Center for Operational Analysis and Research · Thailand · Fri, 17 Apr 2026 09:49:46 +0000
-- [SUDAN - Grants and Partnership Coordinator (M/F) - N'DJAMENA](https://reliefweb.int/job/4208005/sudan-grants-and-partnership-coordinator-mf-ndjamena) — Solidarités International · Sudan · Fri, 17 Apr 2026 08:22:09 +0000
+- [COL_RFQ_BOG1_Servicio de Catering_20260420.](https://reliefweb.int/job/4208417/colrfqbog1servicio-de-catering20260420) — Danish Refugee Council · Mon, 20 Apr 2026 17:46:56 +0000
+- [Spanish-speaking Fuel Management Roster](https://reliefweb.int/job/4208383/spanish-speaking-fuel-management-roster) — CANADEM · Mon, 20 Apr 2026 13:50:59 +0000
+- [External Consultant – Programme Quality Improvement Master Plan (PQI-MP)](https://reliefweb.int/job/4208294/external-consultant-programme-quality-improvement-master-plan-pqi-mp) — Christian Blind Mission · Mon, 20 Apr 2026 11:33:30 +0000
+- [Land Release Technical Field Manager - Middle East](https://reliefweb.int/job/4208146/land-release-technical-field-manager-middle-east) — Handicap International - Humanity & Inclusion · Mon, 20 Apr 2026 11:27:40 +0000
+- [Final Evaluation of the UNESCO project "Developing In-House Consulting Capacities in Austria, Belgium, the Czech Republic, France, Greece and Latvia."](https://reliefweb.int/job/4207894/final-evaluation-unesco-project-developing-house-consulting-capacities-austria-belgium-czech-republic-france-greece-and-latvia) — UN Educational, Scientific and Cultural Organization · Fri, 17 Apr 2026 09:55:32 +0000
+- [Appel à consultance – Production de contenus médias storytelling (photo & vidéo)](https://reliefweb.int/job/4208004/appel-consultance-production-de-contenus-medias-storytelling-photo-video) — Croix-Rouge luxembourgeoise · Fri, 17 Apr 2026 08:20:35 +0000
+- [Partnerships Consultant](https://reliefweb.int/job/4207846/partnerships-consultant) — Medair · Thu, 16 Apr 2026 14:03:09 +0000
+- [UK-Med Register - Medical Doctor – Emergency Medicine](https://reliefweb.int/job/4207782/uk-med-register-medical-doctor-emergency-medicine) — UK-Med · Thu, 16 Apr 2026 11:27:57 +0000
+- [Interim Deputy Regional Director for Programs - MENAE](https://reliefweb.int/job/4207783/interim-deputy-regional-director-programs-menae) — Mercy Corps · Thu, 16 Apr 2026 09:41:01 +0000
+- [Programmes Administrative Support Intern](https://reliefweb.int/job/4207764/programmes-administrative-support-intern) — Urgent Action Fund-Africa · Thu, 16 Apr 2026 08:56:19 +0000
+- [Equal Rights Coalition Secretariat lead](https://reliefweb.int/job/4207755/equal-rights-coalition-secretariat-lead) — ILGA World · Thu, 16 Apr 2026 08:54:59 +0000
+- [Director of Operations](https://reliefweb.int/job/4206211/director-operations) — Tearfund · Thu, 16 Apr 2026 07:19:22 +0000
+- [Proposal Writers Network (PWN)](https://reliefweb.int/job/4207479/proposal-writers-network-pwn) — Altamont Group · Wed, 15 Apr 2026 08:05:01 +0000
+- [Business Development Manager](https://reliefweb.int/job/4207432/business-development-manager) — Jouri Research & Consultancy · Wed, 15 Apr 2026 07:58:12 +0000
+- [Project Manager](https://reliefweb.int/job/4207431/project-manager) — Jouri Research & Consultancy · Wed, 15 Apr 2026 07:55:34 +0000
+- [Terms of Reference: EU SEE Mid Term Evaluation](https://reliefweb.int/job/4207343/terms-reference-eu-see-mid-term-evaluation) — Hivos · Tue, 14 Apr 2026 13:13:43 +0000
