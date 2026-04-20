@@ -65,24 +65,49 @@ class ReliefWebAdapter(Adapter):
                 ),
                 locale="en-US",
             )
-            # Playwright's APIRequestContext uses the browser stack (TLS, HTTP/2,
-            # ALPN), which is enough to bypass the 202 edge protection.
-            req = ctx.request
+            # Warm up: navigate to the main site so any edge challenge runs JS
+            # and sets cookies before we hit the RSS endpoint.
+            page = ctx.new_page()
+            try:
+                page.goto("https://reliefweb.int/jobs", wait_until="domcontentloaded", timeout=30_000)
+                # Give any challenge a moment to finish.
+                page.wait_for_timeout(2000)
+            except Exception as e:
+                print(f"[reliefweb] warmup nav failed: {e}")
+
             for tag, url in FEEDS:
+                body = None
                 try:
-                    resp = req.get(url, timeout=30_000)
+                    # Navigating to the feed URL is what finally gets past the 202
+                    # gate: the edge treats it as a real browser request.
+                    resp = page.goto(url, wait_until="domcontentloaded", timeout=30_000)
+                    if resp and resp.status != 200:
+                        print(f"[reliefweb] {tag}: status={resp.status} — retrying with request()")
+                        r2 = ctx.request.get(url, timeout=30_000)
+                        if r2.status == 200:
+                            body = r2.text()
+                    else:
+                        body = page.content()
+                        # Chromium wraps XML in an HTML viewer; strip it to raw XML
+                        if "<rss" not in body and "<RSS" not in body:
+                            # get the raw response instead
+                            r2 = ctx.request.get(url, timeout=30_000)
+                            if r2.status == 200:
+                                body = r2.text()
                 except Exception as e:
-                    print(f"[reliefweb] {tag}: request error: {e}")
+                    print(f"[reliefweb] {tag}: error: {e}")
                     continue
-                if resp.status != 200:
-                    print(f"[reliefweb] {tag}: status={resp.status} — skipping")
-                    continue
-                body = resp.text()
-                if not body.strip():
+                if not body or not body.strip():
                     print(f"[reliefweb] {tag}: empty body — skipping")
                     continue
+                # Extract just the XML payload if the browser wrapped it
+                start = body.find("<?xml")
+                if start == -1:
+                    start = body.find("<rss")
+                if start > 0:
+                    body = body[start:]
                 parsed = self._parse(body, tag)
-                print(f"[reliefweb] {tag}: status=200 items={len(parsed)}")
+                print(f"[reliefweb] {tag}: items={len(parsed)}")
                 for p_ in parsed:
                     results.setdefault(p_.fingerprint, p_)
             browser.close()
