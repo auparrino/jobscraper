@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/new_jobs_2*.json
+data/new_jobs_2*.md
+.env
