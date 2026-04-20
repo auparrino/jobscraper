@@ -1,19 +1,67 @@
 {
-  "run_at": "2026-04-20T22:44:38.239412+00:00",
-  "new_count": 1,
+  "run_at": "2026-04-20T22:46:42.708461+00:00",
+  "new_count": 5,
   "errors": {},
   "jobs": [
     {
       "source": "idealist",
-      "title": "Operations Manager",
-      "url": "https://www.idealist.org/en/nonprofit-job/9f69926992ea42aa8a7e6cc01c5e1c70-operations-manager-seed-spot-phoenix",
+      "title": "Fundraising Manager",
+      "url": "https://www.idealist.org/en/nonprofit-job/e69118f2f5e84557822bd6a73df99b5d-fundraising-manager-the-fort-recovery-fort-collins",
       "location": "Remote",
       "posted_at": null,
       "description": null,
-      "organization": "SEED SPOT",
+      "organization": "The Fort Recovery",
       "raw": {},
-      "fingerprint": "b0b1722df6e3f9cba4691933a1e1c0aeaa888ec44b463e3c90ba9c6607e878a5",
-      "seen_at": "2026-04-20T22:44:38.239487+00:00"
+      "fingerprint": "9f53ca0a0360c4525ccf5166b05cd49d432321317447f4b295afc1f92306c348",
+      "seen_at": "2026-04-20T22:46:42.708522+00:00"
+    },
+    {
+      "source": "idealist",
+      "title": "Interim Database and Gift Processing Coordinator",
+      "url": "https://www.idealist.org/en/nonprofit-job/d9003d04dc074bc98547ae461dd6b7d6-interim-database-and-gift-processing-coordinator-global-greengrants-fund-boulder",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "Global Greengrants Fund",
+      "raw": {},
+      "fingerprint": "5dbd7e91ecdbeda912fc3b0d3e69e6e9a1fbf63ea3ed5c98889e87ae4146b0b1",
+      "seen_at": "2026-04-20T22:46:42.708546+00:00"
+    },
+    {
+      "source": "idealist",
+      "title": "Major Donor Philanthropic Partnerships Officer",
+      "url": "https://www.idealist.org/en/nonprofit-job/86942f439e7d4562b02adb13195ccad0-major-donor-philanthropic-partnerships-officer-global-greengrants-fund-boulder",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "Global Greengrants Fund",
+      "raw": {},
+      "fingerprint": "154addbf8c6364e99150f024d4bdb458f101b6762fd1c84353a1d2b1a1140b2c",
+      "seen_at": "2026-04-20T22:46:42.708563+00:00"
+    },
+    {
+      "source": "idealist",
+      "title": "Webflow developer contractor for site improvements and functional optimization",
+      "url": "https://www.idealist.org/en/nonprofit-job/7eb732228d6a44b697165021fd5ba42f-webflow-developer-contractor-for-site-improvements-and-functional-optimization-secure-world-foundation-broomfield",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "Secure World Foundation",
+      "raw": {},
+      "fingerprint": "11bcaf06734364929a8ec65edced60826876c8372496edabd77a3f7bec659138",
+      "seen_at": "2026-04-20T22:46:42.708576+00:00"
+    },
+    {
+      "source": "idealist",
+      "title": "Director of Individual Giving (candidates can be based anywhere in the US + new salary range)",
+      "url": "https://www.idealist.org/en/nonprofit-job/5cb5c826d00548c29b1133bb2266bcd6-director-of-individual-giving-candidates-can-be-based-anywhere-in-the-us-new-salary-range-climate-defiance-denver",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "Climate Defiance",
+      "raw": {},
+      "fingerprint": "24ff93c7623d53e37c28feef8b88b732ca90c594902edc21e195cb60dbff89ca",
+      "seen_at": "2026-04-20T22:46:42.708591+00:00"
     }
   ]
 }
