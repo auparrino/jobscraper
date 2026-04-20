@@ -7,6 +7,15 @@ from .unicef import UnicefAdapter
 from .idb import IDBAdapter
 from .un_inspira import UNInspiraAdapter
 from .worldbank import WorldBankAdapter
+from .ilo import ILOAdapter
+from .unesco import UNESCOAdapter
+from .fao import FAOAdapter
+from .iom import IOMAdapter
+from .caf import CAFAdapter
+from .emb_uk import EmbassyUKAdapter
+from .emb_canada import EmbassyCanadaAdapter
+from .emb_usa import EmbassyUSAAdapter
+from .change_detector import ChangePageAdapter
 
 ALL_ADAPTERS = [
     # Tier 1 — consolidators
@@ -20,4 +29,15 @@ ALL_ADAPTERS = [
     IDBAdapter(),
     UNInspiraAdapter(),
     WorldBankAdapter(),
+    ILOAdapter(),
+    UNESCOAdapter(),
+    FAOAdapter(),
+    IOMAdapter(),
+    CAFAdapter(),
+    # Tier 3 — embassies (structured job boards)
+    EmbassyUKAdapter(),
+    EmbassyCanadaAdapter(),
+    EmbassyUSAAdapter(),
+    # Tier 3 — change detection (static embassy/news pages)
+    ChangePageAdapter(),
 ]
