@@ -1,3 +1,4 @@
+import time
 import httpx
 from bs4 import BeautifulSoup
 
@@ -66,14 +67,23 @@ class ReliefWebAdapter(Adapter):
         results: dict[str, JobPosting] = {}
         with httpx.Client(timeout=30, headers=HEADERS, follow_redirects=True) as client:
             for tag, url in FEEDS:
-                try:
-                    r = client.get(url)
-                    r.raise_for_status()
-                except httpx.HTTPError as e:
-                    print(f"[reliefweb] error fetching {tag} ({url}): {e}")
-                    continue
-                if r.status_code == 202 or not r.text.strip():
-                    print(f"[reliefweb] {tag}: empty/queued response (status {r.status_code}) — skipping")
+                # ReliefWeb occasionally responds 202 with empty body when their
+                # edge is warming the feed — retry a few times with backoff.
+                r = None
+                for attempt in range(4):
+                    try:
+                        r = client.get(url)
+                    except httpx.HTTPError as e:
+                        print(f"[reliefweb] {tag}: network error attempt {attempt+1}: {e}")
+                        r = None
+                        time.sleep(2 ** attempt)
+                        continue
+                    if r.status_code == 200 and r.text.strip():
+                        break
+                    print(f"[reliefweb] {tag}: status={r.status_code} len={len(r.text)} — retry {attempt+1}/4")
+                    time.sleep(2 ** attempt)
+                if not r or r.status_code != 200 or not r.text.strip():
+                    print(f"[reliefweb] {tag}: gave up after retries")
                     continue
                 parsed = self._parse(r.text, tag)
                 print(f"[reliefweb] {tag}: status={r.status_code} items={len(parsed)}")
