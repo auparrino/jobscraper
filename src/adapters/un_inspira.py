@@ -1,76 +1,68 @@
-from urllib.parse import urljoin
+import httpx
+from bs4 import BeautifulSoup
 
 from .base import Adapter, relevant
 from ..models import JobPosting
 
 
-BASE = "https://careers.un.org"
-# UN Careers (Inspira) — fully JS-rendered SPA. The search page supports
-# filters via URL params: duty station / keyword.
-SEARCH_URLS = [
-    f"{BASE}/jobSearchDescription?language=en&location=Argentina",
-    f"{BASE}/jobSearchDescription?language=en&keyword=remote",
-    f"{BASE}/jobSearchDescription?language=en&keyword=home-based",
-]
+# UN Careers (fka Inspira) exposes a public RSS feed at /jobfeed with the
+# full global UN openings — hundreds of items. We post-filter for AR / remote.
+FEED_URL = "https://careers.un.org/jobfeed"
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+}
 
 
 class UNInspiraAdapter(Adapter):
     name = "un-inspira"
 
+    def _parse(self, xml: str) -> list[JobPosting]:
+        soup = BeautifulSoup(xml, "xml")
+        out: list[JobPosting] = []
+        for item in soup.find_all("item"):
+            title = (item.title.text if item.title else "").strip()
+            url = (item.link.text if item.link else "").strip()
+            pub = (item.pubDate.text if item.pubDate else None)
+            desc_html = (item.description.text if item.description else "")
+            # Description body has embedded meta like "Duty Station : Buenos Aires"
+            meta_soup = BeautifulSoup(desc_html, "lxml")
+            text = meta_soup.get_text("\n", strip=True)
+            location = None
+            organization = None
+            for line in text.split("\n"):
+                low = line.lower()
+                if low.startswith("duty station"):
+                    location = line.split(":", 1)[-1].strip()
+                elif low.startswith("department"):
+                    organization = line.split(":", 1)[-1].strip()
+            if not title or not url:
+                continue
+            out.append(JobPosting(
+                source=self.name,
+                title=title,
+                url=url,
+                location=location,
+                organization=organization or "United Nations",
+                posted_at=pub,
+                description=text[:500] if text else None,
+            ))
+        return out
+
     def fetch(self) -> list[JobPosting]:
-        from playwright.sync_api import sync_playwright
-
         results: dict[str, JobPosting] = {}
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            ctx = browser.new_context(
-                user_agent=(
-                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-                ),
-                locale="en-US",
-            )
-            page = ctx.new_page()
-            for url in SEARCH_URLS:
-                try:
-                    page.goto(url, wait_until="networkidle", timeout=60000)
-                    # Inspira does a secondary XHR render after load; give it time.
-                    page.wait_for_timeout(2500)
-                except Exception as e:
-                    print(f"[un-inspira] nav error {url}: {e}")
-                    continue
-
-                # UN Inspira renders job cards with links to /jobDetails?...
-                anchors = page.evaluate(
-                    """() => {
-                        const links = Array.from(document.querySelectorAll('a[href*=\"jobDetails\"], a[href*=\"jobId\"]'));
-                        return links.map(a => ({
-                            href: a.href,
-                            text: (a.innerText || '').trim(),
-                            parentText: (a.closest('article, tr, li, .job-card, div')?.innerText || '').trim().slice(0, 500),
-                        }));
-                    }"""
-                )
-                for a in anchors:
-                    title = a.get("text", "").split("\n")[0].strip()
-                    href = a.get("href", "")
-                    if not title or len(title) < 6:
-                        continue
-                    blob = a.get("parentText", "")
-                    location = None
-                    for line in blob.split("\n"):
-                        low = line.lower()
-                        if any(k in low for k in ("argentina", "buenos aires", "remote", "home-based", "duty station")):
-                            location = line.strip()
-                            break
-                    p_ = JobPosting(
-                        source=self.name,
-                        title=title,
-                        url=urljoin(BASE, href),
-                        location=location,
-                        organization="United Nations (Inspira)",
-                    )
-                    if relevant(p_.location, p_.title, blob):
-                        results.setdefault(p_.fingerprint, p_)
-            browser.close()
+        with httpx.Client(timeout=45, headers=HEADERS, follow_redirects=True) as client:
+            try:
+                r = client.get(FEED_URL)
+                r.raise_for_status()
+            except httpx.HTTPError as e:
+                print(f"[un-inspira] error fetching {FEED_URL}: {e}")
+                return []
+            parsed = self._parse(r.text)
+            print(f"[un-inspira] fetched {len(parsed)} total items (pre-filter)")
+            for p in parsed:
+                if relevant(p.location, p.title, p.description):
+                    results.setdefault(p.fingerprint, p)
         return list(results.values())

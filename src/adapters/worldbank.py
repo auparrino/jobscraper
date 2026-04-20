@@ -4,14 +4,11 @@ from .base import Adapter, relevant
 from ..models import JobPosting
 
 
-# World Bank Group careers use SAP SuccessFactors hosted at worldbankgroup.csod.com
-# plus a front at worldbank.org/en/about/careers. The ATS search endpoint:
+# World Bank Group careers run on Cornerstone (csod.com). The careersite home
+# page renders a job list client-side; each job link is `/requisition/<id>`.
 BASE = "https://worldbankgroup.csod.com"
 SEARCH_URLS = [
-    # SuccessFactors Cornerstone career site
-    f"{BASE}/ats/careersite/search.aspx?site=1&c=worldbankgroup&keywords=&location=Argentina",
-    f"{BASE}/ats/careersite/search.aspx?site=1&c=worldbankgroup&keywords=remote",
-    f"{BASE}/ats/careersite/search.aspx?site=1&c=worldbankgroup&keywords=home-based",
+    f"{BASE}/ux/ats/careersite/1/home?c=worldbankgroup",
 ]
 
 
@@ -35,30 +32,41 @@ class WorldBankAdapter(Adapter):
             for url in SEARCH_URLS:
                 try:
                     page.goto(url, wait_until="networkidle", timeout=60000)
-                    page.wait_for_timeout(2000)
+                    # SPA hydration is slow; wait for job links to appear.
+                    page.wait_for_selector('a[href*="/requisition/"]', timeout=20000)
                 except Exception as e:
                     print(f"[worldbank] nav error {url}: {e}")
                     continue
 
-                anchors = page.evaluate(
+                # Cornerstone renders ~25 jobs in first page. Each card has the
+                # title as anchor text and a separate <span> with location.
+                cards = page.evaluate(
                     """() => {
-                        const links = Array.from(document.querySelectorAll('a[href*=\"jobdetails\"], a[href*=\"JobDetail\"], a[href*=\"/job/\"]'));
-                        return links.map(a => ({
-                            href: a.href,
-                            text: (a.innerText || '').trim(),
-                            parentText: (a.closest('article, tr, li, div')?.innerText || '').trim().slice(0, 500),
-                        }));
+                        const links = Array.from(document.querySelectorAll('a[href*="/requisition/"]'));
+                        return links.map(a => {
+                            const card = a.closest('article, li, div.card, div');
+                            return {
+                                href: a.href,
+                                text: (a.innerText || '').trim(),
+                                cardText: (card?.innerText || '').trim().slice(0, 500),
+                            };
+                        });
                     }"""
                 )
-                for a in anchors:
-                    title = a.get("text", "").split("\n")[0].strip()
-                    href = a.get("href", "")
-                    if not title or len(title) < 6:
+                print(f"[worldbank] fetched {len(cards)} card links (pre-filter)")
+                seen = set()
+                for c in cards:
+                    href = c.get("href", "")
+                    if href in seen:
                         continue
-                    blob = a.get("parentText", "")
+                    seen.add(href)
+                    title = c.get("text", "").split("\n")[0].strip()
+                    if not title or len(title) < 4:
+                        continue
+                    blob = c.get("cardText", "")
                     location = None
                     for line in blob.split("\n"):
-                        low = line.lower()
+                        low = line.strip().lower()
                         if any(k in low for k in ("argentina", "buenos aires", "remote", "home-based")):
                             location = line.strip()
                             break
