@@ -78,21 +78,19 @@ class ChangePageAdapter(Adapter):
 
     def fetch(self) -> list[JobPosting]:
         out: list[JobPosting] = []
+        pending: list[tuple[str, str, str, str | None]] = []
         with httpx.Client(timeout=30, headers=HEADERS, follow_redirects=True) as client:
-            for key, url, org, selector in WATCH_PAGES:
+            for entry in WATCH_PAGES:
+                key, url, org, selector = entry
                 try:
                     r = client.get(url)
                     r.raise_for_status()
-                except httpx.HTTPError as e:
-                    print(f"[change-detect] {key} error: {e}")
-                    continue
-                try:
                     text = _extract_content(r.text, selector)
+                    if not text:
+                        raise ValueError("empty content")
                 except Exception as e:
-                    print(f"[change-detect] {key} parse error: {e}")
-                    continue
-                if not text:
-                    print(f"[change-detect] {key} empty content, skipping")
+                    print(f"[change-detect] {key} httpx failed: {e} — queuing Playwright fallback")
+                    pending.append(entry)
                     continue
                 digest = hashlib.sha256(text.encode("utf-8")).hexdigest()[:12]
                 out.append(JobPosting(
@@ -104,4 +102,43 @@ class ChangePageAdapter(Adapter):
                     description=text[:400],
                 ))
                 print(f"[change-detect] {key} ok (rev {digest}, {len(text)} chars)")
+
+        if pending:
+            try:
+                from playwright.sync_api import sync_playwright
+            except Exception as e:
+                print(f"[change-detect] Playwright unavailable: {e}")
+                return out
+            with sync_playwright() as p:
+                browser = p.chromium.launch(headless=True)
+                ctx = browser.new_context(
+                    user_agent=HEADERS["User-Agent"], locale="es-AR",
+                )
+                page = ctx.new_page()
+                for key, url, org, selector in pending:
+                    try:
+                        page.goto(url, wait_until="networkidle", timeout=45000)
+                        html = page.content()
+                    except Exception as e:
+                        print(f"[change-detect] {key} playwright failed: {e}")
+                        continue
+                    try:
+                        text = _extract_content(html, selector)
+                    except Exception as e:
+                        print(f"[change-detect] {key} parse error: {e}")
+                        continue
+                    if not text:
+                        print(f"[change-detect] {key} empty content after playwright")
+                        continue
+                    digest = hashlib.sha256(text.encode("utf-8")).hexdigest()[:12]
+                    out.append(JobPosting(
+                        source=f"watch-{key}",
+                        title=f"[check page] {org} — rev {digest}",
+                        url=url,
+                        location="Argentina",
+                        organization=org,
+                        description=text[:400],
+                    ))
+                    print(f"[change-detect] {key} ok via playwright (rev {digest}, {len(text)} chars)")
+                browser.close()
         return out

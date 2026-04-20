@@ -32,27 +32,23 @@ class EmbassyUSAAdapter(Adapter):
             for url in SEARCH_URLS:
                 try:
                     page.goto(url, wait_until="networkidle", timeout=45000)
-                    # ERA shows vacancies in a table once loaded.
-                    page.wait_for_selector('table, a[href*="vacancyDetail"]', timeout=15000)
+                    # ERA vacancy links use /dos-era/vacancy/...
+                    page.wait_for_selector('a[href*="/dos-era/vacancy"]', timeout=15000)
                 except Exception as e:
                     print(f"[emb-usa] nav error {url}: {e}")
                     continue
 
                 data = page.evaluate(
                     """() => {
-                        const trs = Array.from(document.querySelectorAll('tr'));
-                        const rows = trs.map(tr => {
-                            const a = tr.querySelector('a[href]');
-                            const cells = Array.from(tr.querySelectorAll('td')).map(td => td.innerText.trim());
-                            return {
-                                href: a ? a.href : null,
-                                title: a ? a.innerText.trim() : '',
-                                cells: cells,
-                            };
-                        }).filter(r => r.href);
+                        const links = Array.from(document.querySelectorAll('a[href*="/dos-era/vacancy"]'));
+                        const rows = links.map(a => ({
+                            href: a.href,
+                            title: (a.innerText || '').trim(),
+                            near: (a.closest('tr, li, article, div')?.innerText || '').trim().slice(0, 400),
+                        }));
                         return {
                             rows: rows,
-                            bodyText: (document.body?.innerText || '').slice(0, 2000),
+                            bodyText: (document.body?.innerText || '').slice(0, 1500),
                         };
                     }"""
                 )
@@ -62,13 +58,10 @@ class EmbassyUSAAdapter(Adapter):
                 for r in rows:
                     href = r.get("href") or ""
                     title = (r.get("title") or "").split("\n")[0].strip()
-                    cells = r.get("cells") or []
+                    near = r.get("near") or ""
                     if not title or len(title) < 4:
                         continue
-                    # ERA links look like .../vacancyDetail.hms?... — filter.
-                    if "vacancy" not in href.lower():
-                        continue
-                    blob = " | ".join(cells) + "\n" + body
+                    blob = near + "\n" + body
                     # Buenos Aires implicit (this is the Argentina post site).
                     p_ = JobPosting(
                         source=self.name,

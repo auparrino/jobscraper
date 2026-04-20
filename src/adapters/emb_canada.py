@@ -8,7 +8,10 @@ from ..models import JobPosting
 # DataTables that pull JSON; easier to let JS render and scrape the table.
 BASE = "https://staffing-les.international.gc.ca"
 SEARCH_URLS = [
-    f"{BASE}/en/search/?term=argentina",
+    # Fetch the full board (usually <100 openings) and filter client-side.
+    # Their own ?term=argentina returns zero when only Buenos Aires postings
+    # exist because term matches position title, not country/city.
+    f"{BASE}/en/search/",
 ]
 
 

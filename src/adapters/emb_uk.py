@@ -32,37 +32,42 @@ class EmbassyUKAdapter(Adapter):
             for url in SEARCH_URLS:
                 try:
                     page.goto(url, wait_until="networkidle", timeout=60000)
-                    page.wait_for_selector('a[href*="/vacancy/"]', timeout=20000)
+                    page.wait_for_selector('table tr', timeout=20000)
                 except Exception as e:
                     print(f"[emb-uk] nav error {url}: {e}")
                     continue
 
-                anchors = page.evaluate(
+                # TalentLink renders the result list as a <table>. Each <tr>
+                # has a title anchor, a country cell, a job-type cell, etc.
+                rows = page.evaluate(
                     """() => {
-                        const links = Array.from(document.querySelectorAll('a[href*="/vacancy/"]'));
-                        return links.map(a => ({
-                            href: a.href,
-                            text: (a.innerText || '').trim(),
-                            rowText: (a.closest('tr, li, article, .row, div.vacancy')?.innerText || '').trim().slice(0, 600),
-                        }));
+                        const trs = Array.from(document.querySelectorAll('tr'));
+                        return trs.map(tr => {
+                            const a = tr.querySelector('a[href]');
+                            const cells = Array.from(tr.querySelectorAll('td, th'))
+                                .map(c => c.innerText.trim());
+                            return {
+                                href: a ? a.href : null,
+                                title: a ? a.innerText.trim() : '',
+                                cells: cells,
+                                rowText: tr.innerText.trim().slice(0, 600),
+                            };
+                        });
                     }"""
                 )
-                print(f"[emb-uk] {len(anchors)} anchors (pre-filter)")
-                for a in anchors:
-                    href = a.get("href", "")
-                    title = a.get("text", "").split("\n")[0].strip()
-                    if not title or len(title) < 6:
+                print(f"[emb-uk] {len(rows)} rows (pre-filter)")
+                for r in rows:
+                    href = r.get("href") or ""
+                    title = (r.get("title") or "").split("\n")[0].strip()
+                    if not title or len(title) < 6 or not href:
                         continue
-                    # The listing URL itself contains /vacancy/1/adv/ — skip it.
-                    if href.rstrip("/").endswith("/adv"):
+                    # Skip nav anchors (the listing URL itself, filter toggles).
+                    if href.rstrip("/").endswith("/adv") or "#" in href or "/lang-" not in href:
+                        # Job-detail URLs on TalentLink include /lang-XX/.
                         continue
-                    blob = a.get("rowText", "")
-                    location = None
-                    for line in blob.split("\n"):
-                        ll = line.lower()
-                        if any(k in ll for k in ("argentina", "buenos aires", "remote", "home-based")):
-                            location = line.strip()
-                            break
+                    cells = r.get("cells") or []
+                    location = " · ".join(cells[1:3]) if len(cells) > 2 else None
+                    blob = r.get("rowText", "")
                     p_ = JobPosting(
                         source=self.name,
                         title=title,

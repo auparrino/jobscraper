@@ -32,9 +32,10 @@ class FAOAdapter(Adapter):
             for url in SEARCH_URLS:
                 try:
                     page.goto(url, wait_until="networkidle", timeout=60000)
-                    # Taleo result rows are table cells with class=titlelink.
+                    # FAO's Taleo template renders each opening as an
+                    # application.jss link (25 per page).
                     page.wait_for_selector(
-                        'a.titlelink, a[id^="requisitionListInterface"]',
+                        'a[href*="application.jss"]',
                         timeout=25000,
                     )
                 except Exception as e:
@@ -43,11 +44,11 @@ class FAOAdapter(Adapter):
 
                 anchors = page.evaluate(
                     """() => {
-                        const q = 'a.titlelink, a[id^="requisitionListInterface"]';
+                        const q = 'a[href*="application.jss"]';
                         return Array.from(document.querySelectorAll(q)).map(a => ({
                             href: a.href,
                             text: (a.innerText || '').trim(),
-                            rowText: (a.closest('tr, li')?.innerText || '').trim().slice(0, 500),
+                            rowText: (a.closest('tr, li, div.joblist-item, div')?.innerText || '').trim().slice(0, 500),
                         }));
                     }"""
                 )
