@@ -1,6 +1,19 @@
 {
-  "run_at": "2026-04-20T22:41:58.266132+00:00",
-  "new_count": 0,
+  "run_at": "2026-04-20T22:44:38.239412+00:00",
+  "new_count": 1,
   "errors": {},
-  "jobs": []
+  "jobs": [
+    {
+      "source": "idealist",
+      "title": "Operations Manager",
+      "url": "https://www.idealist.org/en/nonprofit-job/9f69926992ea42aa8a7e6cc01c5e1c70-operations-manager-seed-spot-phoenix",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "SEED SPOT",
+      "raw": {},
+      "fingerprint": "b0b1722df6e3f9cba4691933a1e1c0aeaa888ec44b463e3c90ba9c6607e878a5",
+      "seen_at": "2026-04-20T22:44:38.239487+00:00"
+    }
+  ]
 }
