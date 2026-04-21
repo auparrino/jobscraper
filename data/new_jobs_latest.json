@@ -1,225 +1,249 @@
 {
-  "run_at": "2026-04-21T11:00:12.971227+00:00",
-  "new_count": 18,
+  "run_at": "2026-04-21T22:32:43.408440+00:00",
+  "new_count": 19,
   "errors": {},
   "jobs": [
     {
       "source": "reliefweb",
-      "title": "ACF - Consultant to support the development of a state of play report on criminalization of aid",
-      "url": "https://reliefweb.int/job/4208531/acf-consultant-support-development-state-play-report-criminalization-aid",
+      "title": "Safeguarding Advisor, East Africa",
+      "url": "https://reliefweb.int/job/4208637/safeguarding-advisor-east-africa",
       "location": null,
-      "posted_at": "Tue, 21 Apr 2026 10:41:41 +0000",
+      "posted_at": "Tue, 21 Apr 2026 14:10:07 +0000",
       "description": null,
-      "organization": "Action contre la Faim France",
+      "organization": "Mercy Corps",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "98332c4e9fafcf60a55a37548e44b1e9afbf9345682863bdcd21f7ee341b2b57",
-      "seen_at": "2026-04-21T11:00:12.971268+00:00"
+      "fingerprint": "606c77f88ab4dc119c67b0dbaaecadbdeeb46dd10d3ea10319f351366e321f22",
+      "seen_at": "2026-04-21T22:32:43.408472+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "ITT FY26-0219 Video Editing",
+      "url": "https://reliefweb.int/job/4208626/itt-fy26-0219-video-editing",
+      "location": null,
+      "posted_at": "Tue, 21 Apr 2026 13:43:20 +0000",
+      "description": null,
+      "organization": "Plan International",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "688f008e9c3a5fc61826b2eaa710e5f1bdfa5b8ddebdb9e068be0851ee32ea65",
+      "seen_at": "2026-04-21T22:32:43.408485+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Communications Volunteer - Violence Prevention & Gender Justice",
+      "url": "https://reliefweb.int/job/4208587/communications-volunteer-violence-prevention-gender-justice",
+      "location": null,
+      "posted_at": "Tue, 21 Apr 2026 13:23:33 +0000",
+      "description": null,
+      "organization": "EmpowerVan",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "d18fa63563818599623e060699f9bdd49bba362181dc8595fdcf531f7b250824",
+      "seen_at": "2026-04-21T22:32:43.408494+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "ToR Consultant for Research on Climate Change and Gender-Based Violence",
+      "url": "https://reliefweb.int/job/4208547/tor-consultant-research-climate-change-and-gender-based-violence",
+      "location": null,
+      "posted_at": "Tue, 21 Apr 2026 13:10:05 +0000",
+      "description": null,
+      "organization": "Kvinna Till Kvinna",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "98fd8e79ec9e85d35c96e9b6b5e1c5324f4969260f7d1889190f03e16c044d13",
+      "seen_at": "2026-04-21T22:32:43.408501+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Call For Experts – Humanitarian response & supply chain strategy",
+      "url": "https://reliefweb.int/job/4208538/call-experts-humanitarian-response-supply-chain-strategy",
+      "location": null,
+      "posted_at": "Tue, 21 Apr 2026 13:07:44 +0000",
+      "description": null,
+      "organization": "Global Impact Consultancy Limited",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "b88c407d0a146323c5a7a3a564ddb25e368b6275ec70beaefafcb446decc92cb",
+      "seen_at": "2026-04-21T22:32:43.408509+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "TOR - Final external evaluation of the “Strengthening the sustainability of an independent, free and pluralist media ecosystem in Ukraine” project",
+      "url": "https://reliefweb.int/job/4208398/tor-final-external-evaluation-strengthening-sustainability-independent-free-and-pluralist-media-ecosystem-ukraine-project",
+      "location": null,
+      "posted_at": "Tue, 21 Apr 2026 12:31:15 +0000",
+      "description": null,
+      "organization": "Reporters sans Frontières",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "b5b8553acb68385a9d5ece27552d9bfac05cdf5d8881c0f0aeeb6939fe9356bc",
+      "seen_at": "2026-04-21T22:32:43.408519+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Grants Officer",
+      "url": "https://reliefweb.int/job/4208154/grants-officer",
+      "location": null,
+      "posted_at": "Tue, 21 Apr 2026 11:12:10 +0000",
+      "description": null,
+      "organization": "Platform for Peace and Humanity",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "49382f5e9bb8529bb9d2e50e30b6885c2191239c01e0755203e7f97514a3c160",
+      "seen_at": "2026-04-21T22:32:43.408525+00:00"
+    },
+    {
+      "source": "unjobs",
+      "title": "Senior Migrant Protection Associate, Buenos Aires, Argentina",
+      "url": "https://unjobs.org/vacancies/1776759375890",
+      "location": null,
+      "posted_at": "2026-04-21T21:06:52Z",
+      "description": null,
+      "organization": null,
+      "raw": {},
+      "fingerprint": "486e9a10d407421dfdd1689ec8547e671cf184ae02a9bdd8271f742fbf6d740c",
+      "seen_at": "2026-04-21T22:32:43.408531+00:00"
     },
     {
       "source": "impactpool",
-      "title": "Consultancy on Grants Monitoring and Reporting",
-      "url": "https://www.impactpool.org/jobs/1208930",
-      "location": "Remote | Bonn",
+      "title": "P3M Systems Manager",
+      "url": "https://www.impactpool.org/jobs/1209090",
+      "location": "Remote | Copenhagen",
       "posted_at": null,
       "description": null,
-      "organization": "UNCCD - United Nations Convention to Combat Desertification",
+      "organization": "UNOPS - United Nations Office for Project Services",
       "raw": {},
-      "fingerprint": "e21f0d84e53343ac08c1134bacc4184985f11edb8e2f8361e4ccf929a31b751d",
-      "seen_at": "2026-04-21T11:00:12.971285+00:00"
+      "fingerprint": "587330caf74f7dd292f6aea0d431754eb1537ddd8c89891214d68f7914af9aca",
+      "seen_at": "2026-04-21T22:32:43.408537+00:00"
     },
     {
       "source": "impactpool",
-      "title": "Graphic Designer and Content Producer",
-      "url": "https://www.impactpool.org/jobs/1208929",
-      "location": "Remote | Home Based - May require travel",
+      "title": "Associate, Regional Support - Asia Pacific",
+      "url": "https://www.impactpool.org/jobs/1209078",
+      "location": "Remote | Pacific",
       "posted_at": null,
       "description": null,
-      "organization": "UNCCD - United Nations Convention to Combat Desertification",
+      "organization": "CHAI - Clinton Health Access Initiative",
       "raw": {},
-      "fingerprint": "e939621d85d1af9fcb19a50eaf8d72e971b3fb0f7fb687561e9d3e8dd30f18ca",
-      "seen_at": "2026-04-21T11:00:12.971295+00:00"
+      "fingerprint": "d982c17c6adb2146eae62f2661f86bae153c98625aac43d32e23c07aadf3eea2",
+      "seen_at": "2026-04-21T22:32:43.408543+00:00"
     },
     {
       "source": "impactpool",
-      "title": "Resettlement Case Management Intern",
-      "url": "https://www.impactpool.org/jobs/1208926",
-      "location": "Remote | Baltimore",
+      "title": "Programme Support Intern",
+      "url": "https://www.impactpool.org/jobs/1209071",
+      "location": "Remote | Abu Dhabi",
+      "posted_at": null,
+      "description": null,
+      "organization": "UNEP - United Nations Environment Programme",
+      "raw": {},
+      "fingerprint": "a25904df324e7a31957c290c7e7974d1fd850d9f889c6cdf156ddb201394577e",
+      "seen_at": "2026-04-21T22:32:43.408548+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "Senior Officer, Principal Giving East",
+      "url": "https://www.impactpool.org/jobs/1209043",
+      "location": "Remote | New York City",
       "posted_at": null,
       "description": null,
       "organization": "IRC - International Rescue Committee",
       "raw": {},
-      "fingerprint": "182044bb2d3d831cbcfb3ed294b1270e3b18445328d485906593494055e64fcb",
-      "seen_at": "2026-04-21T11:00:12.971303+00:00"
+      "fingerprint": "5335acb568efeaa59c71f0b8b5e1f3f3d6a587a814c48455fbb70dac6cc026ab",
+      "seen_at": "2026-04-21T22:32:43.408553+00:00"
     },
     {
       "source": "impactpool",
-      "title": "Youth Success Specialist Intern",
-      "url": "https://www.impactpool.org/jobs/1208925",
-      "location": "Remote | Baltimore",
-      "posted_at": null,
-      "description": null,
-      "organization": "IRC - International Rescue Committee",
-      "raw": {},
-      "fingerprint": "2702c228e00a616524d8b6e24a36ed7421570d13c25fec206c20c7a3d4a4b070",
-      "seen_at": "2026-04-21T11:00:12.971310+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "Caseworker",
-      "url": "https://www.impactpool.org/jobs/1208921",
-      "location": "Remote | San Jose",
-      "posted_at": null,
-      "description": null,
-      "organization": "IRC - International Rescue Committee",
-      "raw": {},
-      "fingerprint": "b7f4dc3495dc1c7a9e69e24f7d557ad6306d3c160bda98208512788ce1861b80",
-      "seen_at": "2026-04-21T11:00:12.971318+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "Intensive Service Intern",
-      "url": "https://www.impactpool.org/jobs/1208920",
-      "location": "Remote | Baltimore",
-      "posted_at": null,
-      "description": null,
-      "organization": "IRC - International Rescue Committee",
-      "raw": {},
-      "fingerprint": "6166aa760a43e80bf62d50feaba5e94c89bf1cca8ebdac41b5f2254ef5960792",
-      "seen_at": "2026-04-21T11:00:12.971325+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "Extended Services Intern",
-      "url": "https://www.impactpool.org/jobs/1208918",
-      "location": "Remote | Baltimore",
-      "posted_at": null,
-      "description": null,
-      "organization": "IRC - International Rescue Committee",
-      "raw": {},
-      "fingerprint": "1fa21b537a7754bc2c3548bc65f1d91f27908a430875941d891a2affcecc82d5",
-      "seen_at": "2026-04-21T11:00:12.971331+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "Development of child-centered municipal contingency plans Consultant, Boa Vista (remote), Roraima, Brazil, [6 months]",
-      "url": "https://www.impactpool.org/jobs/1208913",
-      "location": "Remote | Boa Vista",
+      "title": "Communications Intern, Digital Impact Division, Valencia- Spain (6 months on-site or remote)",
+      "url": "https://www.impactpool.org/jobs/1209025",
+      "location": "Remote | Valencia | Madrid",
       "posted_at": null,
       "description": null,
       "organization": "UNICEF - United Nations Children’s Fund",
       "raw": {},
-      "fingerprint": "aa138c20bb4dfb886648480e28febdbad88dfae3356161b01822057714383df9",
-      "seen_at": "2026-04-21T11:00:12.971338+00:00"
+      "fingerprint": "8d07c062e4d5cd806a27cd0615bf2a5d39436c5074606f451afb18a08936d284",
+      "seen_at": "2026-04-21T22:32:43.408559+00:00"
     },
     {
       "source": "unicef",
-      "title": "Short Term National Consultancy for ACAR Youth Participation Activities, Ankara, Türkiye (Nationals only) - Home Based, 3 months",
-      "url": "https://jobs.unicef.org/en-us/job/592566/short-term-national-consultancy-for-acar-youth-participation-activities-ankara-türkiye-nationals-only-home-based-3-months",
-      "location": "short term national consultancy for acar youth participation activities ankara türkiye nationals only home based 3 months",
-      "posted_at": null,
-      "description": null,
-      "organization": "UNICEF",
-      "raw": {},
-      "fingerprint": "f5546d869ffefa4e124bd139561dee8604919e8e935fb6f6b251636ecc58bfed",
-      "seen_at": "2026-04-21T11:00:12.971356+00:00"
-    },
-    {
-      "source": "unicef",
-      "title": "Communication and Advocacy Consultant, Nairobi, Kenya, Remote + travel, # 592538",
-      "url": "https://jobs.unicef.org/en-us/job/592538/communication-and-advocacy-consultant-nairobi-kenya-remote-travel-592538",
+      "title": "Mental Health Policy, Accountability and Governance consultant. Global PD, COE, Mental Health Unit, 12 months, Nairobi, Kenya (Remote), #592522",
+      "url": "https://jobs.unicef.org/en-us/job/592522/mental-health-policy-accountability-and-governance-consultant-global-pd-coe-mental-health-unit-12-months-nairobi-kenya-remote-592522",
       "location": null,
       "posted_at": null,
       "description": null,
       "organization": "UNICEF",
       "raw": {},
-      "fingerprint": "4a85167cc94d308f9369b9d175b028877e60c631f82327bab9bafb833f4c7ad6",
-      "seen_at": "2026-04-21T11:00:12.971375+00:00"
-    },
-    {
-      "source": "unicef",
-      "title": "Review of the national system for monitoring the risk of education segregation of Roma children, Geneva, Switzerlan, 5 months (Internationals, Home Based)",
-      "url": "https://jobs.unicef.org/en-us/job/592556/review-of-the-national-system-for-monitoring-the-risk-of-education-segregation-of-roma-children-geneva-switzerlan-5-months-internationals-home-based",
-      "location": "review of the national system for monitoring the risk of education segregation of roma children geneva switzerlan 5 months internationals home based",
-      "posted_at": null,
-      "description": null,
-      "organization": "UNICEF",
-      "raw": {},
-      "fingerprint": "55959009415c53842526d783e659b9b7e4026137580c769d64aa30ca182d4431",
-      "seen_at": "2026-04-21T11:00:12.971388+00:00"
-    },
-    {
-      "source": "unicef",
-      "title": "Communications Intern, Digital Impact Division, Valencia- Spain (6 months on-site or remote)",
-      "url": "https://jobs.unicef.org/en-us/job/592479/communications-intern-digital-impact-division-valencia-spain-6-months-onsite-or-remote",
-      "location": null,
-      "posted_at": null,
-      "description": null,
-      "organization": "UNICEF",
-      "raw": {},
-      "fingerprint": "eb6fb2e7ae6495cf708215aa932f8f0d68a6d9639006fcafc54b75c617c1c547",
-      "seen_at": "2026-04-21T11:00:12.971396+00:00"
+      "fingerprint": "71414dff78eed08a7cc7d5c2a7564192b4cf65dbcd2611e02e3b396cb53af699",
+      "seen_at": "2026-04-21T22:32:43.408566+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=uvdtaktrpt0&returnToSearch=true&jnum=73541&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=tzzkbwnbpt0&returnToSearch=true&jnum=73541&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "579121d913fca70aefe0592d3a8d212baaff02f5ac34f454f757cfff81974d92",
-      "seen_at": "2026-04-21T11:00:12.971404+00:00"
+      "fingerprint": "fc82e52dc213db2b34f7a33832dcdd2236e672647918255bc6ed619bdf91fa14",
+      "seen_at": "2026-04-21T22:32:43.408571+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=uvdtaktrpt0&returnToSearch=true&jnum=73817&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=tzzkbwnbpt0&returnToSearch=true&jnum=73817&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "70f605162905065369faede6e8a4e791c2d894a2a4ae9fa3ffa7ebfa4cfb4bfe",
-      "seen_at": "2026-04-21T11:00:12.971411+00:00"
+      "fingerprint": "22fa3e79daa272ae0dbd59581ffa3003f317062c74e650f393dd0b5d1900b565",
+      "seen_at": "2026-04-21T22:32:43.408577+00:00"
     },
     {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev 13a275e171db",
+      "title": "[check page] Embassy of Sweden Argentina — rev 954e4e6a7f0a",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "5f5e1cd0f71dea22e9f12ca16644eaef240c2d29310f2d6321550ac435a6fdf2",
-      "seen_at": "2026-04-21T11:00:12.971427+00:00"
+      "fingerprint": "a92152170263230d8033ed4238f71de0784d738670eca2541b634acd046736cb",
+      "seen_at": "2026-04-21T22:32:43.408584+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev f0ff72a44981",
+      "title": "[check page] Embassy of Japan Argentina — rev 518f66af8305",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.880c0317.1776769203.7e13abe1 https://errors.edgesuite.net/18.880c0317.1776769203.7e13abe1",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.3351db17.1776810755.13bcfc9f https://errors.edgesuite.net/18.3351db17.1776810755.13bcfc9f",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "77b811a96833b08fde49e141a9a6b077eb99580db0a3d45df6443fe92d09c98c",
-      "seen_at": "2026-04-21T11:00:12.971446+00:00"
+      "fingerprint": "fcc406a1224bbd2119979a6f88cf348f74c4a4a89d81a69b1514b7968aa2a067",
+      "seen_at": "2026-04-21T22:32:43.408590+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev 8ae8ec3a5b7d",
+      "title": "[check page] Embassy of Greece Argentina — rev a15840b47a4d",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.77dc6068.1776769212.2de4150b https://errors.edgesuite.net/18.77dc6068.1776769212.2de4150b",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.8a17c817.1776810762.3c4bc90c https://errors.edgesuite.net/18.8a17c817.1776810762.3c4bc90c",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "8f4bd52295b031349c517721aae40587c1284cd2f5cc2f242d99fc90d776846f",
-      "seen_at": "2026-04-21T11:00:12.971457+00:00"
+      "fingerprint": "144c217281949a63a99e3cefe1bd4d4d629058df249be2fa18be65fbe4e5e87f",
+      "seen_at": "2026-04-21T22:32:43.408596+00:00"
     }
   ]
 }
