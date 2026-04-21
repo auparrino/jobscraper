@@ -4,111 +4,359 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Jobscraper — ofertas internacionales en AR/remoto</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Limelight&family=Poiret+One&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #0b0d10;
-    --panel: #14171c;
-    --panel-2: #1a1e24;
-    --border: #242932;
-    --text: #e8ecf1;
-    --muted: #8b95a3;
-    --accent: #7ab7ff;
-    --accent-soft: rgba(122, 183, 255, 0.12);
-    --ok: #7dd181;
-    --warn: #f2c572;
-    --err: #ef6e6e;
-    --new: #d5a6ff;
+    --navy: #0a1628;
+    --navy-deep: #000814;
+    --navy-soft: #152844;
+    --red: #722f37;
+    --terracota: #c86b4a;
+    --terracota-soft: #e08264;
+    --terracota-deep: #3a1d14;
+    --gold: #d4af37;
+    --yellow: #c9a961;
+    --sapphire: #2a5d8f;
+    --cream: #e8dcc4;
+    --cream-dim: #b09a78;
+    --cream-muted: rgba(232, 220, 196, 0.7);
+    --rule: rgba(212, 175, 55, 0.18);
+    --rule-strong: rgba(212, 175, 55, 0.4);
+
+    --font-display: "Limelight", "Cormorant Garamond", Georgia, serif;
+    --font-body: "Work Sans", system-ui, sans-serif;
+    --font-label: "Poiret One", "Cormorant Garamond", Georgia, serif;
+    --font-bream: "Cormorant Garamond", Georgia, serif;
   }
+
   * { box-sizing: border-box; }
-  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
-    font-size: 14px; line-height: 1.5; }
-  a { color: var(--accent); text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  .wrap { max-width: 1100px; margin: 0 auto; padding: 28px 20px 80px; }
-  h1 { margin: 0 0 4px; font-size: 22px; letter-spacing: -0.01em; }
-  .sub { color: var(--muted); font-size: 13px; margin-bottom: 24px; }
-  .sub code { background: var(--panel); padding: 2px 6px; border-radius: 4px; font-size: 12px; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background:
+      radial-gradient(ellipse at top, rgba(212, 175, 55, 0.08), transparent 60%),
+      radial-gradient(ellipse at bottom right, rgba(42, 93, 143, 0.18), transparent 55%),
+      var(--navy);
+    background-attachment: fixed;
+    color: var(--cream);
+    font-family: var(--font-body);
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
+    position: relative;
+  }
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.3'/%3E%3C/svg%3E");
+    opacity: 0.06;
+    pointer-events: none;
+    z-index: 1;
+    mix-blend-mode: overlay;
+  }
 
-  .stats { display: flex; gap: 18px; flex-wrap: wrap; margin-bottom: 20px; }
-  .stat { background: var(--panel); border: 1px solid var(--border); border-radius: 8px;
-    padding: 10px 14px; min-width: 100px; }
-  .stat-n { font-size: 20px; font-weight: 600; }
-  .stat-l { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; }
+  a { color: var(--gold); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color 0.12s, color 0.12s; }
+  a:hover { border-bottom-color: var(--gold); color: var(--yellow); }
 
-  .controls { background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
-    padding: 14px; margin-bottom: 20px; display: grid; grid-template-columns: 1fr auto auto; gap: 10px; }
-  .controls input, .controls select { background: var(--panel-2); color: var(--text);
-    border: 1px solid var(--border); border-radius: 6px; padding: 8px 10px; font-size: 13px; }
-  .controls input:focus, .controls select:focus { outline: none; border-color: var(--accent); }
-  .chips { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px; grid-column: 1 / -1; }
-  .chip { background: var(--panel-2); border: 1px solid var(--border); color: var(--muted);
-    padding: 4px 10px; border-radius: 999px; font-size: 12px; cursor: pointer; }
-  .chip.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 40px 28px 80px; position: relative; z-index: 2; }
 
-  .section-title { font-size: 13px; text-transform: uppercase; letter-spacing: 0.08em;
-    color: var(--muted); margin: 24px 0 10px; }
+  .masthead { text-align: center; padding: 20px 0 28px; position: relative; }
+  .masthead::before, .masthead::after {
+    content: "";
+    position: absolute; left: 0; right: 0; height: 14px;
+    background-image:
+      linear-gradient(135deg, transparent 50%, rgba(212, 175, 55, 0.5) 50%),
+      linear-gradient(225deg, transparent 50%, rgba(212, 175, 55, 0.5) 50%);
+    background-size: 14px 14px;
+    background-position: 0 0, 7px 0;
+    background-repeat: repeat-x;
+    opacity: 0.4;
+  }
+  .masthead::before { top: 0; }
+  .masthead::after { bottom: 0; }
 
+  .marquee {
+    font-family: var(--font-display);
+    font-size: clamp(34px, 6vw, 56px);
+    letter-spacing: 0.14em;
+    color: var(--gold);
+    text-transform: uppercase;
+    text-shadow:
+      0 0 4px rgba(212, 175, 55, 0.6),
+      0 0 14px rgba(212, 175, 55, 0.25);
+    margin: 6px 0 2px;
+  }
+  .tag {
+    font-family: var(--font-label);
+    color: var(--cream-muted);
+    font-size: 13px;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+  }
+  .tag .sep { color: var(--gold); margin: 0 8px; }
+  .tag code {
+    font-family: var(--font-label);
+    color: var(--yellow);
+    background: transparent;
+    letter-spacing: 0.12em;
+  }
+
+  .mono-label {
+    font-family: var(--font-label);
+    font-size: 12px;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--cream-muted);
+  }
+
+  /* stats row */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 14px;
+    margin: 28px 0 18px;
+  }
+  .stat {
+    background: linear-gradient(180deg, rgba(21, 40, 68, 0.55), rgba(10, 22, 40, 0.55));
+    border: 1px solid var(--rule);
+    padding: 16px 18px;
+    position: relative;
+  }
+  .stat::before {
+    content: '';
+    position: absolute; inset: 5px;
+    border: 1px solid rgba(212, 175, 55, 0.12);
+    pointer-events: none;
+  }
+  .stat-n {
+    font-family: var(--font-label);
+    font-size: 32px;
+    color: var(--gold);
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+  .stat-l {
+    font-family: var(--font-label);
+    color: var(--cream-dim);
+    font-size: 11px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    margin-top: 6px;
+  }
+
+  /* controls */
+  .controls {
+    background: rgba(10, 22, 40, 0.6);
+    border: 1px solid var(--rule);
+    padding: 16px;
+    margin: 24px 0 22px;
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    gap: 10px;
+    position: relative;
+  }
+  .controls::before {
+    content: '';
+    position: absolute; inset: 5px;
+    border: 1px solid rgba(212, 175, 55, 0.1);
+    pointer-events: none;
+  }
+  .controls input, .controls select {
+    font-family: var(--font-body);
+    color: var(--cream);
+    background: rgba(0, 8, 20, 0.55);
+    border: 1px solid var(--rule);
+    padding: 10px 12px;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    outline: none;
+    transition: border-color 0.12s;
+  }
+  .controls input::placeholder { color: var(--cream-dim); font-style: italic; }
+  .controls input:focus, .controls select:focus { border-color: var(--gold); }
+  .controls select { appearance: none; padding-right: 28px;
+    background-image: linear-gradient(45deg, transparent 50%, var(--gold) 50%),
+                      linear-gradient(135deg, var(--gold) 50%, transparent 50%);
+    background-position: calc(100% - 14px) 50%, calc(100% - 8px) 50%;
+    background-size: 6px 6px, 6px 6px;
+    background-repeat: no-repeat;
+  }
+
+  .section-head {
+    display: flex; align-items: baseline; justify-content: space-between;
+    margin: 30px 0 12px;
+  }
+  .section-head .count {
+    font-family: var(--font-label);
+    color: var(--gold);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.12em;
+  }
+  .deco-divider {
+    height: 14px;
+    background-image:
+      linear-gradient(135deg, transparent 50%, rgba(212, 175, 55, 0.5) 50%),
+      linear-gradient(225deg, transparent 50%, rgba(212, 175, 55, 0.5) 50%);
+    background-size: 14px 14px;
+    background-position: 0 0, 7px 0;
+    background-repeat: repeat-x;
+    opacity: 0.35;
+    margin: 4px 0 16px;
+  }
+
+  /* jobs */
   .jobs { display: grid; gap: 10px; }
-  .job { background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
-    padding: 14px; transition: border-color 0.1s; }
-  .job:hover { border-color: var(--accent); }
-  .job-head { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
-  .job-title { font-size: 15px; font-weight: 500; }
-  .job-title a { color: var(--text); }
-  .job-title a:hover { color: var(--accent); text-decoration: none; }
-  .job-new { background: var(--new); color: #1a1e24; font-size: 10px; font-weight: 700;
-    padding: 2px 6px; border-radius: 4px; text-transform: uppercase; letter-spacing: 0.05em;
-    vertical-align: middle; margin-left: 8px; }
-  .job-meta { color: var(--muted); font-size: 12px; margin-top: 4px; display: flex;
-    gap: 10px; flex-wrap: wrap; }
-  .job-meta span { display: inline-flex; align-items: center; gap: 4px; }
-  .job-src { background: var(--panel-2); padding: 2px 7px; border-radius: 4px; font-size: 11px;
-    color: var(--muted); font-family: ui-monospace, monospace; }
-  .job-desc { color: var(--muted); font-size: 12px; margin-top: 6px; line-height: 1.4;
-    max-height: 2.8em; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical; }
+  .job {
+    background: linear-gradient(180deg, rgba(21, 40, 68, 0.4), rgba(10, 22, 40, 0.55));
+    border: 1px solid var(--rule);
+    padding: 18px 20px;
+    position: relative;
+    transition: border-color 0.15s, transform 0.15s;
+  }
+  .job:hover { border-color: var(--rule-strong); }
+  .job-head {
+    display: flex; justify-content: space-between; gap: 14px;
+    align-items: baseline; flex-wrap: wrap;
+  }
+  .job-title {
+    font-family: var(--font-bream);
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: 0.005em;
+  }
+  .job-title a { color: var(--cream); border-bottom-color: transparent; }
+  .job-title a:hover { color: var(--gold); border-bottom-color: var(--rule-strong); }
 
-  .watch { opacity: 0.92; }
-  .watch .job-src { color: var(--warn); }
+  .job-new {
+    display: inline-block;
+    background: var(--terracota);
+    color: var(--navy-deep);
+    font-family: var(--font-label);
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    padding: 3px 8px 2px;
+    margin-left: 10px;
+    vertical-align: middle;
+  }
 
-  .empty { text-align: center; color: var(--muted); padding: 40px; }
-  .err { color: var(--err); font-size: 12px; }
+  .job-src {
+    font-family: var(--font-label);
+    color: var(--yellow);
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    border: 1px solid var(--rule);
+    white-space: nowrap;
+  }
 
-  .footer { margin-top: 40px; color: var(--muted); font-size: 11px; text-align: center; }
-  .footer a { color: var(--muted); }
+  .job-meta {
+    display: flex; gap: 18px; flex-wrap: wrap;
+    margin-top: 8px;
+    color: var(--cream-muted);
+    font-size: 13px;
+    letter-spacing: 0.01em;
+  }
+  .job-meta .m { font-family: var(--font-label); font-size: 12px; letter-spacing: 0.18em;
+    color: var(--cream-dim); text-transform: uppercase; margin-right: 5px; }
+  .job-desc {
+    color: var(--cream-muted);
+    font-family: var(--font-bream);
+    font-size: 14px;
+    line-height: 1.5;
+    margin-top: 10px;
+    max-height: 3em;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    font-style: italic;
+  }
+
+  .watch .job-src { color: var(--terracota-soft); border-color: rgba(224, 130, 100, 0.35); }
+  .watch .job-title a { color: var(--cream-dim); }
+
+  .empty {
+    text-align: center;
+    font-family: var(--font-bream);
+    font-style: italic;
+    color: var(--cream-dim);
+    padding: 48px;
+    border: 1px dashed var(--rule);
+  }
+  .err { color: var(--terracota-soft); }
+
+  .footer {
+    margin-top: 50px;
+    text-align: center;
+    font-family: var(--font-label);
+    color: var(--cream-dim);
+    font-size: 11px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+  }
+
+  /* scrollbar (webkit) */
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-track { background: var(--navy-deep); }
+  ::-webkit-scrollbar-thumb { background: var(--navy-soft); border: 2px solid var(--navy-deep); }
+  ::-webkit-scrollbar-thumb:hover { background: var(--gold); }
+
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+  .fade-up { animation: fadeUp 0.5s cubic-bezier(0.19, 1, 0.22, 1) backwards; }
 
   @media (max-width: 640px) {
     .controls { grid-template-columns: 1fr; }
-    .job-head { flex-direction: column; gap: 6px; }
+    .job-head { flex-direction: column; gap: 8px; }
+    .job-src { align-self: flex-start; }
   }
 </style>
 </head>
 <body>
 <div class="wrap">
-  <h1>Jobscraper</h1>
-  <div class="sub" id="subtitle">Ofertas internacionales en Argentina o con modalidad remota.</div>
+  <div class="masthead fade-up">
+    <div class="tag">Embajadas <span class="sep">◆</span> Organismos internacionales <span class="sep">◆</span> Bancos de desarrollo</div>
+    <div class="marquee">Jobscraper</div>
+    <div class="tag" id="subtitle">Argentina · remoto · raw</div>
+  </div>
 
   <div class="stats" id="stats"></div>
 
   <div class="controls">
-    <input id="q" type="search" placeholder="Buscar por título, org o ubicación…" autofocus>
+    <input id="q" type="search" placeholder="Buscar por título, organización, ubicación…" autofocus>
     <select id="source"><option value="">Todas las fuentes</option></select>
     <select id="loc">
       <option value="all">AR + remoto</option>
       <option value="ar">Sólo Argentina</option>
       <option value="remote">Sólo remoto</option>
     </select>
-    <div class="chips" id="sourceChips"></div>
   </div>
 
-  <div class="section-title" id="jobsTitle">Ofertas</div>
+  <div class="section-head">
+    <div class="mono-label">Ofertas</div>
+    <div class="count" id="jobsCount">—</div>
+  </div>
+  <div class="deco-divider"></div>
   <div class="jobs" id="jobs"></div>
 
-  <div class="section-title" id="watchesTitle" style="display:none">Páginas monitoreadas (sin ATS propio)</div>
-  <div class="jobs" id="watches"></div>
+  <div id="watchesBlock" style="display:none">
+    <div class="section-head">
+      <div class="mono-label">Páginas monitoreadas</div>
+      <div class="count" id="watchesCount">—</div>
+    </div>
+    <div class="deco-divider"></div>
+    <div class="jobs" id="watches"></div>
+  </div>
 
-  <div class="footer" id="footer"></div>
+  <div class="footer" id="footer">
+    <span id="footer-time">—</span> <span class="sep">◆</span>
+    <a href="https://github.com/auparrino/jobscraper" target="_blank">source on github</a>
+  </div>
 </div>
 
 <script>
@@ -129,21 +377,21 @@ async function load() {
     const j = await r.json();
     state.all = j.jobs || [];
     state.newSet = new Set(j.new_fingerprints || []);
+    const dt = formatDate(j.generated_at);
     document.getElementById("subtitle").innerHTML =
-      `Ofertas internacionales en Argentina o con modalidad remota. ` +
-      `Última corrida: <code>${formatDate(j.generated_at)}</code>. ` +
-      `<a href="https://github.com/auparrino/jobscraper" target="_blank">repo</a>`;
+      `Ultimo scrape <code>${dt}</code> <span class="sep">◆</span> ${(j.active_count||0)} activas`;
+    document.getElementById("footer-time").textContent = "corrido " + dt;
     renderStats(j);
     populateSources();
     render();
   } catch (e) {
     document.getElementById("jobs").innerHTML =
-      `<div class="empty err">No se pudo cargar data.json: ${e.message}</div>`;
+      `<div class="empty err">No se pudo cargar data.json — ${escape(e.message)}</div>`;
   }
 }
 
 function formatDate(iso) {
-  if (!iso) return "?";
+  if (!iso) return "—";
   const d = new Date(iso);
   return d.toLocaleString("es-AR", { dateStyle: "medium", timeStyle: "short" });
 }
@@ -156,14 +404,12 @@ function matchLocation(j) {
   if (state.locMode === "remote") return REMOTE_RX.test(blob);
   return true;
 }
-
 function matchQuery(j) {
   if (!state.q) return true;
   const q = state.q.toLowerCase();
   return [j.title, j.location, j.organization, j.description]
     .filter(Boolean).some(v => v.toLowerCase().includes(q));
 }
-
 function matchSource(j) {
   if (!state.src) return true;
   return j.source === state.src;
@@ -171,7 +417,7 @@ function matchSource(j) {
 
 function renderStats(payload) {
   const real = state.all.filter(j => !isWatch(j));
-  const watches = state.all.filter(j => isWatch(j));
+  const watches = state.all.filter(isWatch);
   document.getElementById("stats").innerHTML = `
     <div class="stat"><div class="stat-n">${real.length}</div><div class="stat-l">ofertas activas</div></div>
     <div class="stat"><div class="stat-n">${payload.new_count || 0}</div><div class="stat-l">nuevas este run</div></div>
@@ -182,10 +428,7 @@ function renderStats(payload) {
 
 function populateSources() {
   const counts = {};
-  for (const j of state.all) {
-    if (isWatch(j)) continue;
-    counts[j.source] = (counts[j.source] || 0) + 1;
-  }
+  for (const j of state.all) { if (!isWatch(j)) counts[j.source] = (counts[j.source] || 0) + 1; }
   const sel = document.getElementById("source");
   const entries = Object.entries(counts).sort((a,b) => b[1]-a[1]);
   for (const [src, n] of entries) {
@@ -201,19 +444,18 @@ function render() {
     .filter(matchLocation).filter(matchQuery).filter(matchSource);
   const watches = state.all.filter(isWatch);
 
-  document.getElementById("jobsTitle").textContent = `Ofertas (${visible.length})`;
+  document.getElementById("jobsCount").textContent = String(visible.length).padStart(2, "0");
   document.getElementById("jobs").innerHTML = visible.length
     ? visible.map(renderJob).join("")
     : `<div class="empty">Sin resultados con estos filtros.</div>`;
 
-  const wt = document.getElementById("watchesTitle");
-  const wd = document.getElementById("watches");
+  const wb = document.getElementById("watchesBlock");
   if (state.src === "" && !state.q && state.locMode === "all" && watches.length) {
-    wt.style.display = "";
-    wd.innerHTML = watches.map(renderJob).join("");
+    wb.style.display = "";
+    document.getElementById("watchesCount").textContent = String(watches.length).padStart(2, "0");
+    document.getElementById("watches").innerHTML = watches.map(renderJob).join("");
   } else {
-    wt.style.display = "none";
-    wd.innerHTML = "";
+    wb.style.display = "none";
   }
 }
 
@@ -223,22 +465,21 @@ function escape(s) { return (s || "").replace(/[&<>"']/g,
 function renderJob(j) {
   const isNew = state.newSet.has(j.fingerprint);
   const watch = isWatch(j);
-  const meta = [
-    j.organization ? `<span>🏢 ${escape(j.organization)}</span>` : "",
-    j.location ? `<span>📍 ${escape(j.location)}</span>` : "",
-    j.posted_at ? `<span>📅 ${escape(j.posted_at)}</span>` : "",
-    j.first_seen_at ? `<span>👁 visto ${formatDate(j.first_seen_at).split(",")[0]}</span>` : "",
-  ].filter(Boolean).join("");
+  const metaParts = [];
+  if (j.organization) metaParts.push(`<span><span class="m">Org</span>${escape(j.organization)}</span>`);
+  if (j.location)     metaParts.push(`<span><span class="m">Loc</span>${escape(j.location)}</span>`);
+  if (j.posted_at)    metaParts.push(`<span><span class="m">Pub</span>${escape(j.posted_at)}</span>`);
+  if (j.first_seen_at) metaParts.push(`<span><span class="m">Visto</span>${escape(formatDate(j.first_seen_at).split(",")[0])}</span>`);
   return `
     <div class="job ${watch ? "watch" : ""}">
       <div class="job-head">
         <div class="job-title">
           <a href="${escape(j.url)}" target="_blank" rel="noopener">${escape(j.title)}</a>
-          ${isNew ? '<span class="job-new">NUEVO</span>' : ""}
+          ${isNew ? '<span class="job-new">Nuevo</span>' : ""}
         </div>
         <div class="job-src">${escape(j.source)}</div>
       </div>
-      <div class="job-meta">${meta}</div>
+      <div class="job-meta">${metaParts.join("")}</div>
       ${j.description ? `<div class="job-desc">${escape(j.description)}</div>` : ""}
     </div>`;
 }
