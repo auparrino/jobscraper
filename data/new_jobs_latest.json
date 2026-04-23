@@ -1,143 +1,157 @@
 {
-  "run_at": "2026-04-22T22:39:40.948956+00:00",
-  "new_count": 11,
+  "run_at": "2026-04-23T11:02:32.133767+00:00",
+  "new_count": 12,
   "errors": {},
   "jobs": [
     {
       "source": "reliefweb",
-      "title": "Mid-Term Review – NORCAP’s Nansen Programme for Ukraine 2025-2027",
-      "url": "https://reliefweb.int/job/4208840/mid-term-review-norcaps-nansen-programme-ukraine-2025-2027",
+      "title": "Development of a set of Global Guidelines to protect boys affected by sexual exploitation and abuse",
+      "url": "https://reliefweb.int/job/4209015/development-set-global-guidelines-protect-boys-affected-sexual-exploitation-and-abuse",
       "location": null,
-      "posted_at": "Wed, 22 Apr 2026 14:43:00 +0000",
+      "posted_at": "Thu, 23 Apr 2026 10:42:30 +0000",
       "description": null,
-      "organization": "Norwegian Capacity",
+      "organization": "ECPAT International",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "a13cc774e1dbef4a078d626dbda50bc14b144102d9ccdf2591f55f8f4ebfa67c",
-      "seen_at": "2026-04-22T22:39:40.948997+00:00"
+      "fingerprint": "cb14064c40432092dd4df79cf25a5b5d428bb2d25f7ab3d039908a43ffda1e89",
+      "seen_at": "2026-04-23T11:02:32.133804+00:00"
     },
     {
       "source": "reliefweb",
-      "title": "Project Officer – AI and Emerging Technologies",
-      "url": "https://reliefweb.int/job/4208825/project-officer-ai-and-emerging-technologies",
+      "title": "International Consultant- Support the Design of Blended Finance Mechanism through Analytical Assessments on Climate Related Human Mobility in Georgia",
+      "url": "https://reliefweb.int/job/4208991/international-consultant-support-design-blended-finance-mechanism-through-analytical-assessments-climate-related-human-mobility-georgia",
       "location": null,
-      "posted_at": "Wed, 22 Apr 2026 13:01:12 +0000",
+      "posted_at": "Thu, 23 Apr 2026 08:54:50 +0000",
       "description": null,
-      "organization": "Centre for Humanitarian Dialogue",
+      "organization": "International Organization for Migration",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "566dc9d4111209d517333242d89b29d1f4a58c4277a590aa1951d4d66af8ea54",
-      "seen_at": "2026-04-22T22:39:40.949014+00:00"
+      "fingerprint": "13303dbc47a8f6d8bb2454ff92d67516e6d0c94cbdc013b889e8543bae68cbb2",
+      "seen_at": "2026-04-23T11:02:32.133821+00:00"
+    },
+    {
+      "source": "reliefweb",
+      "title": "Fundraising Consultant – Donor Prospecting (Sri Lanka)",
+      "url": "https://reliefweb.int/job/4208879/fundraising-consultant-donor-prospecting-sri-lanka",
+      "location": null,
+      "posted_at": "Thu, 23 Apr 2026 08:23:34 +0000",
+      "description": null,
+      "organization": "Catholic Agency for Overseas Development",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "356f4a6f74bcda373a73958bf1fb1000d0ee467bc39b9c14b29dba97c7f02135",
+      "seen_at": "2026-04-23T11:02:32.133834+00:00"
     },
     {
       "source": "impactpool",
-      "title": "EECD Senior Officer - Beirut",
-      "url": "https://www.impactpool.org/jobs/1209327",
-      "location": "Remote | Beirut",
+      "title": "Consultoría Administrativa y de Apoyo a Eventos",
+      "url": "https://www.impactpool.org/jobs/1209368",
+      "location": "Remote | Santiago",
       "posted_at": null,
       "description": null,
-      "organization": "IRC - International Rescue Committee",
+      "organization": "IDB - Inter-American Development Bank",
       "raw": {},
-      "fingerprint": "226a8b6c2368862d94ac164c8ef7cfecf1e4d3c0ad6d94cda6c8128c11f7ee47",
-      "seen_at": "2026-04-22T22:39:40.949024+00:00"
+      "fingerprint": "5eb5f8e04364b4b54dcfb7c44ef59fe457a0b9b155b4828ca007a426ef0abc4c",
+      "seen_at": "2026-04-23T11:02:32.133844+00:00"
     },
     {
-      "source": "impactpool",
-      "title": "International Consultant: Senior Science Writer and Publication Coordinator",
-      "url": "https://www.impactpool.org/jobs/1209323",
-      "location": "Remote | Home Based - May require travel",
+      "source": "idealist",
+      "title": "Contracts and Compliance Manager",
+      "url": "https://www.idealist.org/en/nonprofit-job/fd984e3a2ddb47f186e04b4b3f6d7b8f-contracts-and-compliance-manager-rainforest-trust-warrenton",
+      "location": "Remote",
       "posted_at": null,
       "description": null,
-      "organization": "UNCCD - United Nations Convention to Combat Desertification",
+      "organization": "Rainforest Trust",
       "raw": {},
-      "fingerprint": "6b46bbb24efa72990fb62b0d9bb9ed522a9780064e3dbb8f61abc999a553e017",
-      "seen_at": "2026-04-22T22:39:40.949032+00:00"
+      "fingerprint": "9e054b0f3b8975d2c66f95b308fb7c0304b6d27eaba1e264c617b55d9b4d20d1",
+      "seen_at": "2026-04-23T11:02:32.133852+00:00"
     },
     {
       "source": "unicef",
-      "title": "Child Marriage and SEA Consultant, Belgrade, Remotely. Req#592558",
-      "url": "https://jobs.unicef.org/en-us/job/592558/child-marriage-and-sea-consultant-belgrade-remotely-req592558",
-      "location": null,
+      "title": "Programme Performance and Knowledge Management Consultant (MCCT+), Port Sudan, Sudan, International Consultancy, 12 months, Home Based",
+      "url": "https://jobs.unicef.org/en-us/job/592626/programme-performance-and-knowledge-management-consultant-mcct-port-sudan-sudan-international-consultancy-12-months-home-based",
+      "location": "programme performance and knowledge management consultant mcct port sudan sudan international consultancy 12 months home based",
       "posted_at": null,
       "description": null,
       "organization": "UNICEF",
       "raw": {},
-      "fingerprint": "5882d6e142d104c94215cda4829971492bad8b59f3af1ad689a8e867a5f7253f",
-      "seen_at": "2026-04-22T22:39:40.949039+00:00"
+      "fingerprint": "7faeb12bca61a0671f80bbbf07aa645020dd35225d223da8aaadbe6d5eb02913",
+      "seen_at": "2026-04-23T11:02:32.133859+00:00"
     },
     {
-      "source": "unicef",
-      "title": "ROSTER: HIV/AIDS Technical Experts Consultants, Health Section, Global Programme Division, Remote with the possibility of multiple duty stations for deployment as required, Req # 592596",
-      "url": "https://jobs.unicef.org/en-us/job/592596/roster-hivaids-technical-experts-consultants-health-section-global-programme-division-remote-with-the-possibility-of-multiple-duty-stations-for-deployment-as-required-req-592596",
-      "location": null,
+      "source": "un-inspira",
+      "title": "Programme Evaluation Specialist - Home based",
+      "url": "https://careers.un.org/jobSearchDescription/275631?language=en",
+      "location": "NAIROBI",
       "posted_at": null,
-      "description": null,
-      "organization": "UNICEF",
+      "description": "Level : CON\nJob ID : 275631\nJob Network :\nJob Family : Environmental Affairs\nDepartment/Office : United Nations Environment Programme\nDuty Station : NAIROBI\nStaffing Exercise : undefined\nPosted Date : 04/23/2026 00:00:00 AM (New York time)\nDeadline : 05/06/2026 23:59:59 PM (New York time)",
+      "organization": "United Nations Environment Programme",
       "raw": {},
-      "fingerprint": "41ae553ca71d521ab6d2a5838af86f8efa4db649f3d4c0e4bc0734438c626f7c",
-      "seen_at": "2026-04-22T22:39:40.949047+00:00"
+      "fingerprint": "02f61d83cb5d5c66d84eb1c5f9260bba3edd9d6693155d7d39f87f0e26d3271c",
+      "seen_at": "2026-04-23T11:02:32.133867+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=z1g3zkvbpt0&returnToSearch=true&jnum=73541&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=u0xochdnpt0&returnToSearch=true&jnum=73541&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "22f3227951a00a5462082cbb1377229e6d9c08d811aa3ce4adecad96c1c67201",
-      "seen_at": "2026-04-22T22:39:40.949054+00:00"
+      "fingerprint": "74153b9c91b738e457ba5f60b9986d8493f3c1bdcad55fcc00d08e3ff4854ee3",
+      "seen_at": "2026-04-23T11:02:32.133874+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=z1g3zkvbpt0&returnToSearch=true&jnum=73817&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=u0xochdnpt0&returnToSearch=true&jnum=73817&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "fd2b5f26ce37589a48cae5fdec57c513f1dfc759dc5e44d17bdeef05799caaa8",
-      "seen_at": "2026-04-22T22:39:40.949061+00:00"
+      "fingerprint": "bb259120618b5faeecaaa1e5183f10c58d376f061edc69e667d1cc69a78c56f1",
+      "seen_at": "2026-04-23T11:02:32.133881+00:00"
     },
     {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev cc0479892567",
+      "title": "[check page] Embassy of Sweden Argentina — rev a785aa30259a",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "5cb5ab0e07c4a48b4eaccac0599cf4b7417c4bd76e846bbadb4de73aab2c2a50",
-      "seen_at": "2026-04-22T22:39:40.949070+00:00"
+      "fingerprint": "453de24618fc1cd5424ef1e68b770da107eff66e15fa722c2dc9f07bba23e62e",
+      "seen_at": "2026-04-23T11:02:32.133889+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev 282e3facad19",
+      "title": "[check page] Embassy of Japan Argentina — rev c7f4fa85645f",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.2d51db17.1776897571.82e569e https://errors.edgesuite.net/18.2d51db17.1776897571.82e569e",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.17643017.1776942138.44997beb https://errors.edgesuite.net/18.17643017.1776942138.44997beb",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "ec880c2e65579352a050e057b0f379b6bc01227cb9f05cf03ce1cdea6903eb78",
-      "seen_at": "2026-04-22T22:39:40.949079+00:00"
+      "fingerprint": "aee1e9bd091120fab452b29d269a3093bda5340be271da08161a4818f50b5bf9",
+      "seen_at": "2026-04-23T11:02:32.133898+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev 2c7cb465a759",
+      "title": "[check page] Embassy of Greece Argentina — rev 3a7a8125506d",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.d00cc617.1776897580.3631bfe6 https://errors.edgesuite.net/18.d00cc617.1776897580.3631bfe6",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.914e4e68.1776942151.21477523 https://errors.edgesuite.net/18.914e4e68.1776942151.21477523",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "106fa2c6d0c082ed5981e60399a2f677ccdfb65f46acb5786b7a47099434a0c8",
-      "seen_at": "2026-04-22T22:39:40.949087+00:00"
+      "fingerprint": "ad770c8ac47886c9b1b3d361c20f5037a54ff142edf66dd1356041c165128fa6",
+      "seen_at": "2026-04-23T11:02:32.133906+00:00"
     }
   ]
 }
