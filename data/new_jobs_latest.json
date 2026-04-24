@@ -1,115 +1,145 @@
 {
-  "run_at": "2026-04-23T22:35:32.197977+00:00",
-  "new_count": 9,
+  "run_at": "2026-04-24T11:03:12.877781+00:00",
+  "new_count": 11,
   "errors": {},
   "jobs": [
     {
-      "source": "impactpool",
-      "title": "Institutional Development Expert",
-      "url": "https://www.impactpool.org/jobs/1209500",
-      "location": "Remote | Home Based - May require travel",
-      "posted_at": null,
+      "source": "reliefweb",
+      "title": "Standardized Water Quality Monitoring Tools Consultant (PRO-WASH & SCALE)",
+      "url": "https://reliefweb.int/job/4209086/standardized-water-quality-monitoring-tools-consultant-pro-wash-scale",
+      "location": null,
+      "posted_at": "Fri, 24 Apr 2026 08:37:02 +0000",
       "description": null,
-      "organization": "UNIDO - United Nations Industrial Development Organization",
-      "raw": {},
-      "fingerprint": "bb0808f56aeeeb1561165bf138849e8af549e9a13cd7b9a09a94de5def5d0813",
-      "seen_at": "2026-04-23T22:35:32.198013+00:00"
+      "organization": "Save the Children",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "ae5f5775437cf3be5d82df6411bb5746d54a1b37d424ca3e1f8effe4fcc8badd",
+      "seen_at": "2026-04-24T11:03:12.877819+00:00"
     },
     {
-      "source": "impactpool",
-      "title": "Finance Assistant",
-      "url": "https://www.impactpool.org/jobs/1209489",
-      "location": "Brasília | Buenos Aires",
-      "posted_at": null,
+      "source": "reliefweb",
+      "title": "Humanitarian Access and Safety and Security Advisor",
+      "url": "https://reliefweb.int/job/4209133/humanitarian-access-and-safety-and-security-advisor",
+      "location": null,
+      "posted_at": "Fri, 24 Apr 2026 08:13:00 +0000",
       "description": null,
-      "organization": "UNOPS - United Nations Office for Project Services",
-      "raw": {},
-      "fingerprint": "e4db746960abc0b0fd118ea58ba6d11d597ebb19308620ac98a9157a2ffa93f9",
-      "seen_at": "2026-04-23T22:35:32.198029+00:00"
+      "organization": "INTERSOS",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "6dd03ded60a0eba6c73bcbfc060e17f1a2537c56518c13d3860805262138ae79",
+      "seen_at": "2026-04-24T11:03:12.877834+00:00"
     },
     {
-      "source": "idealist",
-      "title": "Communications Manager",
-      "url": "https://www.idealist.org/en/nonprofit-job/debc1907a1aa48aa80a78fe69a797320-communications-manager-southeastern-wind-coalition-raleigh",
-      "location": "Remote",
-      "posted_at": null,
+      "source": "reliefweb",
+      "title": "CABI-Led Plantwiseplus BURUNDI (2024–2026) – END OF PROJECT EVALUATION.",
+      "url": "https://reliefweb.int/job/4208988/cabi-led-plantwiseplus-burundi-2024-2026-end-project-evaluation",
+      "location": null,
+      "posted_at": "Fri, 24 Apr 2026 08:08:02 +0000",
       "description": null,
-      "organization": "Southeastern Wind Coalition",
-      "raw": {},
-      "fingerprint": "e003d2d59e08e298e035bf084af4bf2a377bec6ac866bd50889a6a29e3a6a264",
-      "seen_at": "2026-04-23T22:35:32.198040+00:00"
+      "organization": "Centre for Agriculture and Biosciences International",
+      "raw": {
+        "feed": "remote"
+      },
+      "fingerprint": "98dc33f184469d5f06330ae6381414609043ca390fa310d99a8cc923adf8a270",
+      "seen_at": "2026-04-24T11:03:12.877847+00:00"
     },
     {
       "source": "unicef",
-      "title": "Consultant to strengthen the model of integrated services for children with disabilities and conduct the assessment for its pilot, Bangkok, Thailand, Social Policy section, 8 months, (ONLY NATIONAL, remote with trip)",
-      "url": "https://jobs.unicef.org/en-us/job/592577/consultant-to-strengthen-the-model-of-integrated-services-for-children-with-disabilities-and-conduct-the-assessment-for-its-pilot-bangkok-thailand-social-policy-section-8-months-only-national-remote-with-trip",
+      "title": "Self-Paced Training Package Consultant (remote) #592578",
+      "url": "https://jobs.unicef.org/en-us/job/592578/selfpaced-training-package-consultant-remote-592578",
       "location": null,
       "posted_at": null,
       "description": null,
       "organization": "UNICEF",
       "raw": {},
-      "fingerprint": "da4d173efe49f15233c8c76a7f0dfc70bf49d76a2ff1ff69b8fa71c1a255442d",
-      "seen_at": "2026-04-23T22:35:32.198049+00:00"
+      "fingerprint": "e06388813cbf6d4dcac4ca1b7be2eb2bc89e6bc0604815339077ccbe97b43b9e",
+      "seen_at": "2026-04-24T11:03:12.877855+00:00"
+    },
+    {
+      "source": "unicef",
+      "title": "National consultant: Tech. Assistance during Global Fund Proposal Writing for HIV Care & Treatment & Elimination of Vertical Transmission in the Joint Tanzania Funding Application 2027-2029 (remote) #592586",
+      "url": "https://jobs.unicef.org/en-us/job/592586/national-consultant-tech-assistance-during-global-fund-proposal-writing-for-hiv-care-treatment-elimination-of-vertical-transmission-in-the-joint-tanzania-funding-application-20272029-remote-592586",
+      "location": null,
+      "posted_at": null,
+      "description": null,
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "986d0f144a588471bbd49ef57c0cc42a1583b73bd4d0509a51a49d13f4e40b7d",
+      "seen_at": "2026-04-24T11:03:12.877863+00:00"
+    },
+    {
+      "source": "unicef",
+      "title": "Research Analyst Consultant. Florence Italy. Office of Strategy & Evidence /Remote #592612",
+      "url": "https://jobs.unicef.org/en-us/job/592612/research-analyst-consultant-florence-italy-office-of-strategy-evidence-remote-592612",
+      "location": null,
+      "posted_at": null,
+      "description": null,
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "09945346beb39c8142d9bea4cad11a88be3dc48a71b72c87840ade65011d3916",
+      "seen_at": "2026-04-24T11:03:12.878002+00:00"
+    },
+    {
+      "source": "unicef",
+      "title": "National Consultant for Public Finance for Children - Remote for Malaysian Nationals only",
+      "url": "https://jobs.unicef.org/en-us/job/592591/national-consultant-for-public-finance-for-children-remote-for-malaysian-nationals-only",
+      "location": null,
+      "posted_at": null,
+      "description": null,
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "c313b9e810342bb1d93be7fa1774dfa94570c327a9d2c16695222e6b918a3c8d",
+      "seen_at": "2026-04-24T11:03:12.878013+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=ckxjn2d3pt0&returnToSearch=true&jnum=73541&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=z1fycuzbpt0&returnToSearch=true&jnum=73541&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "cf5db7109b1689a18d666c8665ea1ae85651393c23ad03cd2bf95a4b75c76e07",
-      "seen_at": "2026-04-23T22:35:32.198057+00:00"
+      "fingerprint": "115113379dbf75170d1d1fcf01e65d0492b7b01dce5a129a6140c1e353ba9de1",
+      "seen_at": "2026-04-24T11:03:12.878021+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=ckxjn2d3pt0&returnToSearch=true&jnum=73817&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=z1fycuzbpt0&returnToSearch=true&jnum=73817&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "41afa917556c1010dc45c7175ed09475935613d7f03858650a463511677086a0",
-      "seen_at": "2026-04-23T22:35:32.198064+00:00"
+      "fingerprint": "797a366cb2c9279ee0da497c9280d3225e73a459cc99a7c95740a441c8378243",
+      "seen_at": "2026-04-24T11:03:12.878028+00:00"
     },
     {
-      "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev 222b2e45da53",
-      "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
+      "source": "watch-emb-norway",
+      "title": "[check page] Embassy of Norway Argentina — rev 60610f424682",
+      "url": "https://www.norway.no/es/argentina/",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
-      "organization": "Embassy of Sweden Argentina",
+      "description": "Visado de visitante y permiso de residencia temporal Visite Noruega For nordmenn Hacer negocios con Noruega Preguntas frecuentes Working Holiday Estudiar en Noruega Trabajar en Noruega Tramites personales varios Otras consultas 24. abr. 2026 Semana EFTA-Mercosur La semana pasada tuvimos el agrado de participar en una serie de reuniones en el marco del Acuerdo de Libre Comercio EFTA–Mercosur en con",
+      "organization": "Embassy of Norway Argentina",
       "raw": {},
-      "fingerprint": "e71405db89cc777424054be147ea02b8f76e6fc0ab84fa4cbfa6c60eb5d3330f",
-      "seen_at": "2026-04-23T22:35:32.198074+00:00"
+      "fingerprint": "1ccdebbd79aa6a337868e15907f2c513ced9d51ebb72b5e001585f3b32ee6f14",
+      "seen_at": "2026-04-24T11:03:12.878037+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev 8ace73fdf79d",
+      "title": "[check page] Embassy of Japan Argentina — rev 6a7e53d52d5b",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.900c0317.1776983718.8beffcb1 https://errors.edgesuite.net/18.900c0317.1776983718.8beffcb1",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.c7542117.1777028560.ad79826f https://errors.edgesuite.net/18.c7542117.1777028560.ad79826f",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "aaa386e1b6ebe7daa7c5bf9db828a1aad6e5b9434d07cf1e48771150b3a0b896",
-      "seen_at": "2026-04-23T22:35:32.198083+00:00"
-    },
-    {
-      "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev f7280cc80c8f",
-      "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
-      "location": "Argentina",
-      "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.31dbda17.1776983731.12607440 https://errors.edgesuite.net/18.31dbda17.1776983731.12607440",
-      "organization": "Embassy of Greece Argentina",
-      "raw": {},
-      "fingerprint": "d5a5227756228c9165bbf9bca35efca29dadfa50cd95d77fb0317600bf743cb4",
-      "seen_at": "2026-04-23T22:35:32.198091+00:00"
+      "fingerprint": "4401be952a714d9fbb07a4dae88bb3a02f1fef1be1757254ded3642b77b7e883",
+      "seen_at": "2026-04-24T11:03:12.878046+00:00"
     }
   ]
 }
