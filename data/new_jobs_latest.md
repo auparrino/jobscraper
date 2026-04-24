@@ -1,28 +1,51 @@
-# 11 ofertas nuevas
+# 16 ofertas nuevas
 
 
 ## emb-usa (2)
 
-- [Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)](https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=z1fycuzbpt0&returnToSearch=true&jnum=73541&orgId=64) — U.S. Embassy Buenos Aires · Buenos Aires, Argentina
-- [Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)](https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=z1fycuzbpt0&returnToSearch=true&jnum=73817&orgId=64) — U.S. Embassy Buenos Aires · Buenos Aires, Argentina
+- [Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)](https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=wmhmdu5rpt0&returnToSearch=true&jnum=73541&orgId=64) — U.S. Embassy Buenos Aires · Buenos Aires, Argentina
+- [Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)](https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=wmhmdu5rpt0&returnToSearch=true&jnum=73817&orgId=64) — U.S. Embassy Buenos Aires · Buenos Aires, Argentina
 
-## reliefweb (3)
+## idealist (1)
 
-- [Standardized Water Quality Monitoring Tools Consultant (PRO-WASH & SCALE)](https://reliefweb.int/job/4209086/standardized-water-quality-monitoring-tools-consultant-pro-wash-scale) — Save the Children · Fri, 24 Apr 2026 08:37:02 +0000
-- [Humanitarian Access and Safety and Security Advisor](https://reliefweb.int/job/4209133/humanitarian-access-and-safety-and-security-advisor) — INTERSOS · Fri, 24 Apr 2026 08:13:00 +0000
-- [CABI-Led Plantwiseplus BURUNDI (2024–2026) – END OF PROJECT EVALUATION.](https://reliefweb.int/job/4208988/cabi-led-plantwiseplus-burundi-2024-2026-end-project-evaluation) — Centre for Agriculture and Biosciences International · Fri, 24 Apr 2026 08:08:02 +0000
+- [Major Gifts and Donor Engagement Contractor](https://www.idealist.org/en/nonprofit-job/7b3f8e747e00433bb316171605988f48-major-gifts-and-donor-engagement-contractor-just-schools-phoenix) — Just Schools · Remote
 
-## unicef (4)
+## impactpool (2)
 
-- [Self-Paced Training Package Consultant (remote) #592578](https://jobs.unicef.org/en-us/job/592578/selfpaced-training-package-consultant-remote-592578) — UNICEF
-- [National consultant: Tech. Assistance during Global Fund Proposal Writing for HIV Care & Treatment & Elimination of Vertical Transmission in the Joint Tanzania Funding Application 2027-2029 (remote) #592586](https://jobs.unicef.org/en-us/job/592586/national-consultant-tech-assistance-during-global-fund-proposal-writing-for-hiv-care-treatment-elimination-of-vertical-transmission-in-the-joint-tanzania-funding-application-20272029-remote-592586) — UNICEF
-- [Research Analyst Consultant. Florence Italy. Office of Strategy & Evidence /Remote #592612](https://jobs.unicef.org/en-us/job/592612/research-analyst-consultant-florence-italy-office-of-strategy-evidence-remote-592612) — UNICEF
-- [National Consultant for Public Finance for Children - Remote for Malaysian Nationals only](https://jobs.unicef.org/en-us/job/592591/national-consultant-for-public-finance-for-children-remote-for-malaysian-nationals-only) — UNICEF
+- [Consultant – Supporting UNCCD Reporting on Strategic Objective 5 (SO5)](https://www.impactpool.org/jobs/1209860) — UNCCD - United Nations Convention to Combat Desertification · Remote | Home Based - May require travel
+- [Senior Consultants – Multiple Positions](https://www.impactpool.org/jobs/1209859) — UNCCD - United Nations Convention to Combat Desertification · Remote | Home Based - May require travel
+
+## reliefweb (1)
+
+- [Terms of Reference HPV Technical Assistance Consultancy Individual Consultant](https://reliefweb.int/job/4209215/terms-reference-hpv-technical-assistance-consultancy-individual-consultant) — Girl Effect · Fri, 24 Apr 2026 13:29:40 +0000
+
+## unicef (3)
+
+- [Child Reintegration Consultant, Global Programme Division, Child Protection Section, UNICEF NYHQ, 7 months (Remote / Home-based), # 592652](https://jobs.unicef.org/en-us/job/592652/child-reintegration-consultant-global-programme-division-child-protection-section-unicef-nyhq-7-months-remote-homebased-592652) — UNICEF
+- [Consultant Individuel pour le Développement de Capsules de Formation pour les Comités de Protection de l'Enfant (Remote - Burundi nationals only)](https://jobs.unicef.org/en-us/job/592583/consultant-individuel-pour-le-développement-de-capsules-de-formation-pour-les-comités-de-protection-de-lenfant-remote-burundi-nationals-only) — UNICEF
+- [Consultant to support the Ministry of Education in revising the Literacy and Numeracy Frameworks, Lusaka, Zambia (remote), 10 weeks,  #592632](https://jobs.unicef.org/en-us/job/592632/consultant-to-support-the-ministry-of-education-in-revising-the-literacy-and-numeracy-frameworks-lusaka-zambia-remote-10-weeks-592632) — UNICEF
+
+## unjobs (2)
+
+- [Analyst - Better Care for Non Communicable Diseases Initiative, Analyst - Better Care for Non Communicable Diseases Initiative, Buenos Aires, Argentina](https://unjobs.org/vacancies/1777030554945) — 2026-04-24T20:12:32Z
+- [UNV Especialista técnico de protección de derechos y acceso a la justicia, UNV Especialista técnico de protección de derechos y acceso a la justicia, Buenos Aires, Argentina](https://unjobs.org/vacancies/1777030778388) — 2026-04-24T20:10:24Z
+
+## watch-emb-greece (1)
+
+- [[check page] Embassy of Greece Argentina — rev 1ff7af14e543](https://www.mfa.gr/missionsabroad/es/argentina.html) — Embassy of Greece Argentina · Argentina
 
 ## watch-emb-japan (1)
 
-- [[check page] Embassy of Japan Argentina — rev 6a7e53d52d5b](https://www.ar.emb-japan.go.jp/itprtop_es/index.html) — Embassy of Japan Argentina · Argentina
+- [[check page] Embassy of Japan Argentina — rev f56facff5b4b](https://www.ar.emb-japan.go.jp/itprtop_es/index.html) — Embassy of Japan Argentina · Argentina
 
-## watch-emb-norway (1)
+## watch-emb-korea (1)
 
-- [[check page] Embassy of Norway Argentina — rev 60610f424682](https://www.norway.no/es/argentina/) — Embassy of Norway Argentina · Argentina
+- [[check page] Embassy of Korea Argentina — rev 07bbe9a76ab0](https://www.mofa.go.kr/ar-es/brd/m_6289/list.do) — Embassy of Korea Argentina · Argentina
+
+## watch-emb-sweden (1)
+
+- [[check page] Embassy of Sweden Argentina — rev ad81d9e4d1e9](https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/) — Embassy of Sweden Argentina · Argentina
+
+## watch-emb-turkey (1)
+
+- [[check page] Embassy of Türkiye Argentina — rev 3cc061135b12](https://buenosaires-emb.mfa.gov.tr/Mission/Announcements) — Embassy of Türkiye Argentina · Argentina
