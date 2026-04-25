@@ -1,115 +1,103 @@
 {
-  "run_at": "2026-04-25T10:36:06.165557+00:00",
-  "new_count": 9,
+  "run_at": "2026-04-25T22:26:45.071909+00:00",
+  "new_count": 8,
   "errors": {},
   "jobs": [
     {
       "source": "impactpool",
-      "title": "Internship 2 positions with Public Partnerships and Resource Mobilization , Washington DC, 6 months, Full-time /Part-time/Paid",
-      "url": "https://www.impactpool.org/jobs/1209883",
-      "location": "Remote | Washington D.C.",
+      "title": "Health Caseworker",
+      "url": "https://www.impactpool.org/jobs/1209892",
+      "location": "Remote | San Jose",
       "posted_at": null,
       "description": null,
-      "organization": "UNICEF - United Nations Children’s Fund",
+      "organization": "IRC - International Rescue Committee",
       "raw": {},
-      "fingerprint": "2493d4fe049e21ac839b0af0eee1c6d6f44227fa614a9549339bc0b8354fa078",
-      "seen_at": "2026-04-25T10:36:06.165593+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "Consultor en Proteccion Social y Empleo",
-      "url": "https://www.impactpool.org/jobs/1209879",
-      "location": "Remote | La Paz",
-      "posted_at": null,
-      "description": null,
-      "organization": "IDB - Inter-American Development Bank",
-      "raw": {},
-      "fingerprint": "ff43453a31f5b09b98e421103846c8e45e026762f69c9db14321d74a11927d4c",
-      "seen_at": "2026-04-25T10:36:06.165609+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "RESILIENT GREEN HOUSING FINANCE AND INVESTMENT STRUCTURING CONSULTANT",
-      "url": "https://www.impactpool.org/jobs/1209877",
-      "location": "Remote | Grenada",
-      "posted_at": null,
-      "description": null,
-      "organization": "GGGI - Global Green Growth Institute",
-      "raw": {},
-      "fingerprint": "b3046915501b87efeff99a2ef407bec20340ae97fd87ec7521cc0af860b13ad9",
-      "seen_at": "2026-04-25T10:36:06.165620+00:00"
-    },
-    {
-      "source": "idealist",
-      "title": "PROGRAMS MANAGER – EARLY RESOLUTION PROGRAM",
-      "url": "https://www.idealist.org/en/nonprofit-job/b481082f89a346acb572c5059212ce62-programs-manager-early-resolution-program-center-for-conflict-resolution-chicago-illinois-chicago",
-      "location": "Remote",
-      "posted_at": null,
-      "description": null,
-      "organization": "Center for Conflict Resolution, Chicago, Illinois",
-      "raw": {},
-      "fingerprint": "478d6d8361bb6beeafca66eebf70cddb44dcf19d8e95dc217c3d3430f772d156",
-      "seen_at": "2026-04-25T10:36:06.165632+00:00"
+      "fingerprint": "4700274c47267daa1fdf6788944ca628ce4faa8915ca795a07fa5ec4caf0821a",
+      "seen_at": "2026-04-25T22:26:45.071941+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=nnlhdvlnpt0&returnToSearch=true&jnum=73541&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=wgxfvfh3pt0&returnToSearch=true&jnum=73541&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "62acc5201c14bd8cfc2a634bf5a800282bfdf0329884ce90a32aaf007335dde5",
-      "seen_at": "2026-04-25T10:36:06.165641+00:00"
+      "fingerprint": "942b0169ef87a0ad448690a6a4b27ef2d98602a2a3acdb5a73b590181fa66402",
+      "seen_at": "2026-04-25T22:26:45.071953+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=nnlhdvlnpt0&returnToSearch=true&jnum=73817&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=wgxfvfh3pt0&returnToSearch=true&jnum=73817&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "8322dc4c40aa0c494b93ed388df785b202be9e81be42c4c42850345e028946f4",
-      "seen_at": "2026-04-25T10:36:06.165649+00:00"
+      "fingerprint": "147bed0c0dc0ef5cdb2f131306cd378959f617ffbf32c5a7bdd13631c8e40c46",
+      "seen_at": "2026-04-25T22:26:45.071961+00:00"
     },
     {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev c7ec556b3006",
+      "title": "[check page] Embassy of Sweden Argentina — rev 5cdc014a31b1",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "eebd7e9cc92ebde3852e610f74ca7d5778bb40abb67a28b3f7609c22c075bb0a",
-      "seen_at": "2026-04-25T10:36:06.165658+00:00"
+      "fingerprint": "70d8a09088d8779c73dc7a472eb96dbebf825be3be5450e00921d2a4f0a058de",
+      "seen_at": "2026-04-25T22:26:45.071969+00:00"
+    },
+    {
+      "source": "watch-emb-turkey",
+      "title": "[check page] Embassy of Türkiye Argentina — rev 38561747c363",
+      "url": "https://buenosaires-emb.mfa.gov.tr/Mission/Announcements",
+      "location": "Argentina",
+      "posted_at": null,
+      "description": "REPÚBLICA DE TÜRKİYE EMBAJADA DE LA REPÚBLICA DE TÜRKİYE EN BUENOS AIRES Anasayfa Embajada Embajada Anuncios Discursos Embajadores anteriores Notas informativas Trámites consulares Contacto Español Türkçe Español Randevu Al Türk Vatandaşları İçin Konsolosluk İşlemleri Yabancılar İçin Vize Ön Başvuru Randevu Sorgula Randevu İptal/Sorgula Türk Vatandaşları için Randevu Sorgulama Yabancılar için Vize",
+      "organization": "Embassy of Türkiye Argentina",
+      "raw": {},
+      "fingerprint": "ccb93545e637af404ae4d7d884805ff90d045c1412da07b1ed795eca06e33178",
+      "seen_at": "2026-04-25T22:26:45.071976+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev d297607d72c1",
+      "title": "[check page] Embassy of Japan Argentina — rev 64b8d2dca250",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.a192117.1777113356.4fcb0e9a https://errors.edgesuite.net/18.a192117.1777113356.4fcb0e9a",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.685ed617.1777155996.69f8185 https://errors.edgesuite.net/18.685ed617.1777155996.69f8185",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "bcd9559f2cf0c2a15393a6dd2e95f8604d2ad07d0c541d19d302e085f85c1c0a",
-      "seen_at": "2026-04-25T10:36:06.165667+00:00"
+      "fingerprint": "8133b1091b9273f7a07a7f45035fc9fdc6f50ac0b5ea43e4dd48f1b1708cfd9f",
+      "seen_at": "2026-04-25T22:26:45.071983+00:00"
+    },
+    {
+      "source": "watch-emb-korea",
+      "title": "[check page] Embassy of Korea Argentina — rev bbeb66690518",
+      "url": "https://www.mofa.go.kr/ar-es/brd/m_6289/list.do",
+      "location": "Argentina",
+      "posted_at": null,
+      "description": "바로가기 메뉴 본문 바로가기 주메뉴 바로가기 MOFA Presidential Office SNS Embajada facebook instagram youtube X Español Español coreano Embajada de la República de Corea en Argentina POPUP 0 Español coreano Presentación Actividades del Embajador Avisos Ubicación y Contacto Saludos del Embajador Asuntos Consulares/Visado Solicitud de Visado Asuntos Consulares Relaciones Bilaterales Relaciones Bilaterales Sobre Corea ",
+      "organization": "Embassy of Korea Argentina",
+      "raw": {},
+      "fingerprint": "48c7564595a0f1965634fe6b41f22be86ec4b964d54f47d4a33e51ed38709098",
+      "seen_at": "2026-04-25T22:26:45.071989+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev a761f7348f98",
+      "title": "[check page] Embassy of Greece Argentina — rev 45bda2b585f9",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.121c2117.1777113365.8457a280 https://errors.edgesuite.net/18.121c2117.1777113365.8457a280",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.c900d817.1777156004.2ab36c8b https://errors.edgesuite.net/18.c900d817.1777156004.2ab36c8b",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "afd7ecd26cba4e38600ef4de4c6ac24a116c5db5cb9b68fb20fd1aba04604e41",
-      "seen_at": "2026-04-25T10:36:06.165675+00:00"
+      "fingerprint": "29c006090df9ba0e96dc5edb1151417f5fbab434ef51177ac485c5c49cb1ab46",
+      "seen_at": "2026-04-25T22:26:45.071995+00:00"
     }
   ]
 }
