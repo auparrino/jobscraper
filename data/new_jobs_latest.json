@@ -1,201 +1,115 @@
 {
-  "run_at": "2026-04-24T22:33:45.373011+00:00",
-  "new_count": 16,
+  "run_at": "2026-04-25T10:36:06.165557+00:00",
+  "new_count": 9,
   "errors": {},
   "jobs": [
     {
-      "source": "reliefweb",
-      "title": "Terms of Reference HPV Technical Assistance Consultancy Individual Consultant",
-      "url": "https://reliefweb.int/job/4209215/terms-reference-hpv-technical-assistance-consultancy-individual-consultant",
-      "location": null,
-      "posted_at": "Fri, 24 Apr 2026 13:29:40 +0000",
+      "source": "impactpool",
+      "title": "Internship 2 positions with Public Partnerships and Resource Mobilization , Washington DC, 6 months, Full-time /Part-time/Paid",
+      "url": "https://www.impactpool.org/jobs/1209883",
+      "location": "Remote | Washington D.C.",
+      "posted_at": null,
       "description": null,
-      "organization": "Girl Effect",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "ee45fa147832742a32ebd1bfcdce8c802c721fe8bd979c16b3d0b23d7d0b0912",
-      "seen_at": "2026-04-24T22:33:45.373050+00:00"
-    },
-    {
-      "source": "unjobs",
-      "title": "Analyst - Better Care for Non Communicable Diseases Initiative, Analyst - Better Care for Non Communicable Diseases Initiative, Buenos Aires, Argentina",
-      "url": "https://unjobs.org/vacancies/1777030554945",
-      "location": null,
-      "posted_at": "2026-04-24T20:12:32Z",
-      "description": null,
-      "organization": null,
+      "organization": "UNICEF - United Nations Children’s Fund",
       "raw": {},
-      "fingerprint": "1c1c536780016027b489149715d73b3562b3efcaaf69329d55ef61d2424a5b6e",
-      "seen_at": "2026-04-24T22:33:45.373064+00:00"
-    },
-    {
-      "source": "unjobs",
-      "title": "UNV Especialista técnico de protección de derechos y acceso a la justicia, UNV Especialista técnico de protección de derechos y acceso a la justicia, Buenos Aires, Argentina",
-      "url": "https://unjobs.org/vacancies/1777030778388",
-      "location": null,
-      "posted_at": "2026-04-24T20:10:24Z",
-      "description": null,
-      "organization": null,
-      "raw": {},
-      "fingerprint": "2f158ee5f9e6e506ff4ef816af2bbc3ca43d648629aa3896958d14ecd84e84dc",
-      "seen_at": "2026-04-24T22:33:45.373076+00:00"
+      "fingerprint": "2493d4fe049e21ac839b0af0eee1c6d6f44227fa614a9549339bc0b8354fa078",
+      "seen_at": "2026-04-25T10:36:06.165593+00:00"
     },
     {
       "source": "impactpool",
-      "title": "Consultant – Supporting UNCCD Reporting on Strategic Objective 5 (SO5)",
-      "url": "https://www.impactpool.org/jobs/1209860",
-      "location": "Remote | Home Based - May require travel",
+      "title": "Consultor en Proteccion Social y Empleo",
+      "url": "https://www.impactpool.org/jobs/1209879",
+      "location": "Remote | La Paz",
       "posted_at": null,
       "description": null,
-      "organization": "UNCCD - United Nations Convention to Combat Desertification",
+      "organization": "IDB - Inter-American Development Bank",
       "raw": {},
-      "fingerprint": "35fb46b2610e797c9cb1131b6eab13f654c4955ffdc9aa2a1eee2e0f88bf69c6",
-      "seen_at": "2026-04-24T22:33:45.373086+00:00"
+      "fingerprint": "ff43453a31f5b09b98e421103846c8e45e026762f69c9db14321d74a11927d4c",
+      "seen_at": "2026-04-25T10:36:06.165609+00:00"
     },
     {
       "source": "impactpool",
-      "title": "Senior Consultants – Multiple Positions",
-      "url": "https://www.impactpool.org/jobs/1209859",
-      "location": "Remote | Home Based - May require travel",
+      "title": "RESILIENT GREEN HOUSING FINANCE AND INVESTMENT STRUCTURING CONSULTANT",
+      "url": "https://www.impactpool.org/jobs/1209877",
+      "location": "Remote | Grenada",
       "posted_at": null,
       "description": null,
-      "organization": "UNCCD - United Nations Convention to Combat Desertification",
+      "organization": "GGGI - Global Green Growth Institute",
       "raw": {},
-      "fingerprint": "4bf20ffac969af0a585ccb3a4b927db40b1f458019324c838e71e2d55f969543",
-      "seen_at": "2026-04-24T22:33:45.373094+00:00"
+      "fingerprint": "b3046915501b87efeff99a2ef407bec20340ae97fd87ec7521cc0af860b13ad9",
+      "seen_at": "2026-04-25T10:36:06.165620+00:00"
     },
     {
       "source": "idealist",
-      "title": "Major Gifts and Donor Engagement Contractor",
-      "url": "https://www.idealist.org/en/nonprofit-job/7b3f8e747e00433bb316171605988f48-major-gifts-and-donor-engagement-contractor-just-schools-phoenix",
+      "title": "PROGRAMS MANAGER – EARLY RESOLUTION PROGRAM",
+      "url": "https://www.idealist.org/en/nonprofit-job/b481082f89a346acb572c5059212ce62-programs-manager-early-resolution-program-center-for-conflict-resolution-chicago-illinois-chicago",
       "location": "Remote",
       "posted_at": null,
       "description": null,
-      "organization": "Just Schools",
+      "organization": "Center for Conflict Resolution, Chicago, Illinois",
       "raw": {},
-      "fingerprint": "fa4162c21365bafaa2fefb8c107fffbc8dadbd7b90689b5b951784b383306e5f",
-      "seen_at": "2026-04-24T22:33:45.373102+00:00"
-    },
-    {
-      "source": "unicef",
-      "title": "Child Reintegration Consultant, Global Programme Division, Child Protection Section, UNICEF NYHQ, 7 months (Remote / Home-based), # 592652",
-      "url": "https://jobs.unicef.org/en-us/job/592652/child-reintegration-consultant-global-programme-division-child-protection-section-unicef-nyhq-7-months-remote-homebased-592652",
-      "location": null,
-      "posted_at": null,
-      "description": null,
-      "organization": "UNICEF",
-      "raw": {},
-      "fingerprint": "7648d72ebcf203d864f4139614ed71427e24869bedefa1c45d70fabffd7aad62",
-      "seen_at": "2026-04-24T22:33:45.373110+00:00"
-    },
-    {
-      "source": "unicef",
-      "title": "Consultant Individuel pour le Développement de Capsules de Formation pour les Comités de Protection de l'Enfant (Remote - Burundi nationals only)",
-      "url": "https://jobs.unicef.org/en-us/job/592583/consultant-individuel-pour-le-développement-de-capsules-de-formation-pour-les-comités-de-protection-de-lenfant-remote-burundi-nationals-only",
-      "location": null,
-      "posted_at": null,
-      "description": null,
-      "organization": "UNICEF",
-      "raw": {},
-      "fingerprint": "e9c8d38b86e129a0768c0885dc501bf08ced9720ac926b1dc117f4aece6635a8",
-      "seen_at": "2026-04-24T22:33:45.373121+00:00"
-    },
-    {
-      "source": "unicef",
-      "title": "Consultant to support the Ministry of Education in revising the Literacy and Numeracy Frameworks, Lusaka, Zambia (remote), 10 weeks,  #592632",
-      "url": "https://jobs.unicef.org/en-us/job/592632/consultant-to-support-the-ministry-of-education-in-revising-the-literacy-and-numeracy-frameworks-lusaka-zambia-remote-10-weeks-592632",
-      "location": null,
-      "posted_at": null,
-      "description": null,
-      "organization": "UNICEF",
-      "raw": {},
-      "fingerprint": "f28025cd06063c176dabbc6a919be7d92623b50165cb0a943594d9311e9dcb25",
-      "seen_at": "2026-04-24T22:33:45.373129+00:00"
+      "fingerprint": "478d6d8361bb6beeafca66eebf70cddb44dcf19d8e95dc217c3d3430f772d156",
+      "seen_at": "2026-04-25T10:36:06.165632+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=wmhmdu5rpt0&returnToSearch=true&jnum=73541&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=nnlhdvlnpt0&returnToSearch=true&jnum=73541&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "86a1d47dd25bb04baf5aaf61ac0405cba07a194034b3f685b2615399f0f358b2",
-      "seen_at": "2026-04-24T22:33:45.373137+00:00"
+      "fingerprint": "62acc5201c14bd8cfc2a634bf5a800282bfdf0329884ce90a32aaf007335dde5",
+      "seen_at": "2026-04-25T10:36:06.165641+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=wmhmdu5rpt0&returnToSearch=true&jnum=73817&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=nnlhdvlnpt0&returnToSearch=true&jnum=73817&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "b3e0962a997ae957dc8c2b617ecf5513ce053278337374663927e0c8c5970de2",
-      "seen_at": "2026-04-24T22:33:45.373145+00:00"
+      "fingerprint": "8322dc4c40aa0c494b93ed388df785b202be9e81be42c4c42850345e028946f4",
+      "seen_at": "2026-04-25T10:36:06.165649+00:00"
     },
     {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev ad81d9e4d1e9",
+      "title": "[check page] Embassy of Sweden Argentina — rev c7ec556b3006",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "8c9cc158af1296afbc1b0099ad3aecf9f8d0db9bfd2f6248fc3b66ba2632cf32",
-      "seen_at": "2026-04-24T22:33:45.373154+00:00"
-    },
-    {
-      "source": "watch-emb-turkey",
-      "title": "[check page] Embassy of Türkiye Argentina — rev 3cc061135b12",
-      "url": "https://buenosaires-emb.mfa.gov.tr/Mission/Announcements",
-      "location": "Argentina",
-      "posted_at": null,
-      "description": "REPÚBLICA DE TÜRKİYE EMBAJADA DE LA REPÚBLICA DE TÜRKİYE EN BUENOS AIRES Anasayfa Embajada Embajada Anuncios Discursos Embajadores anteriores Notas informativas Trámites consulares Contacto Español Türkçe Español Randevu Al Türk Vatandaşları İçin Konsolosluk İşlemleri Yabancılar İçin Vize Ön Başvuru Randevu Sorgula Randevu İptal/Sorgula Türk Vatandaşları için Randevu Sorgulama Yabancılar için Vize",
-      "organization": "Embassy of Türkiye Argentina",
-      "raw": {},
-      "fingerprint": "9855084ee5c511c15500dff0512218af5782211f77ec67580552dacef4d959eb",
-      "seen_at": "2026-04-24T22:33:45.373162+00:00"
+      "fingerprint": "eebd7e9cc92ebde3852e610f74ca7d5778bb40abb67a28b3f7609c22c075bb0a",
+      "seen_at": "2026-04-25T10:36:06.165658+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev f56facff5b4b",
+      "title": "[check page] Embassy of Japan Argentina — rev d297607d72c1",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.8d6d3e17.1777070016.7ac74e9 https://errors.edgesuite.net/18.8d6d3e17.1777070016.7ac74e9",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.a192117.1777113356.4fcb0e9a https://errors.edgesuite.net/18.a192117.1777113356.4fcb0e9a",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "5c8884c84b37e0cf6f27f53faf4e5d0f98fb2599b69e06a1c551bab06ffe88d9",
-      "seen_at": "2026-04-24T22:33:45.373170+00:00"
-    },
-    {
-      "source": "watch-emb-korea",
-      "title": "[check page] Embassy of Korea Argentina — rev 07bbe9a76ab0",
-      "url": "https://www.mofa.go.kr/ar-es/brd/m_6289/list.do",
-      "location": "Argentina",
-      "posted_at": null,
-      "description": "바로가기 메뉴 본문 바로가기 주메뉴 바로가기 MOFA Presidential Office SNS Embajada facebook instagram youtube X Español Español coreano Embajada de la República de Corea en Argentina POPUP 0 Español coreano Presentación Actividades del Embajador Avisos Ubicación y Contacto Saludos del Embajador Asuntos Consulares/Visado Solicitud de Visado Asuntos Consulares Relaciones Bilaterales Relaciones Bilaterales Sobre Corea ",
-      "organization": "Embassy of Korea Argentina",
-      "raw": {},
-      "fingerprint": "295bea7f6eac9275ab6e454d4ef5b3099d801cd370fb7e949d866cde528798c0",
-      "seen_at": "2026-04-24T22:33:45.373178+00:00"
+      "fingerprint": "bcd9559f2cf0c2a15393a6dd2e95f8604d2ad07d0c541d19d302e085f85c1c0a",
+      "seen_at": "2026-04-25T10:36:06.165667+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev 1ff7af14e543",
+      "title": "[check page] Embassy of Greece Argentina — rev a761f7348f98",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.28cfdb17.1777070024.7b99dec https://errors.edgesuite.net/18.28cfdb17.1777070024.7b99dec",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.121c2117.1777113365.8457a280 https://errors.edgesuite.net/18.121c2117.1777113365.8457a280",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "d1dd1ec78200e148c34f81d4b5c20437ca7edf814e3f7dfe9855440b62ea206f",
-      "seen_at": "2026-04-24T22:33:45.373186+00:00"
+      "fingerprint": "afd7ecd26cba4e38600ef4de4c6ac24a116c5db5cb9b68fb20fd1aba04604e41",
+      "seen_at": "2026-04-25T10:36:06.165675+00:00"
     }
   ]
 }
