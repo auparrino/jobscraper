@@ -1,67 +1,127 @@
 {
-  "run_at": "2026-04-26T10:37:37.025540+00:00",
-  "new_count": 5,
+  "run_at": "2026-04-26T22:28:31.002138+00:00",
+  "new_count": 10,
   "errors": {},
   "jobs": [
     {
+      "source": "impactpool",
+      "title": "Intern (Research and Advocacy)",
+      "url": "https://www.impactpool.org/jobs/1209920",
+      "location": "Remote | Erbil",
+      "posted_at": null,
+      "description": null,
+      "organization": "IOM - International Organization for Migration",
+      "raw": {},
+      "fingerprint": "521305a574edf708d6361eed3b721ae594862415abfa29c14679b1920044cd2e",
+      "seen_at": "2026-04-26T22:28:31.002176+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "Intern (Migrant Protection)",
+      "url": "https://www.impactpool.org/jobs/1209919",
+      "location": "Remote | Baghdad",
+      "posted_at": null,
+      "description": null,
+      "organization": "IOM - International Organization for Migration",
+      "raw": {},
+      "fingerprint": "2a9071ca042467dff60337a5db4912ae366c6932642cd700886912adec6f4b35",
+      "seen_at": "2026-04-26T22:28:31.002191+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "Intern (Gender-Based Violence)",
+      "url": "https://www.impactpool.org/jobs/1209918",
+      "location": "Remote | Erbil",
+      "posted_at": null,
+      "description": null,
+      "organization": "IOM - International Organization for Migration",
+      "raw": {},
+      "fingerprint": "9db65ab51449a1ef0b976026f06b493aaa7fe640d78d488e623f2cef70b40c74",
+      "seen_at": "2026-04-26T22:28:31.002201+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "Intern (Mental Health and Psychosocial Support)",
+      "url": "https://www.impactpool.org/jobs/1209917",
+      "location": "Remote | Baghdad",
+      "posted_at": null,
+      "description": null,
+      "organization": "IOM - International Organization for Migration",
+      "raw": {},
+      "fingerprint": "be7850520d7bb65cacd7b24dca3d091a517e93e7468656065beaabf0681b3182",
+      "seen_at": "2026-04-26T22:28:31.002209+00:00"
+    },
+    {
+      "source": "idealist",
+      "title": "Senior Development Assistant",
+      "url": "https://www.idealist.org/en/nonprofit-job/848fba663cbd48c3989f6509cadb331e-senior-development-assistant-state-innovation-exchange-denver",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "State Innovation Exchange",
+      "raw": {},
+      "fingerprint": "d7b02d39897937fbe81903249a6a6b2567a35bc998a4ffe43c75af87adbe4fa0",
+      "seen_at": "2026-04-26T22:28:31.002217+00:00"
+    },
+    {
       "source": "emb-usa",
       "title": "Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=uvq3uujnpt0&returnToSearch=true&jnum=73541&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=rtzqrkvnpt0&returnToSearch=true&jnum=73541&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "1354fe5a85be0f85a355678a0e9b7ff0493dc1f58b62f4084d1631f4a250c05d",
-      "seen_at": "2026-04-26T10:37:37.025580+00:00"
+      "fingerprint": "5851a5f30f80b5a988a677c01e1e225a9c7334d3982aaf84c88f98c40c4ef7b2",
+      "seen_at": "2026-04-26T22:28:31.002224+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=uvq3uujnpt0&returnToSearch=true&jnum=73817&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=rtzqrkvnpt0&returnToSearch=true&jnum=73817&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "00a50d343955047a8936914e3842628ed8df9404d328547a845ede9ba6c02015",
-      "seen_at": "2026-04-26T10:37:37.025596+00:00"
+      "fingerprint": "1a7f2a6ccd1e1254289a520cb109b9b36fa16c954a78daa618d3753d84bc8d49",
+      "seen_at": "2026-04-26T22:28:31.002231+00:00"
     },
     {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev 7336cb5b3dae",
+      "title": "[check page] Embassy of Sweden Argentina — rev d1e0f482bc85",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "fd85e043deead49dfef77fefc2c37ea1aa1f7fb843d47d53498e3445ece356e3",
-      "seen_at": "2026-04-26T10:37:37.025608+00:00"
+      "fingerprint": "4d48425abf20d729c68a4d629bcd89a73788edee4e2bd7cbe0f78fc5d153b95a",
+      "seen_at": "2026-04-26T22:28:31.002240+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev 0f88a1f346db",
+      "title": "[check page] Embassy of Japan Argentina — rev d6d51477307c",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.17643017.1777199847.50916eb0 https://errors.edgesuite.net/18.17643017.1777199847.50916eb0",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.7212df17.1777242501.105412ca https://errors.edgesuite.net/18.7212df17.1777242501.105412ca",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "033af046cbe506f2223e83f7c32e75e8e2582d2a7ebe16d67291fd010e30fedf",
-      "seen_at": "2026-04-26T10:37:37.025617+00:00"
+      "fingerprint": "0d79fcc8372d439253ced4a42c6e7ca611ea9420021ba1a41e7e357b4d4ec135",
+      "seen_at": "2026-04-26T22:28:31.002248+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev 63cf17ca65c3",
+      "title": "[check page] Embassy of Greece Argentina — rev 2a0ea5ea813d",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.3e01de17.1777199856.a5f73ff https://errors.edgesuite.net/18.3e01de17.1777199856.a5f73ff",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.6b362f17.1777242510.45bda052 https://errors.edgesuite.net/18.6b362f17.1777242510.45bda052",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "23d9a0ccf7c65600476cbe58fe47b19bc5dbbb179f31e30d4ccb7822a05774f0",
-      "seen_at": "2026-04-26T10:37:37.025625+00:00"
+      "fingerprint": "0e9a301b76b38be8cc9223523ca6d5fbca068fd03324c859b7d7872165b36fdd",
+      "seen_at": "2026-04-26T22:28:31.002256+00:00"
     }
   ]
 }
