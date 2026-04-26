@@ -1,103 +1,67 @@
 {
-  "run_at": "2026-04-25T22:26:45.071909+00:00",
-  "new_count": 8,
+  "run_at": "2026-04-26T10:37:37.025540+00:00",
+  "new_count": 5,
   "errors": {},
   "jobs": [
     {
-      "source": "impactpool",
-      "title": "Health Caseworker",
-      "url": "https://www.impactpool.org/jobs/1209892",
-      "location": "Remote | San Jose",
-      "posted_at": null,
-      "description": null,
-      "organization": "IRC - International Rescue Committee",
-      "raw": {},
-      "fingerprint": "4700274c47267daa1fdf6788944ca628ce4faa8915ca795a07fa5ec4caf0821a",
-      "seen_at": "2026-04-25T22:26:45.071941+00:00"
-    },
-    {
       "source": "emb-usa",
       "title": "Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=wgxfvfh3pt0&returnToSearch=true&jnum=73541&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=uvq3uujnpt0&returnToSearch=true&jnum=73541&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "942b0169ef87a0ad448690a6a4b27ef2d98602a2a3acdb5a73b590181fa66402",
-      "seen_at": "2026-04-25T22:26:45.071953+00:00"
+      "fingerprint": "1354fe5a85be0f85a355678a0e9b7ff0493dc1f58b62f4084d1631f4a250c05d",
+      "seen_at": "2026-04-26T10:37:37.025580+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=wgxfvfh3pt0&returnToSearch=true&jnum=73817&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=uvq3uujnpt0&returnToSearch=true&jnum=73817&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "147bed0c0dc0ef5cdb2f131306cd378959f617ffbf32c5a7bdd13631c8e40c46",
-      "seen_at": "2026-04-25T22:26:45.071961+00:00"
+      "fingerprint": "00a50d343955047a8936914e3842628ed8df9404d328547a845ede9ba6c02015",
+      "seen_at": "2026-04-26T10:37:37.025596+00:00"
     },
     {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev 5cdc014a31b1",
+      "title": "[check page] Embassy of Sweden Argentina — rev 7336cb5b3dae",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "70d8a09088d8779c73dc7a472eb96dbebf825be3be5450e00921d2a4f0a058de",
-      "seen_at": "2026-04-25T22:26:45.071969+00:00"
-    },
-    {
-      "source": "watch-emb-turkey",
-      "title": "[check page] Embassy of Türkiye Argentina — rev 38561747c363",
-      "url": "https://buenosaires-emb.mfa.gov.tr/Mission/Announcements",
-      "location": "Argentina",
-      "posted_at": null,
-      "description": "REPÚBLICA DE TÜRKİYE EMBAJADA DE LA REPÚBLICA DE TÜRKİYE EN BUENOS AIRES Anasayfa Embajada Embajada Anuncios Discursos Embajadores anteriores Notas informativas Trámites consulares Contacto Español Türkçe Español Randevu Al Türk Vatandaşları İçin Konsolosluk İşlemleri Yabancılar İçin Vize Ön Başvuru Randevu Sorgula Randevu İptal/Sorgula Türk Vatandaşları için Randevu Sorgulama Yabancılar için Vize",
-      "organization": "Embassy of Türkiye Argentina",
-      "raw": {},
-      "fingerprint": "ccb93545e637af404ae4d7d884805ff90d045c1412da07b1ed795eca06e33178",
-      "seen_at": "2026-04-25T22:26:45.071976+00:00"
+      "fingerprint": "fd85e043deead49dfef77fefc2c37ea1aa1f7fb843d47d53498e3445ece356e3",
+      "seen_at": "2026-04-26T10:37:37.025608+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev 64b8d2dca250",
+      "title": "[check page] Embassy of Japan Argentina — rev 0f88a1f346db",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.685ed617.1777155996.69f8185 https://errors.edgesuite.net/18.685ed617.1777155996.69f8185",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.17643017.1777199847.50916eb0 https://errors.edgesuite.net/18.17643017.1777199847.50916eb0",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "8133b1091b9273f7a07a7f45035fc9fdc6f50ac0b5ea43e4dd48f1b1708cfd9f",
-      "seen_at": "2026-04-25T22:26:45.071983+00:00"
-    },
-    {
-      "source": "watch-emb-korea",
-      "title": "[check page] Embassy of Korea Argentina — rev bbeb66690518",
-      "url": "https://www.mofa.go.kr/ar-es/brd/m_6289/list.do",
-      "location": "Argentina",
-      "posted_at": null,
-      "description": "바로가기 메뉴 본문 바로가기 주메뉴 바로가기 MOFA Presidential Office SNS Embajada facebook instagram youtube X Español Español coreano Embajada de la República de Corea en Argentina POPUP 0 Español coreano Presentación Actividades del Embajador Avisos Ubicación y Contacto Saludos del Embajador Asuntos Consulares/Visado Solicitud de Visado Asuntos Consulares Relaciones Bilaterales Relaciones Bilaterales Sobre Corea ",
-      "organization": "Embassy of Korea Argentina",
-      "raw": {},
-      "fingerprint": "48c7564595a0f1965634fe6b41f22be86ec4b964d54f47d4a33e51ed38709098",
-      "seen_at": "2026-04-25T22:26:45.071989+00:00"
+      "fingerprint": "033af046cbe506f2223e83f7c32e75e8e2582d2a7ebe16d67291fd010e30fedf",
+      "seen_at": "2026-04-26T10:37:37.025617+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev 45bda2b585f9",
+      "title": "[check page] Embassy of Greece Argentina — rev 63cf17ca65c3",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.c900d817.1777156004.2ab36c8b https://errors.edgesuite.net/18.c900d817.1777156004.2ab36c8b",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.3e01de17.1777199856.a5f73ff https://errors.edgesuite.net/18.3e01de17.1777199856.a5f73ff",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "29c006090df9ba0e96dc5edb1151417f5fbab434ef51177ac485c5c49cb1ab46",
-      "seen_at": "2026-04-25T22:26:45.071995+00:00"
+      "fingerprint": "23d9a0ccf7c65600476cbe58fe47b19bc5dbbb179f31e30d4ccb7822a05774f0",
+      "seen_at": "2026-04-26T10:37:37.025625+00:00"
     }
   ]
 }
