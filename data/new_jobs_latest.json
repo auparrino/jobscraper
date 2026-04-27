@@ -1,261 +1,201 @@
 {
-  "run_at": "2026-04-27T11:32:25.260869+00:00",
-  "new_count": 20,
+  "run_at": "2026-04-27T22:40:40.746900+00:00",
+  "new_count": 16,
   "errors": {},
   "jobs": [
     {
       "source": "reliefweb",
-      "title": "Organizational Development Expert",
-      "url": "https://reliefweb.int/job/4209256/organizational-development-expert",
+      "title": "RfP - Evaluation of the MSF Transformational Investment Capacity (TIC)",
+      "url": "https://reliefweb.int/job/4209482/rfp-evaluation-msf-transformational-investment-capacity-tic",
       "location": null,
-      "posted_at": "Mon, 27 Apr 2026 09:28:13 +0000",
+      "posted_at": "Mon, 27 Apr 2026 13:48:25 +0000",
       "description": null,
-      "organization": "STOOS CONSULTING",
+      "organization": "Médecins Sans Frontières",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "6c11c8e5540ebbec543681a29a5c7c77fd3599bd0f9f4009aeb890c2507960ff",
-      "seen_at": "2026-04-27T11:32:25.260905+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Global Surge Team Roster: Emergency People & Culture Coordinator",
-      "url": "https://reliefweb.int/job/4209424/global-surge-team-roster-emergency-people-culture-coordinator",
-      "location": null,
-      "posted_at": "Mon, 27 Apr 2026 09:09:31 +0000",
-      "description": null,
-      "organization": "International Rescue Committee",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "9695b8269baff44678c238e3c49eb4644cc8e9e9cf5452081b9c18da3c7d4cf2",
-      "seen_at": "2026-04-27T11:32:25.260922+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Evaluator - Dutch MFA Grant",
-      "url": "https://reliefweb.int/job/4209260/evaluator-dutch-mfa-grant",
-      "location": null,
-      "posted_at": "Mon, 27 Apr 2026 08:46:36 +0000",
-      "description": null,
-      "organization": "International Center for Transitional Justice",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "92517c2095c648ea38e1660ac491556d6150d1eb597998988c99f589e563201e",
-      "seen_at": "2026-04-27T11:32:25.260933+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Request for Proposals – Software Maintenance and Development Services for the Quality-of-Care Data Strategy Agreement",
-      "url": "https://reliefweb.int/job/4209287/request-proposals-software-maintenance-and-development-services-quality-care-data-strategy-agreement",
-      "location": null,
-      "posted_at": "Mon, 27 Apr 2026 08:44:30 +0000",
-      "description": null,
-      "organization": "War Child International",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "dd7c23de480673a8cfbae8ffa5df5683df749a02aeaf97494062e953243ca740",
-      "seen_at": "2026-04-27T11:32:25.260946+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Gender and Social Inclusion Consultant",
-      "url": "https://reliefweb.int/job/4209285/gender-and-social-inclusion-consultant",
-      "location": null,
-      "posted_at": "Mon, 27 Apr 2026 08:43:59 +0000",
-      "description": null,
-      "organization": "War Child International",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "3910c5ac76ac57c753c17e63bafdf1ead5318f5844409ed95f58ec6a1661f41f",
-      "seen_at": "2026-04-27T11:32:25.260954+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Junior OSINT Investigator",
-      "url": "https://reliefweb.int/job/4209272/junior-osint-investigator",
-      "location": null,
-      "posted_at": "Mon, 27 Apr 2026 08:43:05 +0000",
-      "description": null,
-      "organization": "Platform for Peace and Humanity",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "5b5de5d2163c4139671c81c8394946b7925df9aa8e287ac28087cf2372165aaf",
-      "seen_at": "2026-04-27T11:32:25.260962+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Call for AI & Digital Innovation Experts (Remote)",
-      "url": "https://reliefweb.int/job/4209258/call-ai-digital-innovation-experts-remote",
-      "location": null,
-      "posted_at": "Mon, 27 Apr 2026 08:08:53 +0000",
-      "description": null,
-      "organization": "STOOS CONSULTING",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "604828f84277cdaeef1691d2deb8b86f90af7753a9a11045586b4e520dbd15ff",
-      "seen_at": "2026-04-27T11:32:25.260970+00:00"
-    },
-    {
-      "source": "unjobs",
-      "title": "UNV Especialista tecnico de proteccion de derechos y acceso a la justicia, Buenos Aires, Argentina",
-      "url": "https://unjobs.org/vacancies/1777030778388",
-      "location": null,
-      "posted_at": "2026-04-27T05:16:36Z",
-      "description": null,
-      "organization": null,
-      "raw": {},
-      "fingerprint": "0f3e39e0aa1e7697276737f202bb770c4319eee2ddf6abda62ebb6b2b0d4ec30",
-      "seen_at": "2026-04-27T11:32:25.260978+00:00"
+      "fingerprint": "08a20897e4759a025fd5e81118e1285c114ed1f05e6441fd8f267bffe9a10ed2",
+      "seen_at": "2026-04-27T22:40:40.746938+00:00"
     },
     {
       "source": "impactpool",
-      "title": "UNEP Finance Initiative (UNEP FI) – Climate risk  assessment, quantification and financing strategy Consultant",
-      "url": "https://www.impactpool.org/jobs/1210085",
-      "location": "Remote | Geneva",
+      "title": "Stagiaire Communication",
+      "url": "https://www.impactpool.org/jobs/1210303",
+      "location": "Remote | Antananarivo",
       "posted_at": null,
       "description": null,
-      "organization": "UNEP - United Nations Environment Programme",
+      "organization": "UNDP - United Nations Development Programme",
       "raw": {},
-      "fingerprint": "730e0cc888b02fb7f9ef9e203ad4464447c9e9e97a3eab326bf992937fbcdc98",
-      "seen_at": "2026-04-27T11:32:25.260987+00:00"
+      "fingerprint": "c4fb8712f2cacd015560960806dd9c97525c9286b83d5f6c6210366d017bcd3e",
+      "seen_at": "2026-04-27T22:40:40.746954+00:00"
     },
     {
-      "source": "impactpool",
-      "title": "Monitoring and Reporting consultant",
-      "url": "https://www.impactpool.org/jobs/1210074",
-      "location": "Remote | Geneva",
+      "source": "idealist",
+      "title": "Senior Developer Tech Equity Fellowship",
+      "url": "https://www.idealist.org/en/nonprofit-job/341c8cc81c4e495f8c3460d78ac9c169-senior-developer-tech-equity-fellowship-code-the-dream-durham",
+      "location": "Remote",
       "posted_at": null,
       "description": null,
-      "organization": "UNEP - United Nations Environment Programme",
+      "organization": "Code the Dream",
       "raw": {},
-      "fingerprint": "6c58156b9fd8b6166b6195a412a31d147ffb3211fab6ec46a0367f2e726fa32a",
-      "seen_at": "2026-04-27T11:32:25.260994+00:00"
+      "fingerprint": "2d7685ada0f5396d8e001413b3506896956641543b9a141ce08681fa6e3f81d4",
+      "seen_at": "2026-04-27T22:40:40.746964+00:00"
     },
     {
-      "source": "impactpool",
-      "title": "Programme Evaluation Specialist - Home based",
-      "url": "https://www.impactpool.org/jobs/1210065",
-      "location": "Remote | Nairobi",
+      "source": "idealist",
+      "title": "Family Forward NC® Statewide Strategist",
+      "url": "https://www.idealist.org/en/nonprofit-job/13338d69ea4b49118d2b8c2e286054a5-family-forward-nc-statewide-strategist-north-carolina-early-childhood-foundation-inc-raleigh",
+      "location": "Remote",
       "posted_at": null,
       "description": null,
-      "organization": "UNEP - United Nations Environment Programme",
+      "organization": "NORTH CAROLINA EARLY CHILDHOOD FOUNDATION INC",
       "raw": {},
-      "fingerprint": "43c1c916b1344f318009f0696a4dbf5918d8eefaec3188a552a897a82ca8a602",
-      "seen_at": "2026-04-27T11:32:25.261001+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "Consultant Specialist in Climate Finance",
-      "url": "https://www.impactpool.org/jobs/1210058",
-      "location": "Remote | Panamá",
-      "posted_at": null,
-      "description": null,
-      "organization": "UNEP - United Nations Environment Programme",
-      "raw": {},
-      "fingerprint": "f5a84c572aa09c5c1dab54a7d4d965e989cba7eb8cd8547a13b18b8095f4d1a9",
-      "seen_at": "2026-04-27T11:32:25.261008+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "National Consultant (Policy and SOP Development Expert Consultant for Wildlife and Timber Trafficking)",
-      "url": "https://www.impactpool.org/jobs/1210056",
-      "location": "Remote | Bangkok",
-      "posted_at": null,
-      "description": null,
-      "organization": "UNODC - United Nations Office on Drugs and Crime",
-      "raw": {},
-      "fingerprint": "9d12688e8838d3e7b9e842a3e49ae9fcdb460153bb26c9c60a8c24c71b54888d",
-      "seen_at": "2026-04-27T11:32:25.261015+00:00"
+      "fingerprint": "72aee73aabee1a7e5b5aa0bc612d13648a9bc4fcb14cfb23a3ff09791df2f461",
+      "seen_at": "2026-04-27T22:40:40.746975+00:00"
     },
     {
       "source": "unicef",
-      "title": "National consultant: Technical Assistance to  Ministry of Health in  Developing the Global  Fund Cycle 8 Funding Request for Integrated HIV/TB programmes, Dar es salaam, Tanzania/ Health Section, 2.8 months (ONLY NATIONAL, Remote with trip)",
-      "url": "https://jobs.unicef.org/en-us/job/592647/national-consultant-technical-assistance-to-ministry-of-health-in-developing-the-global-fund-cycle-8-funding-request-for-integrated-hivtb-programmes-dar-es-salaam-tanzania-health-section-28-months-only-national-remote-with-trip",
+      "title": "National Reproductive, Maternal, Newborn and Child Health Consultancy, Health & SP section, 4 months, Team of two national consultants, Vientiane, Lao (Remote with travel)",
+      "url": "https://jobs.unicef.org/en-us/job/592693/national-reproductive-maternal-newborn-and-child-health-consultancy-health-sp-section-4-months-team-of-two-national-consultants-vientiane-lao-remote-with-travel",
       "location": null,
       "posted_at": null,
       "description": null,
       "organization": "UNICEF",
       "raw": {},
-      "fingerprint": "5d47467ee5f0f058ade6d8ba2fdb0b84e4465d121a5590566b9517ada62bb075",
-      "seen_at": "2026-04-27T11:32:25.261023+00:00"
+      "fingerprint": "7100f55f12d794e6fad14cf1793e50bb4f460e8b1a10c3feb3da8f32f44150ac",
+      "seen_at": "2026-04-27T22:40:40.746983+00:00"
     },
     {
       "source": "unicef",
-      "title": "Consultant international  chargé de l’élaboration d’une  stratégie de mobilisation des  ressources pour la  modernisation du système  d’état civil aux Comores , Moroni, Comoros/Child Protection, 5 months, (remote with trip, only INTERNATIONAL)",
-      "url": "https://jobs.unicef.org/en-us/job/592681/consultant-international-chargé-de-lélaboration-dune-stratégie-de-mobilisation-des-ressources-pour-la-modernisation-du-système-détat-civil-aux-comores-moroni-comoroschild-protection-5-months-remote-with-trip-only-international",
+      "title": "Re- Advertisement- Home-based Consultancy: Youth Consultants (26.6 days during 8 months till 31 December 2026), ECARO, O/P Italy",
+      "url": "https://jobs.unicef.org/en-us/job/592298/re-advertisement-homebased-consultancy-youth-consultants-266-days-during-8-months-till-31-december-2026-ecaro-op-italy",
+      "location": "re advertisement homebased consultancy youth consultants 266 days during 8 months till 31 december 2026 ecaro op italy",
+      "posted_at": null,
+      "description": null,
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "136604421f050bb60584a97015b3cf2c625ff40488fb2c21c19fc29bda377148",
+      "seen_at": "2026-04-27T22:40:40.746991+00:00"
+    },
+    {
+      "source": "unicef",
+      "title": "Re- Advertisement- Home-based Consultancy: U-Report Steering Group Mentor Consultant (23.5 days from May 2026 to December 2026) ECARO, O/P Italy",
+      "url": "https://jobs.unicef.org/en-us/job/592463/re-advertisement-homebased-consultancy-ureport-steering-group-mentor-consultant-235-days-from-may-2026-to-december-2026-ecaro-op-italy",
+      "location": "re advertisement homebased consultancy ureport steering group mentor consultant 235 days from may 2026 to december 2026 ecaro op italy",
+      "posted_at": null,
+      "description": null,
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "69360301df81c234f63c8d8b8f10b6977b5044034ecebd50eca145a5fb4394ff",
+      "seen_at": "2026-04-27T22:40:40.746999+00:00"
+    },
+    {
+      "source": "unicef",
+      "title": "Consultancy - Nutrition in emergencies Help Desk -Global nutrition cluster (GNC), GPD, CoE, 12 months, Nairobi, (Remote) #592636",
+      "url": "https://jobs.unicef.org/en-us/job/592636/consultancy-nutrition-in-emergencies-help-desk-global-nutrition-cluster-gnc-gpd-coe-12-months-nairobi-remote-592636",
       "location": null,
       "posted_at": null,
       "description": null,
       "organization": "UNICEF",
       "raw": {},
-      "fingerprint": "b2c600e5dcba5920502cdadaecf00981c9147ddc5b47bda0b14e9084a1c7c97c",
-      "seen_at": "2026-04-27T11:32:25.261034+00:00"
+      "fingerprint": "e853fbc500be2dd59855f02e156356ef3b3a6da89086ece622aef0e58372885e",
+      "seen_at": "2026-04-27T22:40:40.747006+00:00"
+    },
+    {
+      "source": "idb",
+      "title": "Operational Business Analyst & Incident Management Consultant",
+      "url": "https://jobs.iadb.org/job/Operational-Business-Analyst-&amp;-Incident-Management-Consultant/2926-en_US",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "Inter-American Development Bank",
+      "raw": {},
+      "fingerprint": "7efd953f22f1fa113f65f95f4577bdb252f6a637d4bdf3145804d137e5269245",
+      "seen_at": "2026-04-27T22:40:40.747013+00:00"
+    },
+    {
+      "source": "idb",
+      "title": "PEC Consultant - External Evaluation of the Public Financial Management System using the IDB Guide",
+      "url": "https://jobs.iadb.org/job/PEC-Consultant-External-Evaluation-of-the-Public-Financial-Management-System-using-the-IDB-Guide/2903-en_US",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "Inter-American Development Bank",
+      "raw": {},
+      "fingerprint": "06c70759a3e23f6654a9f34fd03aafc4d0392792d55afd03e6ffb1907cc24b32",
+      "seen_at": "2026-04-27T22:40:40.747022+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Escort and Administrative Rover (U.S. Citizen Eligible Family Members (USEFMs) - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=zthqouprpt0&returnToSearch=true&jnum=73541&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=bdrksmfbpt0&returnToSearch=true&jnum=73541&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "26dbede3b586c83ab58f3be65bdbb75d5291d541635991cb5d57eccdc3d00f7d",
-      "seen_at": "2026-04-27T11:32:25.261042+00:00"
+      "fingerprint": "6b0b90ebdbc885980da635787c8bbb4a75fdaf249309d74aac36668cf132a038",
+      "seen_at": "2026-04-27T22:40:40.747030+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=zthqouprpt0&returnToSearch=true&jnum=73817&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=bdrksmfbpt0&returnToSearch=true&jnum=73817&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "5028a1a9cf1fe2c263ff59a99e324f0bbefbde8a22f577a3beea2b6ded801651",
-      "seen_at": "2026-04-27T11:32:25.261049+00:00"
+      "fingerprint": "a2852401f849cebd5a9e0d4d75bc74ea3c6b6b5160a54525ffa59bec87720f98",
+      "seen_at": "2026-04-27T22:40:40.747037+00:00"
     },
     {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev 2e3a6a4961a7",
+      "title": "[check page] Embassy of Sweden Argentina — rev 495953167d2e",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "a9ab6944de058aeef74477e61a40a365dc2c135274167351fcb797e579efa4b1",
-      "seen_at": "2026-04-27T11:32:25.261057+00:00"
+      "fingerprint": "ca0011fd373a7f90e02382d145318a2f2a363a0a5858e61fc2d420e20fe83ec6",
+      "seen_at": "2026-04-27T22:40:40.747046+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev 927ff1b0b3c4",
+      "title": "[check page] Embassy of Japan Argentina — rev 59abe289f626",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.8df4d517.1777289537.40aea4 https://errors.edgesuite.net/18.8df4d517.1777289537.40aea4",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.880c0317.1777329629.3d7966 https://errors.edgesuite.net/18.880c0317.1777329629.3d7966",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "be8daad0b436bd886fb10575ad9218649e98f423ec1977e324f6e1b2ed70c256",
-      "seen_at": "2026-04-27T11:32:25.261065+00:00"
+      "fingerprint": "6eef2f0c6ebb6219e0d7d583bde64544aafbf7d5b08bd290713c08af6bce752e",
+      "seen_at": "2026-04-27T22:40:40.747055+00:00"
+    },
+    {
+      "source": "watch-emb-korea",
+      "title": "[check page] Embassy of Korea Argentina — rev 817e310f332a",
+      "url": "https://www.mofa.go.kr/ar-es/brd/m_6289/list.do",
+      "location": "Argentina",
+      "posted_at": null,
+      "description": "바로가기 메뉴 본문 바로가기 주메뉴 바로가기 MOFA Presidential Office SNS Embajada facebook instagram youtube X Español Español coreano Embajada de la República de Corea en Argentina POPUP 0 Español coreano Presentación Actividades del Embajador Avisos Ubicación y Contacto Saludos del Embajador Asuntos Consulares/Visado Solicitud de Visado Asuntos Consulares Relaciones Bilaterales Relaciones Bilaterales Sobre Corea ",
+      "organization": "Embassy of Korea Argentina",
+      "raw": {},
+      "fingerprint": "b0e343a72884040189bfc208159bcf9f171513928ca69ecd74f11889afbe4a45",
+      "seen_at": "2026-04-27T22:40:40.747063+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev d793e975f239",
+      "title": "[check page] Embassy of Greece Argentina — rev 8a14e71c486d",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.cd5ed617.1777289544.6a702cd8 https://errors.edgesuite.net/18.cd5ed617.1777289544.6a702cd8",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.46721102.1777329640.c19ab69f https://errors.edgesuite.net/18.46721102.1777329640.c19ab69f",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "ff2c0ee7268022c130f5dd1514e08755d6aaed31c5f2dde3483831d8b5f041d4",
-      "seen_at": "2026-04-27T11:32:25.261078+00:00"
+      "fingerprint": "96f55f1614bcd71df7935d358cac11070ce8389e4e8a020123260deab53ace6e",
+      "seen_at": "2026-04-27T22:40:40.747071+00:00"
     }
   ]
 }
