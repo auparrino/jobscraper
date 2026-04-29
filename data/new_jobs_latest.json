@@ -1,267 +1,211 @@
 {
-  "run_at": "2026-04-29T11:25:40.167215+00:00",
-  "new_count": 21,
+  "run_at": "2026-04-29T22:46:21.220161+00:00",
+  "new_count": 17,
   "errors": {},
   "jobs": [
     {
-      "source": "reliefweb",
-      "title": "Development of Knowledge Products on Digital Rights and Civic Space in Kenya",
-      "url": "https://reliefweb.int/job/4209802/development-knowledge-products-digital-rights-and-civic-space-kenya",
-      "location": null,
-      "posted_at": "Wed, 29 Apr 2026 08:55:43 +0000",
-      "description": null,
-      "organization": "Oxfam",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "9f416ea30195a0f58ba9c58432ae015c8f4850bef59ce1c60b9df3fdf974233c",
-      "seen_at": "2026-04-29T11:25:40.167252+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Regional Communications Officer – West Africa Cocoa Programme (WACP)",
-      "url": "https://reliefweb.int/job/4209797/regional-communications-officer-west-africa-cocoa-programme-wacp",
-      "location": null,
-      "posted_at": "Wed, 29 Apr 2026 08:54:00 +0000",
-      "description": null,
-      "organization": "Fairtrade Africa",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "dbb2ddd664d1681fb517674176778943a4d4036c2d4c7be32ff37632ec38004f",
-      "seen_at": "2026-04-29T11:25:40.167272+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Human Rights Investigations Team Lead (Consultant)",
-      "url": "https://reliefweb.int/job/4209697/human-rights-investigations-team-lead-consultant",
-      "location": null,
-      "posted_at": "Wed, 29 Apr 2026 08:36:38 +0000",
-      "description": null,
-      "organization": "Syria Justice and Accountability Centre",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "f773cec44756e265d7986732f6a78e0e3c775afdb5455e5de656843db5837844",
-      "seen_at": "2026-04-29T11:25:40.167283+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Learning and Facilitation Materials Development Consultant",
-      "url": "https://reliefweb.int/job/4209653/learning-and-facilitation-materials-development-consultant",
-      "location": null,
-      "posted_at": "Tue, 28 Apr 2026 16:30:27 +0000",
-      "description": null,
-      "organization": "Plan International",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "2542418fe6e3cc7a08102bb9898e4dfa1fa41ac412c869a46796da2427062844",
-      "seen_at": "2026-04-29T11:25:40.167293+00:00"
-    },
-    {
-      "source": "unjobs",
-      "title": "Advisor, Regional Revolving Funds, Buenos Aires, Argentina",
-      "url": "https://unjobs.org/vacancies/1777418483758",
-      "location": null,
-      "posted_at": "2026-04-29T04:55:00Z",
-      "description": null,
-      "organization": null,
-      "raw": {},
-      "fingerprint": "d2d60b3a72a87aa16387c5a7c19c89cbcfa1cfed9ba336063771e30e0659b1d2",
-      "seen_at": "2026-04-29T11:25:40.167301+00:00"
-    },
-    {
       "source": "impactpool",
-      "title": "Data Engineering Intern",
-      "url": "https://www.impactpool.org/jobs/1210606",
-      "location": "Remote | New York City",
+      "title": "Deputy Director of the Child Protection Alliance, Global",
+      "url": "https://www.impactpool.org/jobs/1210809",
+      "location": "Remote | Kenya | UK",
       "posted_at": null,
       "description": null,
-      "organization": "UNDPPA-DPO - United Nations Departments of Political and Peacebuilding Affairs and Peace Operations",
+      "organization": "IRC - International Rescue Committee",
       "raw": {},
-      "fingerprint": "9ec69702f45f5f58c0b4bac5309e91f6d069015a37bdc5d3bfdd4c9e64112d5e",
-      "seen_at": "2026-04-29T11:25:40.167309+00:00"
+      "fingerprint": "da61ad7148e641edff0f019226a2b8cac520483c66acc9be93f5e25f86b5ef04",
+      "seen_at": "2026-04-29T22:46:21.220196+00:00"
     },
     {
       "source": "impactpool",
-      "title": "Senior Consultant for Carbon Markets and NbS",
-      "url": "https://www.impactpool.org/jobs/1210591",
-      "location": "Remote | Panamá",
+      "title": "Sand and Dust Storms Strategy Specialist",
+      "url": "https://www.impactpool.org/jobs/1210806",
+      "location": "Remote | Home Based - May require travel",
       "posted_at": null,
       "description": null,
-      "organization": "UNEP - United Nations Environment Programme",
+      "organization": "UNCCD - United Nations Convention to Combat Desertification",
       "raw": {},
-      "fingerprint": "2d6a1c3826de8df0bf01ad7596a2425fbf029a81ff198d19e7eef5ec4d0ce662",
-      "seen_at": "2026-04-29T11:25:40.167316+00:00"
+      "fingerprint": "af9e0db7fc607b81fed79a182934a9ff25976cde5ffba070252384360c92bb54",
+      "seen_at": "2026-04-29T22:46:21.220212+00:00"
     },
     {
       "source": "impactpool",
-      "title": "Preparation of Guidelines for Promoting Sustainable Marine Renewable Energies in the Mediterranean Sea",
-      "url": "https://www.impactpool.org/jobs/1210582",
-      "location": "Remote | Athens",
+      "title": "Layout and Design Consultant",
+      "url": "https://www.impactpool.org/jobs/1210805",
+      "location": "Remote | Home Based - May require travel",
       "posted_at": null,
       "description": null,
-      "organization": "UNEP - United Nations Environment Programme",
+      "organization": "UNCCD - United Nations Convention to Combat Desertification",
       "raw": {},
-      "fingerprint": "5b260db747d5334b0d99818f45e3a9f9bb09497ede21cc876683daa7228eb5bb",
-      "seen_at": "2026-04-29T11:25:40.167323+00:00"
+      "fingerprint": "121ce8d9ba22b37e761cd12dc535839a1613273921e5d2db2fe7014163b35079",
+      "seen_at": "2026-04-29T22:46:21.220222+00:00"
     },
     {
       "source": "impactpool",
-      "title": "Mining Value Chain Analyst in the Extractive Commodities Section",
-      "url": "https://www.impactpool.org/jobs/1210581",
+      "title": "Environment and Social Consultant",
+      "url": "https://www.impactpool.org/jobs/1210794",
+      "location": "Remote | Beijing | Xiamen",
+      "posted_at": null,
+      "description": null,
+      "organization": "AIIB - Asian Infrastructure Investment Bank",
+      "raw": {},
+      "fingerprint": "8d684470bd30e66d9b2d58fe31e3636671207b011bf6d423495bf0cd29f29644",
+      "seen_at": "2026-04-29T22:46:21.220230+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "National Consultant: Communication Expert – EU-ACP Business Friendly Project (Ghana)",
+      "url": "https://www.impactpool.org/jobs/1210789",
+      "location": "Remote | Accra | Geneva",
+      "posted_at": null,
+      "description": null,
+      "organization": "ITC - International Trade Centre",
+      "raw": {},
+      "fingerprint": "3aed6219f93594268ced0fbd3363028c657adb91f67d398de8103b604552dde8",
+      "seen_at": "2026-04-29T22:46:21.220240+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "Local Individual Contractor, System Architect",
+      "url": "https://www.impactpool.org/jobs/1210788",
+      "location": "Remote | Tashkent",
+      "posted_at": null,
+      "description": null,
+      "organization": "UNODC - United Nations Office on Drugs and Crime",
+      "raw": {},
+      "fingerprint": "396aaf3c36678def22996e5f7f06434a72b1e1e64550ef7c525922b45eca8f92",
+      "seen_at": "2026-04-29T22:46:21.220248+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "Local Individual Contractor, Web Designer",
+      "url": "https://www.impactpool.org/jobs/1210785",
+      "location": "Remote | Tashkent",
+      "posted_at": null,
+      "description": null,
+      "organization": "UNODC - United Nations Office on Drugs and Crime",
+      "raw": {},
+      "fingerprint": "00f8ed5fab14a4cd3945c724fd9cb67504d53f3f4e7b3f5970f278ccc77d40f2",
+      "seen_at": "2026-04-29T22:46:21.220255+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "UNEP Finance Initiative (UNEP FI) Internship for Communications",
+      "url": "https://www.impactpool.org/jobs/1210776",
       "location": "Remote | Geneva",
       "posted_at": null,
       "description": null,
-      "organization": "UNCTAD - United Nations Conference on Trade and Development",
-      "raw": {},
-      "fingerprint": "613149d170cc27811621e213455fe071ea9711c3934786b5982fb4ac99085855",
-      "seen_at": "2026-04-29T11:25:40.167330+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "Communications M&E and Outreach Intern",
-      "url": "https://www.impactpool.org/jobs/1210579",
-      "location": "Remote | Port of Spain",
-      "posted_at": null,
-      "description": null,
-      "organization": "UNDGC - United Nations Department of Global Communications",
-      "raw": {},
-      "fingerprint": "1f6e8791a377e7a825961ead731f321fbdade2fdde789a87d2067dfc18d5ef9f",
-      "seen_at": "2026-04-29T11:25:40.167336+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "Senior Consultant for Carbon Markets and NbS",
-      "url": "https://www.impactpool.org/jobs/1210568",
-      "location": "Remote | Panamá",
-      "posted_at": null,
-      "description": null,
       "organization": "UNEP - United Nations Environment Programme",
       "raw": {},
-      "fingerprint": "89818a3e8f8ea53eb8688008b532bf29af526c9dbcf42fc61e0b464ca5ef8287",
-      "seen_at": "2026-04-29T11:25:40.167343+00:00"
+      "fingerprint": "839dc228241a357acaf5930ffda7dc9ce7b2275282fec53a1000350c77500ad3",
+      "seen_at": "2026-04-29T22:46:21.220261+00:00"
     },
     {
       "source": "impactpool",
-      "title": "Preparation of Guidelines for Promoting Sustainable Marine Renewable Energies in the Mediterranean Sea",
-      "url": "https://www.impactpool.org/jobs/1210567",
-      "location": "Remote | Athens",
+      "title": "National Consultant: Local Expert in Agricultural Value Chain (Sesame)",
+      "url": "https://www.impactpool.org/jobs/1210772",
+      "location": "Remote | Geneva | Abuja",
       "posted_at": null,
       "description": null,
-      "organization": "UNEP - United Nations Environment Programme",
+      "organization": "ITC - International Trade Centre",
       "raw": {},
-      "fingerprint": "3b0d7e4aaafa2ad1763b632a33f2471b11cebbefcf5c8e5c1b55ac25186cabcf",
-      "seen_at": "2026-04-29T11:25:40.167350+00:00"
+      "fingerprint": "f670d33ebc96cb12feed1fd70b523f672ceee8aa2ee99b77521475c711055a26",
+      "seen_at": "2026-04-29T22:46:21.220268+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "Local Individual Contractor, Database Administrator",
+      "url": "https://www.impactpool.org/jobs/1210769",
+      "location": "Remote | Tashkent",
+      "posted_at": null,
+      "description": null,
+      "organization": "UNODC - United Nations Office on Drugs and Crime",
+      "raw": {},
+      "fingerprint": "06cd54e8f855cbb5218a61dfd170e4dd702e1ca239f416934b7e813c9cb05c9a",
+      "seen_at": "2026-04-29T22:46:21.220275+00:00"
     },
     {
       "source": "unicef",
-      "title": "Rapid Needs Assessment Consultant of WASH in Schools, 22 days, Harare, Zimbabwe, Remote, (Open for Nationals of Zimbabwe only), #592631",
-      "url": "https://jobs.unicef.org/en-us/job/592631/rapid-needs-assessment-consultant-of-wash-in-schools-22-days-harare-zimbabwe-remote-open-for-nationals-of-zimbabwe-only-592631",
+      "title": "Future of Immunization –Project Coordinator Consultancy, OSE-Innocenti, 6.5 months, Florence, Italy (Remote), #592749",
+      "url": "https://jobs.unicef.org/en-us/job/592749/future-of-immunization-project-coordinator-consultancy-oseinnocenti-65-months-florence-italy-remote-592749",
       "location": null,
       "posted_at": null,
       "description": null,
       "organization": "UNICEF",
       "raw": {},
-      "fingerprint": "3f79e3f5d5149a7f5b253a7833b0ac3fdb06cbed3d6f5b46bffb027254c43f6c",
-      "seen_at": "2026-04-29T11:25:40.167358+00:00"
+      "fingerprint": "939cd5939d81debc1b99835456dd23ade39b6b9ddf65e797e5bded18e6024d00",
+      "seen_at": "2026-04-29T22:46:21.220285+00:00"
     },
     {
       "source": "unicef",
-      "title": "National Consultant to review the Single Window (MIS) and provide recs for its alignment with the redesigned Single Window business processes – Lusaka, Zambia, Home-based+travel",
-      "url": "https://jobs.unicef.org/en-us/job/592728/national-consultant-to-review-the-single-window-mis-and-provide-recs-for-its-alignment-with-the-redesigned-single-window-business-processes-lusaka-zambia-homebasedtravel",
-      "location": "national consultant to review the single window mis and provide recs for its alignment with the redesigned single window business processes lusaka zambia homebasedtravel",
-      "posted_at": null,
-      "description": null,
-      "organization": "UNICEF",
-      "raw": {},
-      "fingerprint": "d05be9371cfa42f4cdc67291f01bbd87dcc187320cc20aca74c53cfee85d8510",
-      "seen_at": "2026-04-29T11:25:40.167368+00:00"
-    },
-    {
-      "source": "unicef",
-      "title": "Re-advertised: Scaling Strategy Consultancy – Data Integrator Tool and Drought Monitoring System for Climate-Resilient WASH , Denmark, OoI, 6 months (Remote)",
-      "url": "https://jobs.unicef.org/en-us/job/592741/readvertised-scaling-strategy-consultancy-data-integrator-tool-and-drought-monitoring-system-for-climateresilient-wash-denmark-ooi-6-months-remote",
+      "title": "COMBI (Communication for Behavioural Impact) Training Facilitator, Dar Es Salaam, Tanzania/Social and Behaviour Change (SBC) Section, 2 months (remote with trip, INTERNATIONAL only)",
+      "url": "https://jobs.unicef.org/en-us/job/592720/combi-communication-for-behavioural-impact-training-facilitator-dar-es-salaam-tanzaniasocial-and-behaviour-change-sbc-section-2-months-remote-with-trip-international-only",
       "location": null,
       "posted_at": null,
       "description": null,
       "organization": "UNICEF",
       "raw": {},
-      "fingerprint": "eff003015238a7aedf6b935414adee577aabf81669c0e7e09ebb00d68b81e894",
-      "seen_at": "2026-04-29T11:25:40.167378+00:00"
-    },
-    {
-      "source": "unicef",
-      "title": "National Consultant to conduct Situation Analysis for Children and Adults with Disabilities, Syria, Social Policy, 6.8 months (National Consultancy, Remote+On-site)",
-      "url": "https://jobs.unicef.org/en-us/job/592674/national-consultant-to-conduct-situation-analysis-for-children-and-adults-with-disabilities-syria-social-policy-68-months-national-consultancy-remoteonsite",
-      "location": null,
-      "posted_at": null,
-      "description": null,
-      "organization": "UNICEF",
-      "raw": {},
-      "fingerprint": "80c89de8a3820455ce90170252dfa7dacbbb037d5c39db83f79b1f77ad3afc7c",
-      "seen_at": "2026-04-29T11:25:40.167385+00:00"
+      "fingerprint": "a84cede96c082292766ac4fc2472d0687d0ff6bd7cbff56b7c9747350adde85b",
+      "seen_at": "2026-04-29T22:46:21.220293+00:00"
     },
     {
       "source": "emb-usa",
       "title": "Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)",
-      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=qxovr0znpt0&returnToSearch=true&jnum=73817&orgId=64",
+      "url": "https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=rlr3ztrrpt0&returnToSearch=true&jnum=73817&orgId=64",
       "location": "Buenos Aires, Argentina",
       "posted_at": null,
       "description": null,
       "organization": "U.S. Embassy Buenos Aires",
       "raw": {},
-      "fingerprint": "6a83c0c04734ad26a4dc77e76cad1e70492f50642170be24ae994ce13a20d763",
-      "seen_at": "2026-04-29T11:25:40.167392+00:00"
+      "fingerprint": "fb76d4685ef5c9950ae9adb94410826bfcfcba3636ae9234e95044e6f8115d1a",
+      "seen_at": "2026-04-29T22:46:21.220302+00:00"
     },
     {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev 65f720bc93f5",
+      "title": "[check page] Embassy of Sweden Argentina — rev 84a10aa814b3",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "5356be822ef8b6caf168c69dc891acce29fc5f0a7018ed4706757bcb5052572f",
-      "seen_at": "2026-04-29T11:25:40.167401+00:00"
+      "fingerprint": "5c77ec60b7b4a572879a881c29e0ee8035728f2ce26f5d310c11aa03b60df99b",
+      "seen_at": "2026-04-29T22:46:21.220310+00:00"
     },
     {
       "source": "watch-emb-turkey",
-      "title": "[check page] Embassy of Türkiye Argentina — rev 71c1a32c0a84",
+      "title": "[check page] Embassy of Türkiye Argentina — rev 5cd0def9eb26",
       "url": "https://buenosaires-emb.mfa.gov.tr/Mission/Announcements",
       "location": "Argentina",
       "posted_at": null,
       "description": "REPÚBLICA DE TÜRKİYE EMBAJADA DE LA REPÚBLICA DE TÜRKİYE EN BUENOS AIRES Anasayfa Embajada Embajada Anuncios Discursos Embajadores anteriores Notas informativas Trámites consulares Contacto Español Türkçe Español Randevu Al Türk Vatandaşları İçin Konsolosluk İşlemleri Yabancılar İçin Vize Ön Başvuru Randevu Sorgula Randevu İptal/Sorgula Türk Vatandaşları için Randevu Sorgulama Yabancılar için Vize",
       "organization": "Embassy of Türkiye Argentina",
       "raw": {},
-      "fingerprint": "30f759175939cf66968b95700d45a75557b0f74458fb5ba6e0baebd6d86c97fd",
-      "seen_at": "2026-04-29T11:25:40.167410+00:00"
+      "fingerprint": "011cc279b26a7c4277b0697053e46e9515b8fbfb36332b14871d66b36256b7ae",
+      "seen_at": "2026-04-29T22:46:21.220319+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev c2fcbede43bf",
+      "title": "[check page] Embassy of Japan Argentina — rev 0eb244ee21b1",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.19643017.1777461916.d373f62 https://errors.edgesuite.net/18.19643017.1777461916.d373f62",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.17643017.1777502769.60f78910 https://errors.edgesuite.net/18.17643017.1777502769.60f78910",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "019d4ba6f08d0b32463d6691b0605f7de5f30222b68a17a776aad6e0e71612c3",
-      "seen_at": "2026-04-29T11:25:40.167418+00:00"
+      "fingerprint": "9ab1937e7479e2d200ad0b5ba1db83405023a4be29e1f83fd54a12747fae4cd1",
+      "seen_at": "2026-04-29T22:46:21.220327+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev 43192dfa3274",
+      "title": "[check page] Embassy of Greece Argentina — rev b3570b3397ed",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.3e01de17.1777461939.4146637 https://errors.edgesuite.net/18.3e01de17.1777461939.4146637",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.50f3417.1777502780.2235faf1 https://errors.edgesuite.net/18.50f3417.1777502780.2235faf1",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "6aae1c53ba22c6c1aade6d832219ccc38bf03004b5aafb084e33df2cd8d8a570",
-      "seen_at": "2026-04-29T11:25:40.167425+00:00"
+      "fingerprint": "836324762f93a63a1244c4551a0c34c85462df5096feb9082208cddc6c1174e4",
+      "seen_at": "2026-04-29T22:46:21.220335+00:00"
     }
   ]
 }
