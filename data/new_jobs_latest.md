@@ -1,42 +1,36 @@
-# 16 ofertas nuevas
+# 13 ofertas nuevas
 
 
 ## emb-usa (1)
 
-- [Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)](https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=rvpirjhrpt0&returnToSearch=true&jnum=73817&orgId=64) — U.S. Embassy Buenos Aires · Buenos Aires, Argentina
+- [Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)](https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=tjz0u2l3pt0&returnToSearch=true&jnum=73817&orgId=64) — U.S. Embassy Buenos Aires · Buenos Aires, Argentina
 
-## impactpool (6)
+## idb (1)
 
-- [Spanish Speaking Sales Manager](https://www.impactpool.org/jobs/1210881) — Fintech Media · Remote
-- [Public Information Intern - Media Relations](https://www.impactpool.org/jobs/1210877) — UNDPPA-DPO - United Nations Departments of Political and Peacebuilding Affairs and Peace Operations · Remote | New York City
-- [Lead Biomedical Engineer](https://www.impactpool.org/jobs/1210874) — UNOPS - United Nations Office for Project Services · Remote | Home Based - May require travel
-- [Senior Subgrant Administrative Manager](https://www.impactpool.org/jobs/1210863) — IRC - International Rescue Committee · Remote | United States of America
-- [Asistente de Protección de la Niñez](https://www.impactpool.org/jobs/1210862) — IRC - International Rescue Committee · Remote | Mexico City
-- [Consultant - Digital Information Architect](https://www.impactpool.org/jobs/1210860) — IRC - International Rescue Committee · Remote | New York City
+- [Consultor PEC - Diseño de instrumentos del PROINNOVA Fase 2](https://jobs.iadb.org/job/Consultor-PEC-Dise%C3%B1o-de-instrumentos-del-PROINNOVA-Fase-2/2944-en_US) — Inter-American Development Bank · Remote
 
-## reliefweb (4)
+## impactpool (2)
 
-- [Responsable des Activités Santé Mentale - Profil Psychiatre (m/f/d)](https://reliefweb.int/job/4209892/responsable-des-activites-sante-mentale-profil-psychiatre-mfd) — Médecins Sans Frontières · Thu, 30 Apr 2026 10:59:10 +0000
-- [Independent UN Human Rights Council Experts, with Extensive Professional Experience in Human Rights](https://reliefweb.int/job/4209862/independent-un-human-rights-council-experts-extensive-professional-experience-human-rights) — UN Office of the High Commissioner for Human Rights · Thu, 30 Apr 2026 10:57:37 +0000
-- [RfP - Thematic evaluation of Paediatric HIV care in OCB-settings](https://reliefweb.int/job/4209959/rfp-thematic-evaluation-paediatric-hiv-care-ocb-settings) — Médecins Sans Frontières · Thu, 30 Apr 2026 07:25:34 +0000
-- [Child Protection in Emergencies Specialist - Roster Recruitment](https://reliefweb.int/job/4209835/child-protection-emergencies-specialist-roster-recruitment) — Plan International · Wed, 29 Apr 2026 12:50:39 +0000
+- [Clean Cooking Planning Officer (Retainer)](https://www.impactpool.org/jobs/1211079) — UNOPS - United Nations Office for Project Services · Remote | Home Based - May require travel
+- [Local Videographer – Silk Road Caravan in Russia and Central Asia 2026](https://www.impactpool.org/jobs/1211078) — UNCCD - United Nations Convention to Combat Desertification · Remote | Bishkek | Tashkent
 
-## unicef (1)
+## unicef (6)
 
-- [National Consultant to Develop Technical Specification for an Online ECEC Quality Monitoring and Evaluation Platform, Sofia, Bulgaria CO/ Programme, Remote work](https://jobs.unicef.org/en-us/job/592746/national-consultant-to-develop-technical-specification-for-an-online-ecec-quality-monitoring-and-evaluation-platform-sofia-bulgaria-co-programme-remote-work) — UNICEF
+- [International Consultant: Education-to-Employment Pathways for Refugee Youth - Documenting Integrated Career Guidance in Poland and Youth Guarantee Outreach in Slovakia, Education Section, Remote work](https://jobs.unicef.org/en-us/job/592772/international-consultant-educationtoemployment-pathways-for-refugee-youth-documenting-integrated-career-guidance-in-poland-and-youth-guarantee-outreach-in-slovakia-education-section-remote-work) — UNICEF
+- [Consultant (Application, Training and Intersectoral Plans of the Indigenous Food Systems Matrix), 8 months, Remote, Brasilia, Brazil](https://jobs.unicef.org/en-us/job/592794/consultant-application-training-and-intersectoral-plans-of-the-indigenous-food-systems-matrix-8-months-remote-brasilia-brazil) — UNICEF
+- [Consultant - Climate and Environment Consultant (Child-responsive policies), 11 months, Home-Based, Brasilia, Brazil](https://jobs.unicef.org/en-us/job/592808/consultant-climate-and-environment-consultant-childresponsive-policies-11-months-homebased-brasilia-brazil) — UNICEF · consultant climate and environment consultant childresponsive policies 11 months homebased brasilia brazil
+- [Consultant (6 months, home-based): Consultant - Project Manager (Digital Payments), CODAS, Division of Private Fundraising and Partnerships (PFP)](https://jobs.unicef.org/en-us/job/592788/consultant-6-months-homebased-consultant-project-manager-digital-payments-codas-division-of-private-fundraising-and-partnerships-pfp) — UNICEF · consultant 6 months homebased consultant project manager digital payments codas division of private fundraising and partnerships pfp
+- [Adolescent Girls Evidence and Practice Consultant, GPD, Gender Equality, 15.5 months, CoE, Nairobi, Kenya (remote), #592736](https://jobs.unicef.org/en-us/job/592736/adolescent-girls-evidence-and-practice-consultant-gpd-gender-equality-155-months-coe-nairobi-kenya-remote-592736) — UNICEF
+- [Consultant for inclusive, quality ECCE and FLN, Education section, 11 months, New Delhi, (Remote, Open for Indian nationals only), #592751](https://jobs.unicef.org/en-us/job/592751/consultant-for-inclusive-quality-ecce-and-fln-education-section-11-months-new-delhi-remote-open-for-indian-nationals-only-592751) — UNICEF
 
 ## watch-emb-greece (1)
 
-- [[check page] Embassy of Greece Argentina — rev f83f5105d2e1](https://www.mfa.gr/missionsabroad/es/argentina.html) — Embassy of Greece Argentina · Argentina
+- [[check page] Embassy of Greece Argentina — rev 8046437dd741](https://www.mfa.gr/missionsabroad/es/argentina.html) — Embassy of Greece Argentina · Argentina
 
 ## watch-emb-japan (1)
 
-- [[check page] Embassy of Japan Argentina — rev 872a888595d3](https://www.ar.emb-japan.go.jp/itprtop_es/index.html) — Embassy of Japan Argentina · Argentina
+- [[check page] Embassy of Japan Argentina — rev 887f0a9d1d29](https://www.ar.emb-japan.go.jp/itprtop_es/index.html) — Embassy of Japan Argentina · Argentina
 
 ## watch-emb-sweden (1)
 
-- [[check page] Embassy of Sweden Argentina — rev 8eb1d2aacc51](https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/) — Embassy of Sweden Argentina · Argentina
-
-## watch-emb-turkey (1)
-
-- [[check page] Embassy of Türkiye Argentina — rev 07d5a72d5461](https://buenosaires-emb.mfa.gov.tr/Mission/Announcements) — Embassy of Türkiye Argentina · Argentina
+- [[check page] Embassy of Sweden Argentina — rev 26faa6a8e72f](https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/) — Embassy of Sweden Argentina · Argentina
