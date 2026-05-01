@@ -1,35 +1,32 @@
-# 15 ofertas nuevas
+# 9 ofertas nuevas
 
 
-## idb (1)
+## impactpool (1)
 
-- [Judges of the Administrative Tribunal](https://jobs.iadb.org/job/Judges-of-the-Administrative-Tribunal/2960-en_US) — Inter-American Development Bank · Remote
+- [Consultant on Disaster Losses and Damages Tracking and Risk Information Systems in the Pacific](https://www.impactpool.org/jobs/1211203) — UNDRR - United Nations Office for Disaster Risk Reduction · Remote | Suva
 
-## impactpool (10)
+## reliefweb (1)
 
-- [Flying GIS Specialist](https://www.impactpool.org/jobs/1211146) — MSF - Médecins Sans Frontières (Artsen Zonder Grenzen) - Netherlands · Remote
-- [Assistente Técnico – Atendimento ao Usuário (1 vaga) (Home Based) - [Open to internal & external applicants]](https://www.impactpool.org/jobs/1211144) — UNDP - United Nations Development Programme · Remote | Home Based - May require travel
-- [Consultant, Resource Mobilization- Cuba](https://www.impactpool.org/jobs/1211141) — IFRC - International Federation of Red Cross and Red Crescent Societies · Remote | Santo Domingo
-- [Global Technical Advisor](https://www.impactpool.org/jobs/1211130) — UNOPS - United Nations Office for Project Services · Remote | Home Based - May require travel
-- [Specialist Course Instructor](https://www.impactpool.org/jobs/1211124) — UNHABITAT - United Nations Human Settlements Programme · Remote | Rio de Janeiro
-- [Database and Programme Support (Fashion & Construction)](https://www.impactpool.org/jobs/1211123) — UNEP - United Nations Environment Programme · Remote | Geneva
-- [Social & Environment Safeguards expert-Tanzania](https://www.impactpool.org/jobs/1211122) — UNEP - United Nations Environment Programme · Remote | Nairobi
-- [Strategic Transactions Manager, Software GTM](https://www.impactpool.org/jobs/1211121) — Crux Climate · Remote | Washington D.C. | Seattle | Boston | Denver
-- [Database and Programme Support (Fashion & Construction)](https://www.impactpool.org/jobs/1211118) — UNEP - United Nations Environment Programme · Remote | Geneva
-- [Social & Environment Safeguards expert-Tanzania](https://www.impactpool.org/jobs/1211116) — UNEP - United Nations Environment Programme · Remote | Nairobi
+- [RFQ FY26-216: Transfer Pricing Analysis](https://reliefweb.int/job/4210230/rfq-fy26-216-transfer-pricing-analysis) — Plan International · Fri, 01 May 2026 16:01:41 +0000
 
-## unicef (1)
+## unjobs (3)
 
-- [International Individual Consultant on Development of Social Protection Policy Briefs, Chisinau, Moldova (International Consultancy, Remote)](https://jobs.unicef.org/en-us/job/592744/international-individual-consultant-on-development-of-social-protection-policy-briefs-chisinau-moldova-international-consultancy-remote) — UNICEF
-
-## unjobs (1)
-
-- [Responsable de Eventos, Campañas & Publicaciones](https://unjobs.org/vacancies/1777582793820) — 2026-05-01T04:26:12Z
+- [CIRUJANO/A (GESTIONADO POR MSF LAT)](https://unjobs.org/vacancies/1768137773296) — 2026-01-12T03:25:06Z
+- [MATRÓN/A (MANAGED BY BUENOS AIRES)](https://unjobs.org/vacancies/1768137829403) — 2026-01-12T03:24:06Z
+- [FARMACÉUTICO/A (MANAGED BY MSF LAT)](https://unjobs.org/vacancies/1768137842589) — 2026-01-12T03:23:56Z
 
 ## watch-emb-greece (1)
 
-- [[check page] Embassy of Greece Argentina — rev 18e29fccc45b](https://www.mfa.gr/missionsabroad/es/argentina.html) — Embassy of Greece Argentina · Argentina
+- [[check page] Embassy of Greece Argentina — rev 8f2c1691c0b2](https://www.mfa.gr/missionsabroad/es/argentina.html) — Embassy of Greece Argentina · Argentina
 
 ## watch-emb-japan (1)
 
-- [[check page] Embassy of Japan Argentina — rev b9c8797fad96](https://www.ar.emb-japan.go.jp/itprtop_es/index.html) — Embassy of Japan Argentina · Argentina
+- [[check page] Embassy of Japan Argentina — rev e3ab65b0de5a](https://www.ar.emb-japan.go.jp/itprtop_es/index.html) — Embassy of Japan Argentina · Argentina
+
+## watch-emb-sweden (1)
+
+- [[check page] Embassy of Sweden Argentina — rev 7cffa555b1c7](https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/) — Embassy of Sweden Argentina · Argentina
+
+## watch-emb-turkey (1)
+
+- [[check page] Embassy of Türkiye Argentina — rev f01aa3eba0d9](https://buenosaires-emb.mfa.gov.tr/Mission/Announcements) — Embassy of Türkiye Argentina · Argentina
