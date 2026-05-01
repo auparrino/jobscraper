@@ -1,36 +1,35 @@
-# 13 ofertas nuevas
+# 15 ofertas nuevas
 
-
-## emb-usa (1)
-
-- [Accounting Technician/Budget Analyst (Current Employees of the Mission - All Agencies)](https://erajobs.state.gov/dos-era/vacancy/viewVacancyDetail.hms?_ref=tjz0u2l3pt0&returnToSearch=true&jnum=73817&orgId=64) — U.S. Embassy Buenos Aires · Buenos Aires, Argentina
 
 ## idb (1)
 
-- [Consultor PEC - Diseño de instrumentos del PROINNOVA Fase 2](https://jobs.iadb.org/job/Consultor-PEC-Dise%C3%B1o-de-instrumentos-del-PROINNOVA-Fase-2/2944-en_US) — Inter-American Development Bank · Remote
+- [Judges of the Administrative Tribunal](https://jobs.iadb.org/job/Judges-of-the-Administrative-Tribunal/2960-en_US) — Inter-American Development Bank · Remote
 
-## impactpool (2)
+## impactpool (10)
 
-- [Clean Cooking Planning Officer (Retainer)](https://www.impactpool.org/jobs/1211079) — UNOPS - United Nations Office for Project Services · Remote | Home Based - May require travel
-- [Local Videographer – Silk Road Caravan in Russia and Central Asia 2026](https://www.impactpool.org/jobs/1211078) — UNCCD - United Nations Convention to Combat Desertification · Remote | Bishkek | Tashkent
+- [Flying GIS Specialist](https://www.impactpool.org/jobs/1211146) — MSF - Médecins Sans Frontières (Artsen Zonder Grenzen) - Netherlands · Remote
+- [Assistente Técnico – Atendimento ao Usuário (1 vaga) (Home Based) - [Open to internal & external applicants]](https://www.impactpool.org/jobs/1211144) — UNDP - United Nations Development Programme · Remote | Home Based - May require travel
+- [Consultant, Resource Mobilization- Cuba](https://www.impactpool.org/jobs/1211141) — IFRC - International Federation of Red Cross and Red Crescent Societies · Remote | Santo Domingo
+- [Global Technical Advisor](https://www.impactpool.org/jobs/1211130) — UNOPS - United Nations Office for Project Services · Remote | Home Based - May require travel
+- [Specialist Course Instructor](https://www.impactpool.org/jobs/1211124) — UNHABITAT - United Nations Human Settlements Programme · Remote | Rio de Janeiro
+- [Database and Programme Support (Fashion & Construction)](https://www.impactpool.org/jobs/1211123) — UNEP - United Nations Environment Programme · Remote | Geneva
+- [Social & Environment Safeguards expert-Tanzania](https://www.impactpool.org/jobs/1211122) — UNEP - United Nations Environment Programme · Remote | Nairobi
+- [Strategic Transactions Manager, Software GTM](https://www.impactpool.org/jobs/1211121) — Crux Climate · Remote | Washington D.C. | Seattle | Boston | Denver
+- [Database and Programme Support (Fashion & Construction)](https://www.impactpool.org/jobs/1211118) — UNEP - United Nations Environment Programme · Remote | Geneva
+- [Social & Environment Safeguards expert-Tanzania](https://www.impactpool.org/jobs/1211116) — UNEP - United Nations Environment Programme · Remote | Nairobi
 
-## unicef (6)
+## unicef (1)
 
-- [International Consultant: Education-to-Employment Pathways for Refugee Youth - Documenting Integrated Career Guidance in Poland and Youth Guarantee Outreach in Slovakia, Education Section, Remote work](https://jobs.unicef.org/en-us/job/592772/international-consultant-educationtoemployment-pathways-for-refugee-youth-documenting-integrated-career-guidance-in-poland-and-youth-guarantee-outreach-in-slovakia-education-section-remote-work) — UNICEF
-- [Consultant (Application, Training and Intersectoral Plans of the Indigenous Food Systems Matrix), 8 months, Remote, Brasilia, Brazil](https://jobs.unicef.org/en-us/job/592794/consultant-application-training-and-intersectoral-plans-of-the-indigenous-food-systems-matrix-8-months-remote-brasilia-brazil) — UNICEF
-- [Consultant - Climate and Environment Consultant (Child-responsive policies), 11 months, Home-Based, Brasilia, Brazil](https://jobs.unicef.org/en-us/job/592808/consultant-climate-and-environment-consultant-childresponsive-policies-11-months-homebased-brasilia-brazil) — UNICEF · consultant climate and environment consultant childresponsive policies 11 months homebased brasilia brazil
-- [Consultant (6 months, home-based): Consultant - Project Manager (Digital Payments), CODAS, Division of Private Fundraising and Partnerships (PFP)](https://jobs.unicef.org/en-us/job/592788/consultant-6-months-homebased-consultant-project-manager-digital-payments-codas-division-of-private-fundraising-and-partnerships-pfp) — UNICEF · consultant 6 months homebased consultant project manager digital payments codas division of private fundraising and partnerships pfp
-- [Adolescent Girls Evidence and Practice Consultant, GPD, Gender Equality, 15.5 months, CoE, Nairobi, Kenya (remote), #592736](https://jobs.unicef.org/en-us/job/592736/adolescent-girls-evidence-and-practice-consultant-gpd-gender-equality-155-months-coe-nairobi-kenya-remote-592736) — UNICEF
-- [Consultant for inclusive, quality ECCE and FLN, Education section, 11 months, New Delhi, (Remote, Open for Indian nationals only), #592751](https://jobs.unicef.org/en-us/job/592751/consultant-for-inclusive-quality-ecce-and-fln-education-section-11-months-new-delhi-remote-open-for-indian-nationals-only-592751) — UNICEF
+- [International Individual Consultant on Development of Social Protection Policy Briefs, Chisinau, Moldova (International Consultancy, Remote)](https://jobs.unicef.org/en-us/job/592744/international-individual-consultant-on-development-of-social-protection-policy-briefs-chisinau-moldova-international-consultancy-remote) — UNICEF
+
+## unjobs (1)
+
+- [Responsable de Eventos, Campañas & Publicaciones](https://unjobs.org/vacancies/1777582793820) — 2026-05-01T04:26:12Z
 
 ## watch-emb-greece (1)
 
-- [[check page] Embassy of Greece Argentina — rev 8046437dd741](https://www.mfa.gr/missionsabroad/es/argentina.html) — Embassy of Greece Argentina · Argentina
+- [[check page] Embassy of Greece Argentina — rev 18e29fccc45b](https://www.mfa.gr/missionsabroad/es/argentina.html) — Embassy of Greece Argentina · Argentina
 
 ## watch-emb-japan (1)
 
-- [[check page] Embassy of Japan Argentina — rev 887f0a9d1d29](https://www.ar.emb-japan.go.jp/itprtop_es/index.html) — Embassy of Japan Argentina · Argentina
-
-## watch-emb-sweden (1)
-
-- [[check page] Embassy of Sweden Argentina — rev 26faa6a8e72f](https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/) — Embassy of Sweden Argentina · Argentina
+- [[check page] Embassy of Japan Argentina — rev b9c8797fad96](https://www.ar.emb-japan.go.jp/itprtop_es/index.html) — Embassy of Japan Argentina · Argentina
