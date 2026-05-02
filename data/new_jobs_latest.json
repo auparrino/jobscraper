@@ -1,117 +1,103 @@
 {
-  "run_at": "2026-05-01T22:42:06.643471+00:00",
-  "new_count": 9,
+  "run_at": "2026-05-02T10:43:30.038372+00:00",
+  "new_count": 8,
   "errors": {},
   "jobs": [
     {
-      "source": "reliefweb",
-      "title": "RFQ FY26-216: Transfer Pricing Analysis",
-      "url": "https://reliefweb.int/job/4210230/rfq-fy26-216-transfer-pricing-analysis",
-      "location": null,
-      "posted_at": "Fri, 01 May 2026 16:01:41 +0000",
-      "description": null,
-      "organization": "Plan International",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "5b32cacf841569511c6f23a974e8266c3e05b0ee50bca48262df5213619fe156",
-      "seen_at": "2026-05-01T22:42:06.643511+00:00"
-    },
-    {
       "source": "unjobs",
-      "title": "CIRUJANO/A (GESTIONADO POR MSF LAT)",
-      "url": "https://unjobs.org/vacancies/1768137773296",
+      "title": "Convocatoria de colaborador/a externo/a - , Argentina",
+      "url": "https://unjobs.org/vacancies/1777666686301",
       "location": null,
-      "posted_at": "2026-01-12T03:25:06Z",
+      "posted_at": "2026-05-02T08:23:53Z",
       "description": null,
       "organization": null,
       "raw": {},
-      "fingerprint": "87efc4b9200af4fb670df3bb8a819c42c7db721b690fd3eb51e29da0ba46661f",
-      "seen_at": "2026-05-01T22:42:06.643527+00:00"
-    },
-    {
-      "source": "unjobs",
-      "title": "MATRÓN/A (MANAGED BY BUENOS AIRES)",
-      "url": "https://unjobs.org/vacancies/1768137829403",
-      "location": null,
-      "posted_at": "2026-01-12T03:24:06Z",
-      "description": null,
-      "organization": null,
-      "raw": {},
-      "fingerprint": "509ba8499eb7eaabbe954e5ff2bab3c967ce7e4f6914e1107b0be0734b726dbf",
-      "seen_at": "2026-05-01T22:42:06.643538+00:00"
-    },
-    {
-      "source": "unjobs",
-      "title": "FARMACÉUTICO/A (MANAGED BY MSF LAT)",
-      "url": "https://unjobs.org/vacancies/1768137842589",
-      "location": null,
-      "posted_at": "2026-01-12T03:23:56Z",
-      "description": null,
-      "organization": null,
-      "raw": {},
-      "fingerprint": "bd58d090dce8762dcce7d2a0200c27363cb17f7e5c00ce7af00994b2bb77e593",
-      "seen_at": "2026-05-01T22:42:06.643547+00:00"
+      "fingerprint": "66465c10069fe996d5fd7d228d6d365b6d7d6396d096dd63370987cc87191abe",
+      "seen_at": "2026-05-02T10:43:30.038408+00:00"
     },
     {
       "source": "impactpool",
-      "title": "Consultant on Disaster Losses and Damages Tracking and Risk Information Systems in the Pacific",
-      "url": "https://www.impactpool.org/jobs/1211203",
-      "location": "Remote | Suva",
+      "title": "M&E Associate (Rapid Experimentation)NewNairobi, Kenya",
+      "url": "https://www.impactpool.org/jobs/1211228",
+      "location": "Remote | Nairobi | Kigali",
       "posted_at": null,
       "description": null,
-      "organization": "UNDRR - United Nations Office for Disaster Risk Reduction",
+      "organization": "GiveDirectly",
       "raw": {},
-      "fingerprint": "2c5576be2083b01418e348b4e81fdb9f8aaf9b0af06c4248168b2b99ff7fc590",
-      "seen_at": "2026-05-01T22:42:06.643555+00:00"
+      "fingerprint": "09d850f0e5ebf2dc92f9b1b05173881be2b4026a873a1f078451a66cc53c0b48",
+      "seen_at": "2026-05-02T10:43:30.038423+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "M&E Associate (Rapid Experimentation)NewKigali, Rwanda",
+      "url": "https://www.impactpool.org/jobs/1211227",
+      "location": "Remote | Kigali",
+      "posted_at": null,
+      "description": null,
+      "organization": "GiveDirectly",
+      "raw": {},
+      "fingerprint": "d48e7c11b7b4118a8a39998e24b7ea1245c9a249bd1ef02d239ed28feabfd65e",
+      "seen_at": "2026-05-02T10:43:30.038433+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "Digital Communications Intern - Content Curation & Newsletter",
+      "url": "https://www.impactpool.org/jobs/1211215",
+      "location": "Remote | Port of Spain",
+      "posted_at": null,
+      "description": null,
+      "organization": "UNDGC - United Nations Department of Global Communications",
+      "raw": {},
+      "fingerprint": "a50b8c7eaa1629975eb383d5bd6610d9aed1a679622a3adebfc12ac38b094aff",
+      "seen_at": "2026-05-02T10:43:30.038441+00:00"
+    },
+    {
+      "source": "idealist",
+      "title": "Senior Director of Operations (Remote position)",
+      "url": "https://www.idealist.org/en/nonprofit-job/dc4e644edb22486c8272d24d6990118e-senior-director-of-operations-remote-position-progressnow-earlysville",
+      "location": "Senior Director of Operations (Remote position)",
+      "posted_at": null,
+      "description": null,
+      "organization": "ProgressNow",
+      "raw": {},
+      "fingerprint": "e1b4c316573ac8a39ddbb2ceb241ae58925a9fed400aa880bfccfeead1f84493",
+      "seen_at": "2026-05-02T10:43:30.038449+00:00"
     },
     {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev 7cffa555b1c7",
+      "title": "[check page] Embassy of Sweden Argentina — rev dc2fbdf01abf",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "e2db2a4c58ef5fb98e657571c3f13566d323396edb552ffe1f3094dbb812760a",
-      "seen_at": "2026-05-01T22:42:06.643565+00:00"
-    },
-    {
-      "source": "watch-emb-turkey",
-      "title": "[check page] Embassy of Türkiye Argentina — rev f01aa3eba0d9",
-      "url": "https://buenosaires-emb.mfa.gov.tr/Mission/Announcements",
-      "location": "Argentina",
-      "posted_at": null,
-      "description": "REPÚBLICA DE TÜRKİYE EMBAJADA DE LA REPÚBLICA DE TÜRKİYE EN BUENOS AIRES Anasayfa Embajada Embajada Anuncios Discursos Embajadores anteriores Notas informativas Trámites consulares Contacto Español Türkçe Español Randevu Al Türk Vatandaşları İçin Konsolosluk İşlemleri Yabancılar İçin Vize Ön Başvuru Randevu Sorgula Randevu İptal/Sorgula Türk Vatandaşları için Randevu Sorgulama Yabancılar için Vize",
-      "organization": "Embassy of Türkiye Argentina",
-      "raw": {},
-      "fingerprint": "7fbd1ea0a8e043eb3b75efbe9340bebfe16bf58c9a6f972fd272fe9605771a17",
-      "seen_at": "2026-05-01T22:42:06.643574+00:00"
+      "fingerprint": "157c4b102e508c91fe6496c4bc65514babcd54c005175008244dbf9d88a42e5f",
+      "seen_at": "2026-05-02T10:43:30.038459+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev e3ab65b0de5a",
+      "title": "[check page] Embassy of Japan Argentina — rev 98ac7e72d119",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.c9ed2717.1777675318.c94d5af https://errors.edgesuite.net/18.c9ed2717.1777675318.c94d5af",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.956bdc17.1777718599.38e2be4e https://errors.edgesuite.net/18.956bdc17.1777718599.38e2be4e",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "88dd7ebe70e28ec6664afb678a712d47976c79a28a69050bf1ad46411dbcfb8c",
-      "seen_at": "2026-05-01T22:42:06.643582+00:00"
+      "fingerprint": "484853a63a28cb59207018fa054cd783d0079456f99518021504c223f7592e48",
+      "seen_at": "2026-05-02T10:43:30.038496+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev 8f2c1691c0b2",
+      "title": "[check page] Embassy of Greece Argentina — rev e759cf3df5c3",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.5040d817.1777675326.a93f417 https://errors.edgesuite.net/18.5040d817.1777675326.a93f417",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.50f3417.1777718609.5b0a5ad4 https://errors.edgesuite.net/18.50f3417.1777718609.5b0a5ad4",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "c3dd50ba12be81974779bb3f591570d0eb9d903946ed8a36692fb85c6a11dd66",
-      "seen_at": "2026-05-01T22:42:06.643590+00:00"
+      "fingerprint": "0ba9a961fe836f43f8d3554e29d868ac1ec1e797f816e7a31939c6daab0acbe3",
+      "seen_at": "2026-05-02T10:43:30.038507+00:00"
     }
   ]
 }
