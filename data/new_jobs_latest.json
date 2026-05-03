@@ -1,91 +1,43 @@
 {
-  "run_at": "2026-05-02T22:31:27.736667+00:00",
-  "new_count": 7,
+  "run_at": "2026-05-03T10:45:51.979014+00:00",
+  "new_count": 3,
   "errors": {},
   "jobs": [
     {
-      "source": "impactpool",
-      "title": "Director, Global Operations",
-      "url": "https://www.impactpool.org/jobs/1211232",
-      "location": "Remote | United States",
-      "posted_at": null,
-      "description": null,
-      "organization": "CHAI - Clinton Health Access Initiative",
-      "raw": {},
-      "fingerprint": "64ee4849fc1bae096d02dbe9cafbccbac1042c3a9d0eddb5873ca8a5515e1dbb",
-      "seen_at": "2026-05-02T22:31:27.736703+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "Associate Director, AI Transformation",
-      "url": "https://www.impactpool.org/jobs/1211231",
-      "location": "Remote | United States",
-      "posted_at": null,
-      "description": null,
-      "organization": "CHAI - Clinton Health Access Initiative",
-      "raw": {},
-      "fingerprint": "e7678225e27ce0de57f550951821f6d5300084058a6b9f82ffe98fe728a69374",
-      "seen_at": "2026-05-02T22:31:27.736718+00:00"
-    },
-    {
-      "source": "impactpool",
-      "title": "Manager, AI Transformation",
-      "url": "https://www.impactpool.org/jobs/1211230",
-      "location": "Remote | United States | Multiple locations",
-      "posted_at": null,
-      "description": null,
-      "organization": "CHAI - Clinton Health Access Initiative",
-      "raw": {},
-      "fingerprint": "d1b43bb5b2885b7d8051556f8bdf4af35c0d0a59a2d9cb859188db220ca720de",
-      "seen_at": "2026-05-02T22:31:27.736728+00:00"
-    },
-    {
-      "source": "idealist",
-      "title": "Executive Director",
-      "url": "https://www.idealist.org/en/nonprofit-job/860d46fcc6ff472ba934ff8de0761b7d-executive-director-bleeding-disorders-alliance-illinois-chicago",
-      "location": "Remote",
-      "posted_at": null,
-      "description": null,
-      "organization": "Bleeding Disorders Alliance Illinois",
-      "raw": {},
-      "fingerprint": "53bec7c8520dc5b1bd56e1d9cdebdad91aac30526e67632602b49c95686c6899",
-      "seen_at": "2026-05-02T22:31:27.736736+00:00"
-    },
-    {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev d6e0b07aa372",
+      "title": "[check page] Embassy of Sweden Argentina — rev fdfae0685dc9",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "86cdea7a86ecaa4aa0df2c23fd63667bb3addf026eb5338d934e2527e4ceacf1",
-      "seen_at": "2026-05-02T22:31:27.736747+00:00"
+      "fingerprint": "27f3b64de6398b923ecea80f5ac7ab3ad2d59926db8a3ad86d3040f3c683e4fd",
+      "seen_at": "2026-05-03T10:45:51.979053+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev 7f08a3e8c275",
+      "title": "[check page] Embassy of Japan Argentina — rev 27759dac69a5",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.d71fd717.1777761077.3d5ecb87 https://errors.edgesuite.net/18.d71fd717.1777761077.3d5ecb87",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.a192117.1777805142.34f16217 https://errors.edgesuite.net/18.a192117.1777805142.34f16217",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "dd75f553a60c1173ce35bb5a006438058ec4ef319fe4d10a753dbcaee5b472fb",
-      "seen_at": "2026-05-02T22:31:27.736756+00:00"
+      "fingerprint": "e6466cfb46ef92953574b6d176da50250118846a53c57dbd55610f5825dcc483",
+      "seen_at": "2026-05-03T10:45:51.979071+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev cdbdcfed9c1c",
+      "title": "[check page] Embassy of Greece Argentina — rev 3b2313e3fb67",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.c8172117.1777761087.7b7fab https://errors.edgesuite.net/18.c8172117.1777761087.7b7fab",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.3c332e17.1777805151.1f063bc0 https://errors.edgesuite.net/18.3c332e17.1777805151.1f063bc0",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "2fa3167beff3dcd0216a83daa9d13c086a385ef29d4731bba08882ccd538335d",
-      "seen_at": "2026-05-02T22:31:27.736764+00:00"
+      "fingerprint": "ca3b8706f9c28e14f49cd3fb605a330ba58ed8fa67e896b0285f193b0426768c",
+      "seen_at": "2026-05-03T10:45:51.979082+00:00"
     }
   ]
 }
