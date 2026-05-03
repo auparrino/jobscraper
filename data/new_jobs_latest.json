@@ -1,43 +1,67 @@
 {
-  "run_at": "2026-05-03T10:45:51.979014+00:00",
-  "new_count": 3,
+  "run_at": "2026-05-03T22:32:15.567492+00:00",
+  "new_count": 5,
   "errors": {},
   "jobs": [
     {
-      "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev fdfae0685dc9",
-      "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
-      "location": "Argentina",
+      "source": "impactpool",
+      "title": "Programme Management Assistant",
+      "url": "https://www.impactpool.org/jobs/1211257",
+      "location": "Remote | Kingston",
       "posted_at": null,
-      "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
-      "organization": "Embassy of Sweden Argentina",
+      "description": null,
+      "organization": "UNEP - United Nations Environment Programme",
       "raw": {},
-      "fingerprint": "27f3b64de6398b923ecea80f5ac7ab3ad2d59926db8a3ad86d3040f3c683e4fd",
-      "seen_at": "2026-05-03T10:45:51.979053+00:00"
+      "fingerprint": "86d251d90f14bacd079fe36bcff6de533602f20dbe8877be67b2210efdfcfdaa",
+      "seen_at": "2026-05-03T22:32:15.567531+00:00"
+    },
+    {
+      "source": "impactpool",
+      "title": "Programme Management Assistant",
+      "url": "https://www.impactpool.org/jobs/1211253",
+      "location": "Remote | Kingston",
+      "posted_at": null,
+      "description": null,
+      "organization": "UNEP - United Nations Environment Programme",
+      "raw": {},
+      "fingerprint": "801bb5291edd5e52999ffdd5fd1672b58ad99af4df592c99f33f94e63c26f8f6",
+      "seen_at": "2026-05-03T22:32:15.567576+00:00"
+    },
+    {
+      "source": "idealist",
+      "title": "Operations Associate",
+      "url": "https://www.idealist.org/en/nonprofit-job/5689ff1d234049e6bca5ee9f31691ed5-operations-associate-miraclefeet-chapel-hill",
+      "location": "Remote",
+      "posted_at": null,
+      "description": null,
+      "organization": "MiracleFeet",
+      "raw": {},
+      "fingerprint": "7717ad0e5c8e414c8b0009357d03e08dafd61e8f7930e33ca9c188d61e637cae",
+      "seen_at": "2026-05-03T22:32:15.567590+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev 27759dac69a5",
+      "title": "[check page] Embassy of Japan Argentina — rev e6544f7e4912",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.a192117.1777805142.34f16217 https://errors.edgesuite.net/18.a192117.1777805142.34f16217",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.c70c0317.1777847525.1efc5ca9 https://errors.edgesuite.net/18.c70c0317.1777847525.1efc5ca9",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "e6466cfb46ef92953574b6d176da50250118846a53c57dbd55610f5825dcc483",
-      "seen_at": "2026-05-03T10:45:51.979071+00:00"
+      "fingerprint": "8905c9b195f693caa302807db5ee20a5f75efb3c47de899b652a3a0f23ff9178",
+      "seen_at": "2026-05-03T22:32:15.567601+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev 3b2313e3fb67",
+      "title": "[check page] Embassy of Greece Argentina — rev 46590ca22d69",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.3c332e17.1777805151.1f063bc0 https://errors.edgesuite.net/18.3c332e17.1777805151.1f063bc0",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.1bddda17.1777847534.6ed4ca81 https://errors.edgesuite.net/18.1bddda17.1777847534.6ed4ca81",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "ca3b8706f9c28e14f49cd3fb605a330ba58ed8fa67e896b0285f193b0426768c",
-      "seen_at": "2026-05-03T10:45:51.979082+00:00"
+      "fingerprint": "5d9fb6c06c66a3dfdd64062e40c15bd28985495567523faf5379abe3be774337",
+      "seen_at": "2026-05-03T22:32:15.567610+00:00"
     }
   ]
 }
