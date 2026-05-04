@@ -1,159 +1,143 @@
 {
-  "run_at": "2026-05-04T11:33:48.202751+00:00",
-  "new_count": 12,
+  "run_at": "2026-05-04T22:48:53.663900+00:00",
+  "new_count": 11,
   "errors": {},
   "jobs": [
     {
       "source": "reliefweb",
-      "title": "Ukraine Procurement Policy & Implementation Review",
-      "url": "https://reliefweb.int/job/4210383/ukraine-procurement-policy-implementation-review",
+      "title": "Uganda CEWS Trainer",
+      "url": "https://reliefweb.int/job/4210502/uganda-cews-trainer",
       "location": null,
-      "posted_at": "Mon, 04 May 2026 09:39:28 +0000",
+      "posted_at": "Mon, 04 May 2026 19:59:49 +0000",
       "description": null,
-      "organization": "Global Emergency Relief Recovery & Reconstruction",
+      "organization": "NetHope",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "f6d9bf759527fcaebee70304f820e093bd8fd400781a7ebf8e9af6d01513e51b",
-      "seen_at": "2026-05-04T11:33:48.202789+00:00"
+      "fingerprint": "606f6b81756725b95c3b2a283c2c274b59032c47cc4fa2d713731fac1131da86",
+      "seen_at": "2026-05-04T22:48:53.663940+00:00"
     },
     {
       "source": "reliefweb",
-      "title": "Senior Program Manager for Africa Region",
-      "url": "https://reliefweb.int/job/4210358/senior-program-manager-africa-region",
+      "title": "OCB Communications Director (m/f/x) – Brussels – MSF Belgium",
+      "url": "https://reliefweb.int/job/4210472/ocb-communications-director-mfx-brussels-msf-belgium",
       "location": null,
-      "posted_at": "Mon, 04 May 2026 09:37:45 +0000",
+      "posted_at": "Mon, 04 May 2026 14:57:16 +0000",
       "description": null,
-      "organization": "Feed the Children",
+      "organization": "Médecins Sans Frontières",
       "raw": {
         "feed": "remote"
       },
-      "fingerprint": "128bfb9f12493beed28ee3f66c7a96a80f38faa24463aed4be256268aefecf8d",
-      "seen_at": "2026-05-04T11:33:48.202842+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Strategic Partnerships & Donor Engagement",
-      "url": "https://reliefweb.int/job/4210274/strategic-partnerships-donor-engagement",
-      "location": null,
-      "posted_at": "Mon, 04 May 2026 09:27:11 +0000",
-      "description": null,
-      "organization": "Connecting Research to Development",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "e12a8bbd28104de775e60a10cd58d30e985ca4750f3b2f6ae500bc4f197792c0",
-      "seen_at": "2026-05-04T11:33:48.202856+00:00"
-    },
-    {
-      "source": "reliefweb",
-      "title": "Volunteer Website Editor",
-      "url": "https://reliefweb.int/job/4210047/volunteer-website-editor",
-      "location": null,
-      "posted_at": "Mon, 04 May 2026 09:11:26 +0000",
-      "description": null,
-      "organization": "SEED Madagascar",
-      "raw": {
-        "feed": "remote"
-      },
-      "fingerprint": "ce7a1a4668e39c294ae4f34d4db54b109ece9d95286494e76b343a904439a8cc",
-      "seen_at": "2026-05-04T11:33:48.202865+00:00"
-    },
-    {
-      "source": "unjobs",
-      "title": "Senior Protection Associate, Buenos Aires",
-      "url": "https://unjobs.org/vacancies/1777401709267",
-      "location": null,
-      "posted_at": "2026-05-04T07:27:14Z",
-      "description": null,
-      "organization": null,
-      "raw": {},
-      "fingerprint": "225d6f31afb40b5ec5132fd00a783a3e2b7b0a7ae93fcd2f81091bc8f7c6177e",
-      "seen_at": "2026-05-04T11:33:48.202873+00:00"
+      "fingerprint": "4c71613de75d5aa7c76011e1404d7d9608cf6bf113ad89fea24e464006da4ac9",
+      "seen_at": "2026-05-04T22:48:53.663958+00:00"
     },
     {
       "source": "impactpool",
-      "title": "National Consultant / Criminal and administrative law related to VAWG",
-      "url": "https://www.impactpool.org/jobs/1211322",
-      "location": "Remote | Tbilisi",
+      "title": "LANGUAGE CONSULTANT, Investigation section, OIAI, 12 months, Nairobi, Kenya (Remote), # 592806",
+      "url": "https://www.impactpool.org/jobs/1211491",
+      "location": "Remote | Nairobi",
       "posted_at": null,
       "description": null,
-      "organization": "UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women",
+      "organization": "UNICEF - United Nations Children’s Fund",
       "raw": {},
-      "fingerprint": "6e1518becd353abafdf655878437d15350018444a9eb6f3c2711e5d9343ddac2",
-      "seen_at": "2026-05-04T11:33:48.202880+00:00"
+      "fingerprint": "e0499d9b15c86a6914f19345ac70c42b5352771a718bd2db9d47d9e6fa8de4af",
+      "seen_at": "2026-05-04T22:48:53.663968+00:00"
     },
     {
       "source": "impactpool",
-      "title": "International consultant (home based) for the development of protocol sheets and pratical sheets of the Gender Sectoral Analysis of the Ministry of Foreign Affairs",
-      "url": "https://www.impactpool.org/jobs/1211308",
-      "location": "Remote | Rabat",
+      "title": "Data system and analysis consultant, PME Kenya, Nairobi, 7 months, remote, open only for national consultants #592756",
+      "url": "https://www.impactpool.org/jobs/1211490",
+      "location": "Remote | Nairobi",
       "posted_at": null,
       "description": null,
-      "organization": "UN WOMEN - United Nations Entity for Gender Equality and the Empowerment of Women",
+      "organization": "UNICEF - United Nations Children’s Fund",
       "raw": {},
-      "fingerprint": "d8212b22041b38d33bd524fe0db08a0bc0dc4b4c8bd2edc4b6ad74ed49e345b7",
-      "seen_at": "2026-05-04T11:33:48.202887+00:00"
+      "fingerprint": "65ceedd0feb610fbd9e41b3f0d97b32743b5c8780c38b01a9cb2402636b6e9b7",
+      "seen_at": "2026-05-04T22:48:53.663975+00:00"
     },
     {
-      "source": "idb",
-      "title": "Especialista Senior en Desarrollo de Efectividad",
-      "url": "https://jobs.iadb.org/job/Especialista-Senior-en-Desarrollo-de-Efectividad/2967-en_US",
-      "location": "Argentina Buenos Aires",
+      "source": "impactpool",
+      "title": "ELABORATION DES PLANS DEVELOPPEMENT COMMUNAUX (PDC) DE 4 COMMUNES URBAINES soit 2 PDC pour chaque consultant",
+      "url": "https://www.impactpool.org/jobs/1211479",
+      "location": "Remote | Massakory | Kelo | Abéché | Moundou | Bongor",
       "posted_at": null,
       "description": null,
-      "organization": "Inter-American Development Bank",
+      "organization": "UNICEF - United Nations Children’s Fund",
       "raw": {},
-      "fingerprint": "9ff7999c5d1a014444cb31875407d9b7b94c3dd4da9c1fec12be92e1fcb7b77b",
-      "seen_at": "2026-05-04T11:33:48.202894+00:00"
+      "fingerprint": "1e99becea1c7552bee907d00a4d8d75c3b9184343fe99080c0b3abe9ee8505f5",
+      "seen_at": "2026-05-04T22:48:53.663983+00:00"
+    },
+    {
+      "source": "unicef",
+      "title": "Long-Term Agreement (LTA) for Individual Consultant as International Consultants Systems Strengthening & Governance, WASH, Remote based, UNICEF, Req 592815",
+      "url": "https://jobs.unicef.org/en-us/job/592815/longterm-agreement-lta-for-individual-consultant-as-international-consultants-systems-strengthening-governance-wash-remote-based-unicef-req-592815",
+      "location": null,
+      "posted_at": null,
+      "description": null,
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "9e1f05410b17a6371b7ba2efa4939dd756bd750cfd282d0478452620e4264108",
+      "seen_at": "2026-05-04T22:48:53.663990+00:00"
+    },
+    {
+      "source": "unicef",
+      "title": "Data system and analysis consultant, PME Kenya, Nairobi, 7 months, remote, open only for national consultants #592756",
+      "url": "https://jobs.unicef.org/en-us/job/592756/data-system-and-analysis-consultant-pme-kenya-nairobi-7-months-remote-open-only-for-national-consultants-592756",
+      "location": null,
+      "posted_at": null,
+      "description": null,
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "c99c69e1e2aaed150764010c60a9bec1c4be9da6a5b5dddc812f25762f15a6fb",
+      "seen_at": "2026-05-04T22:48:53.663998+00:00"
+    },
+    {
+      "source": "unicef",
+      "title": "LANGUAGE CONSULTANT, Investigation section, OIAI, 12 months, Nairobi, Kenya (Remote), # 592806",
+      "url": "https://jobs.unicef.org/en-us/job/592806/language-consultant-investigation-section-oiai-12-months-nairobi-kenya-remote-592806",
+      "location": null,
+      "posted_at": null,
+      "description": null,
+      "organization": "UNICEF",
+      "raw": {},
+      "fingerprint": "ed8e7c200edee31d78f21153401984dacc7dc4fb431c1f9125a59df8d370d0f5",
+      "seen_at": "2026-05-04T22:48:53.664005+00:00"
     },
     {
       "source": "watch-emb-sweden",
-      "title": "[check page] Embassy of Sweden Argentina — rev 9a35fb6ad3de",
+      "title": "[check page] Embassy of Sweden Argentina — rev 12e1e7f36cd2",
       "url": "https://www.swedenabroad.se/es/embajada/argentina-buenos-aires/actualidad/noticias/",
       "location": "Argentina",
       "posted_at": null,
       "description": "Sweden Abroad Go to content Sweden Abroad Buscar Menu Embassies Svensklistan UD Resklar - på regeringen.se Data protection policy About cookies Tillgänglighetsredogörelse För svenskar Argentina Servicios consulares en Argentina Votar en Argentina Pasaportes en Argentina Om olyckan är framme i Argentina Ciudadanía sueca en Argentina Fe de vida en Argentina Gifta sig i Argentina Registro de defunció",
       "organization": "Embassy of Sweden Argentina",
       "raw": {},
-      "fingerprint": "77d554551557db2f21eda66e597845719ec824328a5e40c01853d6bc4e5c6a8d",
-      "seen_at": "2026-05-04T11:33:48.202905+00:00"
-    },
-    {
-      "source": "watch-emb-turkey",
-      "title": "[check page] Embassy of Türkiye Argentina — rev c745f0d10dca",
-      "url": "https://buenosaires-emb.mfa.gov.tr/Mission/Announcements",
-      "location": "Argentina",
-      "posted_at": null,
-      "description": "REPÚBLICA DE TÜRKİYE EMBAJADA DE LA REPÚBLICA DE TÜRKİYE EN BUENOS AIRES Anasayfa Embajada Embajada Anuncios Discursos Embajadores anteriores Notas informativas Trámites consulares Contacto Español Türkçe Español Randevu Al Türk Vatandaşları İçin Konsolosluk İşlemleri Yabancılar İçin Vize Ön Başvuru Randevu Sorgula Randevu İptal/Sorgula Türk Vatandaşları için Randevu Sorgulama Yabancılar için Vize",
-      "organization": "Embassy of Türkiye Argentina",
-      "raw": {},
-      "fingerprint": "25b5a76982faf7e176cc291d2e3a16ecbeabe080b92072c50e3812929f2ec095",
-      "seen_at": "2026-05-04T11:33:48.202913+00:00"
+      "fingerprint": "c27d305aac6dbdc7eab0b547c0b0f5252d574e5514c8be3a88ce9b93ad55c767",
+      "seen_at": "2026-05-04T22:48:53.664013+00:00"
     },
     {
       "source": "watch-emb-japan",
-      "title": "[check page] Embassy of Japan Argentina — rev 7c9fe458747b",
+      "title": "[check page] Embassy of Japan Argentina — rev 55ef85073a29",
       "url": "https://www.ar.emb-japan.go.jp/itprtop_es/index.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.e818d017.1777894418.b46825 https://errors.edgesuite.net/18.e818d017.1777894418.b46825",
+      "description": "Access Denied You don't have permission to access \"http://www.ar.emb-japan.go.jp/itprtop_es/index.html\" on this server. Reference #18.2d51db17.1777934925.325efa61 https://errors.edgesuite.net/18.2d51db17.1777934925.325efa61",
       "organization": "Embassy of Japan Argentina",
       "raw": {},
-      "fingerprint": "54bc80d785c554146232312269d9123e4c34fda6ac672cd76479cd4595733e1c",
-      "seen_at": "2026-05-04T11:33:48.202921+00:00"
+      "fingerprint": "329eb63edc1fab7f45b50ea6a04e0ab890eaf5079f4b34e3e9b6022ddb92592b",
+      "seen_at": "2026-05-04T22:48:53.664022+00:00"
     },
     {
       "source": "watch-emb-greece",
-      "title": "[check page] Embassy of Greece Argentina — rev 5c1bf3afb69f",
+      "title": "[check page] Embassy of Greece Argentina — rev b6ffb0ada3ed",
       "url": "https://www.mfa.gr/missionsabroad/es/argentina.html",
       "location": "Argentina",
       "posted_at": null,
-      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.171c2117.1777894427.416866de https://errors.edgesuite.net/18.171c2117.1777894427.416866de",
+      "description": "Access Denied You don't have permission to access \"http://www.mfa.gr/missionsabroad/es/argentina.html\" on this server. Reference #18.78362f17.1777934933.1bf8ca4c https://errors.edgesuite.net/18.78362f17.1777934933.1bf8ca4c",
       "organization": "Embassy of Greece Argentina",
       "raw": {},
-      "fingerprint": "e828f64c26f832c73b4c8ddc4445249967c089c37ae60bd659fe44086aa95bbb",
-      "seen_at": "2026-05-04T11:33:48.202929+00:00"
+      "fingerprint": "4e6a9e9a0c147cae1fd9076d73a9cab3dd4cdcefbb95d45eab6608d5a3fbfacb",
+      "seen_at": "2026-05-04T22:48:53.664029+00:00"
     }
   ]
 }
